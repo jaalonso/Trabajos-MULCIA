@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Diciembre 2018
 
++ 06-Dic-18: Postdoc positions in formal modelling and verification. 
+  University of Oslo. http://bit.ly/2E4BYzr #PostDoc #CompSci 
+
++ 06-Dic-18: PhD studentship at UCL: A coalgebraic framework for
+  reductive logic and proof-search. http://bit.ly/2E3YmJt #PhD #Logic
+  #CompSci 
+
 + 03-Dic-18: Post-doctoral research and development position at the
   University of Barcelona. http://bit.ly/2QAZUkA #PostDoc #CompSci #ITP
   #Coq 
