@@ -11,6 +11,19 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Diciembre 2018
 
++ 09-Dic-18: PhD student position on interface reasoning, London
+  (England). http://bit.ly/2QEczUd #PhD #CompSci #Logic 
+
++ 09-Dic-18: Postdoctoral position in Knowledge Representation, Utrecht
+  (The Netherlands). http://bit.ly/2QFdxiV #PostDoc #CompSci 
+
++ 09-Dic-18: PhD student position on semidefinite programming, Paris
+  (France). http://bit.ly/2Sw6zKq #PhS #CompSci 
+
++ 07-Dic-18: Research position in verified confidentiality for weak
+  memory concurrency, Melbourne. http://bit.ly/2SyPBed #PhD #PostDoc
+  #CompSci #IsabelleHOL 
+
 + 06-Dic-18: Postdoc positions in formal modelling and verification. 
   University of Oslo. http://bit.ly/2E4BYzr #PostDoc #CompSci 
 
