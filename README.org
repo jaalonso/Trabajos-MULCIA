@@ -11,6 +11,30 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Diciembre 2018
 
++ 14-Dic-18: PhD studentship on "Probabilistic property-based testing"
+  at the University of Edinburgh. http://bit.ly/2SQaCkY #PhD #CompSci
+  #FunctionalProgramming 
+
++ 14-Dic-18: PhD position in deductive verification of safety-critical
+  embedded software at KTH Royal Institute of Technology. 
+  http://bit.ly/2SRNxyp #PhD #CompSci 
+
++ 11-Dic-18: Post-doc position in the field of Formal Methods at
+  Fondazione Bruno Kessler. http://bit.ly/2QIw3qN #PostDoc #CompSci 
+
++ 11-Dic-18: PhD Studentship at UCL: A coalgebraic framework for
+  reductive logic and proof-search. http://bit.ly/2QO2Vym #PhD #CompSci
+  #Logic 
+
++ 11-Dic-18: PhD Studentships at UCL: Interface reasoning for
+  interacting systems. http://bit.ly/2SExTGy #PhD #CompSci 
+
++ 11-Dic-18: PhD student position on coalgebra and logic, London
+  (England). http://bit.ly/2QOeGEO #PhD #Logic 
+
++ 10-Dic-18: PhD studentships at UCL: Interface reasoning for
+  interacting systems. http://bit.ly/2SExTGy #PhD #CompSci 
+
 + 09-Dic-18: PhD student position on interface reasoning, London
   (England). http://bit.ly/2QEczUd #PhD #CompSci #Logic 
 
@@ -44,7 +68,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
   prover. http://bit.ly/2QASnlX #PhD #CompSci #FunctionalProgramming
   #Haskell 
 
-* Noviembre 2018
+*** Noviembre 2018
 
 + 30-Nov-18: Postdoc position in quantum programming languages at
   Tulane. http://bit.ly/2DSVsHu #PostDoc #CompSci 
@@ -151,7 +175,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 05-Nov-18: Two PhD student positions in theoretical computer science,
   London (England). http://bit.ly/2SNtLVs #PhD #CompSci 
 
-* Octubre 2018
+*** Octubre 2018
 
 + 31-Oct-18: 2 PostDoc and 2 PhD student positions in KRR at Nova
   University Lisboa. http://bit.ly/2PCeXKm #PhD #PostDoc #CompSci 
