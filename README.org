@@ -11,6 +11,24 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Diciembre 2018
 
++ 22-Dic-18: Two PhD student positions in reliability and trust,
+  Luxembourg (Luxembourg). http://bit.ly/2RjiVZz #PhD #CompSci 
+
++ 22-Dic-18: Four PhD student positions on interface reasoning for
+  interacting systems, London (England). http://bit.ly/2RbdPy7 #PhD
+  #CompSci  
+
++ 22-Dic-18: Postdoc position at Colorado in data-driven program
+  analysis with potential industrial applications. University of
+  Colorado Boulder. http://bit.ly/2GykpuF #PostDoc #CompSci 
+
++ 22-Dic-18: Postdoc Positions at KTH and Chalmers on Cyber-Physical
+  Systems (with CakeML). http://bit.ly/2GxI3ar #PostDoc #CompSci 
+
++ 22-Dic-18: Postdoctoral researcher in programming languages and
+  machine learning at Penn State. http://bit.ly/2Rbd8VL #PostDoc
+  #CompSci 
+
 + 14-Dic-18: PhD studentship on "Probabilistic property-based testing"
   at the University of Edinburgh. http://bit.ly/2SQaCkY #PhD #CompSci
   #FunctionalProgramming 
