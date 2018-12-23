@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Diciembre 2018
 
++ 23-Dic-18: PhD student position in AI (explaining ontological
+  inferences), Ulm (Germany). http://bit.ly/2GAPM7L #PhD #CompSci #AI 
+
 + 22-Dic-18: Two PhD student positions in reliability and trust,
   Luxembourg (Luxembourg). http://bit.ly/2RjiVZz #PhD #CompSci 
 
