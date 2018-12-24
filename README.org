@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Diciembre 2018
 
++ 24-Dic-18: Postdoc position at Chalmers, in verification of machine
+  learning algorithms. http://bit.ly/2GDUVMx #PostDoc #CompSci #AI #ML 
+
 + 23-Dic-18: PhD student position in AI (explaining ontological
   inferences), Ulm (Germany). http://bit.ly/2GAPM7L #PhD #CompSci #AI 
 
