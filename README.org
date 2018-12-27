@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Diciembre 2018
 
++ 17-Dic-18: Several post-doc positions are available at the National
+  Satellite of Excellence in Trustworthy Software Systems at the
+  National University of Singapore. http://bit.ly/2GJswVa #PostDoc
+  #CompSci 
+
 + 24-Dic-18: Postdoc position at Chalmers, in verification of machine
   learning algorithms. http://bit.ly/2GDUVMx #PostDoc #CompSci #AI #ML 
 
