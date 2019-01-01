@@ -7,9 +7,17 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+** 2019
+
+* Enero 2019
+
++ 01-Ene-19: Postdoc position at the University of Minnesota in type
+  theory and programming language theory. http://bit.ly/2GQWXZC #PostDoc
+  #CompSci 
+
 ** 2018
 
-* Diciembre 2018
+*** Diciembre 2018
 
 + 17-Dic-18: Several post-doc positions are available at the National
   Satellite of Excellence in Trustworthy Software Systems at the
