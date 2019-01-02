@@ -15,6 +15,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
   theory and programming language theory. http://bit.ly/2GQWXZC #PostDoc
   #CompSci 
 
++ 02-Ene-19: PhD student position in formal verification of ethical
+  principles of AI, Umea (Sweden). http://bit.ly/2RoW1js #PhD #CompSci
+  #AI 
+
++ 02-Ene-19: PhD student position in cyber security, Guildford
+  (England). http://bit.ly/2GSg99r #PhD #CompSci 
+
 ** 2018
 
 *** Diciembre 2018
