@@ -11,9 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Enero 2019
 
-+ 01-Ene-19: Postdoc position at the University of Minnesota in type
-  theory and programming language theory. http://bit.ly/2GQWXZC #PostDoc
-  #CompSci 
++ 03-Ene-19: Two postdoctoral or PhD student positions on explaining
+  description logic, Dresden (Germany). http://bit.ly/2RoB5ZR  #PhD
+  #PostDoc #CompSci 
+
++ 03-Ene-19: Postdoctoral position (1y) on the Goedel hierarchy, Warsaw
+  (Poland). http://bit.ly/2GVaEH1 #PostDoc #Logic 
 
 + 02-Ene-19: PhD student position in formal verification of ethical
   principles of AI, Umea (Sweden). http://bit.ly/2RoW1js #PhD #CompSci
@@ -21,6 +24,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 + 02-Ene-19: PhD student position in cyber security, Guildford
   (England). http://bit.ly/2GSg99r #PhD #CompSci 
+
++ 01-Ene-19: Postdoc position at the University of Minnesota in type
+  theory and programming language theory. http://bit.ly/2GQWXZC #PostDoc
+  #CompSci 
 
 ** 2018
 
