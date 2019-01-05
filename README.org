@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Enero 2019
 
++ 05-Ene-19: PostDoc position at Inria Paris on formally secure
+  compilation in Coq. http://bit.ly/2RsqE7y #PostDoc #CompSci  
+
++ 05-Ene-19: PhD candidate in Big Data Management and
+  Science. University of Amsterdam. http://bit.ly/2RvR749 #PhD #CompSci 
+
 + 03-Ene-19: Two postdoctoral or PhD student positions on explaining
   description logic, Dresden (Germany). http://bit.ly/2RoB5ZR  #PhD
   #PostDoc #CompSci 
