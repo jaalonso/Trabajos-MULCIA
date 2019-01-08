@@ -11,6 +11,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Enero 2019
 
++ 08-Ene-19: Postdoc position at the University of Minnesota in type
+  theory and programming language theory. http://bit.ly/2Rzihai. 
+  #PostDoc #CompSci 
+
++ 08-Ene-19: Postdoctoral position in satisfiability modulo theory (SMT)
+  for theory of non-linear real arithmetic and ordinary differential
+  equations at ENSTA  ParisTech, Palaiseau France. http://bit.ly/2H0qD6S
+  #PostDoc #CompSci 
+
++ 05-Ene-19: Seeking a lecturer for 6hs on proof-assistants in
+  Padova. http://bit.ly/2RyXm78 #ITP #Coq #Agda #Lean 
+
 + 05-Ene-19: PostDoc position at Inria Paris on formally secure
   compilation in Coq. http://bit.ly/2RsqE7y #PostDoc #CompSci  
 
