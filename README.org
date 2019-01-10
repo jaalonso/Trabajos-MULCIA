@@ -9,7 +9,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2019
 
-* Enero 2019
+* Enero 2019 
+
++ 10-Ene-19: MSc and PhD positions at Queen's University, in the theory
+  and practice of programming languages. http://bit.ly/2RKDqOG #PhD
+  #CompSci 
 
 + 09-Ene-19: Postdoc positions in PL and distributed systems at IMDEA,
   Madrid. http://bit.ly/2GZsQzi #PostDoc #CompSci 
