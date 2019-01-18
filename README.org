@@ -11,6 +11,22 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Enero 2019 
 
++ 18-Ene-19: PhD student (post-doc) in formal modeling and analysis of
+  systems. http://bit.ly/2HkiWZk #PhD #PostDoc #CompSci 
+
++ 18-Ene-19: 3 year postdoctoral position in logic, automated reasoning
+  and coalgebra, London (United Kingdom). http://bit.ly/2HkD8KJ #PostDoc
+  #CompSci 
+
++ 18-Ene-19: Research associate in computational effects modelling and
+  axiomatics. http://bit.ly/2Hk7sVG #PostDoc #CompSci 
+
++ 18-Ene-19: Post-doc or permanent job offer in R compilation in
+  Toulouse, France. http://bit.ly/2HhOOgY #PostDoc #CompSci 
+
++ 18-Ene-19: Faculty position in logic and verification at
+  UCL. http://bit.ly/2RPTUFx #Job #CompSci 
+
 + 10-Ene-19: MSc and PhD positions at Queen's University, in the theory
   and practice of programming languages. http://bit.ly/2RKDqOG #PhD
   #CompSci 
