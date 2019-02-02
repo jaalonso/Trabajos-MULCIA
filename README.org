@@ -9,7 +9,30 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2019
 
-* Enero 2019 
+* Febrero 2019
+
++ 02-Feb-19: PhD position in concurrency/programming languages/formal methods at
+  CWI (Amsterdam). http://bit.ly/2sZa1CD #PhD #CompSci 
+
++ 02-Feb-19: Expressions of interest for a postdoc position in security and
+  privacy at TU Wien. http://bit.ly/2HKGgzK #PostDoc #CompSci 
+
++ 02-Feb-19: 3 year postdoctoral position in logic, automated reasoning and
+  coalgebra, London (United Kingdom). http://bit.ly/2HkD8KJ #PostDoc #CompSci 
+
++ 02-Feb-19: PhD student position in neural dialogue modelling, Amsterdam (The
+  Netherlands). http://bit.ly/2HOJS3x #PhD #CompSci 
+
++ 02-Feb-19: 9m student position (.75 fte) on complexity of mathematical proofs,
+  Prague (Czech Republic). http://bit.ly/2HJQ392 #PhD #PostDoc #CompSci 
+
++ 02-Feb-19: Two PhD studentships in "Truth & Semantics", Bristol
+  (England). http://bit.ly/2HLZSDA #PhD #Logic #CompSci 
+
++ 02-Feb-19: PhD student or postdoc position in formal methods, Konstanz
+  (Germany). http://bit.ly/2HJoNYl #PhD #CompSci 
+
+*** Enero 2019 
 
 + 18-Ene-19: PhD student (post-doc) in formal modeling and analysis of
   systems. http://bit.ly/2HkiWZk #PhD #PostDoc #CompSci 
