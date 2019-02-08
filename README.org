@@ -11,10 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Febrero 2019
 
-+ 08-Feb-19: 1-year Post-Doc position at University of Verona: 1-year Post-Doc
-  Position at University of Verona: formal methods and quantum computation ,
-  with a particular focus on quantum languages design and
-  implementation. http://bit.ly/2t8gz1Q #PostDoc #CompSci 
++ 08-Feb-19: 1-year Post-Doc position at University of Verona: formal methods
+  and quantum computation , with a particular focus on quantum languages design
+  and implementation. http://bit.ly/2t8gz1Q #PostDoc #CompSci  
 
 + 08-Feb-19: Multiple research positions (PhD/Postdoc/Scientific Programmer) in
   the areas of software verification, logics for concurrent programs, and
