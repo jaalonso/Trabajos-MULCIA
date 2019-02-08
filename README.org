@@ -11,7 +11,24 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Febrero 2019
 
-+ 05-Feb-19: PhD positions on verified mathematics at VU Amsterdam. http://bit.ly/2I6CoJB #PhD #CompSci #ITP #LeanProver
++ 08-Feb-19: 1-year Post-Doc position at University of Verona: 1-year Post-Doc
+  Position at University of Verona: formal methods and quantum computation ,
+  with a particular focus on quantum languages design and
+  implementation. http://bit.ly/2t8gz1Q #PostDoc #CompSci 
+
++ 08-Feb-19: Multiple research positions (PhD/Postdoc/Scientific Programmer) in
+  the areas of software verification, logics for concurrent programs, and
+  language-based security. IMDEA Software Institute, Madrid,
+  Spain. http://bit.ly/2tf8Crq #PhD #PostDoc #CompSci 
+
++ 08-Feb-19: Postdoc position on automatic parallelization of Dalvik bytecode at
+  CNAM, Paris. http://bit.ly/2t9LYkm #PostDoc #CompSci 
+
++ 08-Feb-19: PhD position in concurrency/programming languages/formal methods at
+  CWI (Amsterdam). http://bit.ly/2sZa1CD #PhD #CompSci 
+
++ 05-Feb-19: PhD positions on verified mathematics at VU
+  Amsterdam. http://bit.ly/2I6CoJB #PhD #CompSci #ITP #LeanProver
 
 + 03-Feb-19: PhD student position in Machine Learning, Data Mining, Semantic
   Technologies, and NLP, Hannover (Germany). http://bit.ly/2HOtoZm #PhD #CompSci
