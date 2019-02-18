@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Febrero 2019
 
++ 17-Feb-19: PhD student position in Logics for Privacy, Bourges
+  (France). https://goo.gl/ss8PVe #PhD #CompSci 
+
 + 10-Feb-19: Fully funded PhD position on SAT solving and fixed-parameter
   algorithms. Technische Universität Wien. http://bit.ly/2UNF4Nr #PhD #CompSci  
 
