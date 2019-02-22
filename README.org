@@ -11,6 +11,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Febrero 2019
 
++ 22-Feb-19: PhD vacancy in formally verified crypto at the Concordium
+  blockchain research center in Aarhus. http://bit.ly/2Eo8ufZ #PhD #CompSci  
+
++ 22-Feb-19: Master Internship at Université d’Orléans, France. Reactive
+  synchronous programming. http://bit.ly/2EoYqDo #PhD #CompSci
+
++ 22-Feb-19: 12 fully-funded 3-year PhD scholarships in PL at
+  Kent. http://bit.ly/2VcCiBJ #PhD #CompSci 
+
++ 22-Feb-19: Fully-funded PhD studentship on weak-memory concurrency (University
+  of Kent). http://bit.ly/2Vdg3vh #PhD #CompSci 
+
 + 17-Feb-19: PhD student position in Logics for Privacy, Bourges
   (France). https://goo.gl/ss8PVe #PhD #CompSci 
 
