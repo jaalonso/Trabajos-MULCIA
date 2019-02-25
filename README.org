@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Febrero 2019
 
++ 25-Feb-19: Postdoc in formal methods and IoT security. Technical University of
+  Denmark. http://bit.ly/2VgANlV #PostDoc #CompSci  
+
++ 25-Feb-19: Postdoc in formal methods and security intelligence. Technical
+  University of Denmark. http://bit.ly/2EwkJXK #PostDoc #CompSci  
+
 + 22-Feb-19: PhD vacancy in formally verified crypto at the Concordium
   blockchain research center in Aarhus. http://bit.ly/2Eo8ufZ #PhD #CompSci  
 
