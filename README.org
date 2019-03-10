@@ -12,6 +12,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Marzo 2019
 
++ 10-Mar-19: 2 PhD candidates in proof systems for modal fixpoint
+  logics. University of Amsterdam. http://bit.ly/2F0TuVx #PhD #Logic   
+
++ 10-Mar-19: Postdoctoral researcher in Proof Systems for Modal Fixpoint
+  Logics. University of Amsterdam. http://bit.ly/2O0pHiN #PostDoc #Logic  
+
 + 05-Mar-19: PhD Position in Software Security at KTH Royal Institute of
   Technology. http://bit.ly/2ENieQO #PhD #CompSci 
 
