@@ -12,6 +12,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Marzo 2019
 
++ 13-Mar-19: Post-doctoral position  to formally prove algorithms and code used
+  by the GNU MPFR library. Inria Nancy - Grand Est. http://bit.ly/2F98ErR
+  #PostDoc #CompSci 
+
++ 13-Mar-19: PhD Scholarship on History and Philosophy of Computing (Université
+  de Lille and University of Kent). http://bit.ly/2O7Ng9r #PhD #CompSci 
+
++ 13-Mar-19: Open Postdoc position at IMDEA to work together on liquid
+  relational types. http://bit.ly/2Fbn2A1 #PostDoc #CompSci 
+
 + 10-Mar-19: 2 PhD candidates in proof systems for modal fixpoint
   logics. University of Amsterdam. http://bit.ly/2F0TuVx #PhD #Logic   
 
