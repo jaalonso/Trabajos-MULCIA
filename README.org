@@ -12,6 +12,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Marzo 2019
 
++ 14-Mar-19: Postdoctoral position in category theory, Sydney
+  (Australia). http://bit.ly/2O3Z8sS #PostDoc #CompSci 
+
++ 14-Mar-19: Two PhD student position in individual & collective reasoning,
+  Luxembourg (Luxembourg). http://bit.ly/2Fe3Dyp #PhD #CompSci 
+
++ 14-Mar-19: Two PhD student scholarships in computer science (including logic),
+  Swansea (Wales). http://bit.ly/2O3M07d #PhD #CompSci 
+
 + 13-Mar-19: Post-doctoral position  to formally prove algorithms and code used
   by the GNU MPFR library. Inria Nancy - Grand Est. http://bit.ly/2F98ErR
   #PostDoc #CompSci 
