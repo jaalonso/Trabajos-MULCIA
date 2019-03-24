@@ -12,6 +12,45 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Marzo 2019
 
++ 24-Mar-19: Postdoc proposal in Paris on Proof interoperability with
+  Isabelle. http://bit.ly/2Ft1ai7 #PostDoc #CompSci #ITP #IsabelleHOL 
+
++ 24-Mar-19: Postdoctoral position (3y) on truth and semantics, Bristol
+  (England). http://bit.ly/2FmGLvi #PostDoc #Logic 
+
++ 24-Mar-19: Postdoctoral position in symmetry in computational complexity,
+  Prague. http://bit.ly/2FoDFH9 #PostDoc #CompSci 
+
++ 24-Mar-19: PhD scholarships at the Logic and Computation research group,
+  ANU. http://bit.ly/2uqLQOf #PhD #CompSci 
+
++ 24-Mar-19: PhD student positions in theory and foundations of CS, Warwick
+  (England). http://bit.ly/2FiXMX2 #PhD CompSci 
+
++ 24-Mar-19: Postdoctoral positions in computational linguistics, Gothenburg
+  (Sweden). http://bit.ly/2FoahAR #PostDoc #CompSci 
+
++ 24-Mar-19: PhD student scholarship in logic, knowledge representation and
+  databases, Liverpool (England). http://bit.ly/2FsEqiv #PhD #CompSci 
+
++ 21-Mar-19: PhD Position on explainable data science using formal
+  verification. Radboud University. http://bit.ly/2HBqPJ8 #PhD #CompSci 
+
++ 21-Mar-19: PhD position in Computational Mathematics at Stockholm
+  University. http://bit.ly/2Hw0bBn #PhD #CompSci 
+
++ 21-Mar-19: PhD student in programming languages/formal verification at TU
+  Delft. http://bit.ly/2Hw0nAB #PhD #CompSci 
+
++ 21-Mar-19: PhD student position in dependence logic, Helsinki
+  (Finland). http://bit.ly/2uctaBK #PhD #CompSci #Logic 
+
++ 17-Mar-19: PhD student position in dependence logic, Helsinki
+  (Finland). http://bit.ly/2uctaBK #PhD #CompSci #Logic 
+
++ 17-Mar-19: PhD student position in formal verification, Delft (The
+  Netherlands). http://bit.ly/2W6Gqnk #PhD #CompSci 
+
 + 14-Mar-19: Postdoctoral position in category theory, Sydney
   (Australia). http://bit.ly/2O3Z8sS #PostDoc #CompSci 
 
