@@ -12,6 +12,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Marzo 2019
 
++ 25-Mar-19: Postdoctoral position at Purdue University to work on topics such
+  as program synthesis, relational reasoning and reliable
+  AI. http://bit.ly/2YdXCZM #PostDoc #CompSci #AI 
+
++ 25-Mar-19: Ph.D. fellowships at University of Copenhagen at the Programming
+  Languages and Theory of Computation section at the Department of Computer
+  Science. University of Copenhagen. http://bit.ly/2TuftYT #PhD CompSci  
+
++ 25-Mar-19: Postdoc positions within the DIAPASoN (Differential Program
+  Semantics) project. Università degli Studi di Bologna. http://bit.ly/2TtR9GK
+  #PostDoc #CompSci 
+
 + 24-Mar-19: Postdoc proposal in Paris on Proof interoperability with
   Isabelle. http://bit.ly/2Ft1ai7 #PostDoc #CompSci #ITP #IsabelleHOL 
 
