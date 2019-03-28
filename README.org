@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Marzo 2019
 
++ 28-Mar-19: PhD student positions on programming languages and systems for
+  security and privacy at Chalmers. http://bit.ly/2HLPo63 #PhD #CompSci 
+
 + 25-Mar-19: Postdoctoral position at Purdue University to work on topics such
   as program synthesis, relational reasoning and reliable
   AI. http://bit.ly/2YdXCZM #PostDoc #CompSci #AI 
