@@ -12,6 +12,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Marzo 2019
 
++ 30-Mar-19: PhD position efficient and natural proofs and algorithms at the
+  University of Bath. http://bit.ly/2uJj1g9 #PhD #Logic #CompSci 
+
++ 30-Mar-19: PhD Studentship at UCL: A coalgebraic framework for reductive logic
+  and proof-search. http://bit.ly/2I1KS2F #PhD #Logic 
+
 + 28-Mar-19: PhD student positions on programming languages and systems for
   security and privacy at Chalmers. http://bit.ly/2HLPo63 #PhD #CompSci 
 
