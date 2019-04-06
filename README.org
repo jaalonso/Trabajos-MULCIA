@@ -12,6 +12,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Abril 2019
 
++ 06-Apr-19: Two PhD student positions in justification logic, Bern
+  (Switzerland). http://bit.ly/2WMO7zd #PhD #Logic #CompSci 
+
++ 06-Abr-19: Fully-funded PhD position at Inria Lille (France) to work on the
+  "Design of correct-by-construction self-adaptive cloud applications using
+  formal methods". http://bit.ly/2I1HLc0 #PhD #CompSci 
+
 + 04-Abr-19: Postdoctoral position in neural dialogue modelling, Amsterdam (The
   Netherlands). http://bit.ly/2IbKlvg #PostDoc #CompSci 
 
