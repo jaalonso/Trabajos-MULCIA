@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Abril 2019
 
++ 10-Abr-19: Open position: Formal verification engineer (m/f/x) at HENSOLDT
+  Cyber in Munich. http://bit.ly/2IdllEB #Job #CompSci 
+
 + 09-Abr-19: Research position in verified confidentiality for weak memory
   concurrency. University of Melbourne. http://bit.ly/2WVjmYU #PhD #PostDoc
   #CompSci 
