@@ -12,6 +12,30 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Abril 2019
 
++ 18-Abr-19: CIFRE PhD thesis position at Siemens Mobility,
+  France. http://bit.ly/2XgivCi #PhD #CompSci 
+
++ 18-Abr-19: PhD position on formal methods for multi-agent systems at TU Wien
+  (Vienna University of Technology). http://bit.ly/2IoQyVL #PhD #CompMath 
+
++ 18-Abr-19: PhD position: Algorithmic aspects of automated theorem proving -
+  University of Bergen (Norway). http://bit.ly/2IsaAyv #PhD #CompSci 
+
++ 18-Abr-19: PhD on modular verification and proof of cyber-physical systems
+  (Inria & Mitsubishi Electric, Rennes, France). http://bit.ly/2XjGZKY #PhD
+  #CompSci 
+
++ 18-Abr-19: Open PhD position at Radboud University Nijmegen in the topic
+  "Implicit complexity through  higher-order rewriting". http://bit.ly/2XovBNX
+  #PhD #CompSci
+
++ 18-Abr-19: Two postdoctoral positions in ontology-based management of
+  quantitative data (logicians wanted), Liverpool
+  (England). http://bit.ly/2IvtaFY #PostDoc #CompSci
+
++ 18-Abr-19: Two PhD or postdoctoral positions in knowledge-based systems,
+  Dresden (Germany). http://bit.ly/2IqrLQZ #PhD #PostDoc #CompSci
+
 + 10-Abr-19: Open position: Formal verification engineer (m/f/x) at HENSOLDT
   Cyber in Munich. http://bit.ly/2IdllEB #Job #CompSci 
 
