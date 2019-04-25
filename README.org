@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Abril 2019
 
++ 25-Abr-19: PhD position on formal methods for multi-agent systems at TU Wien
+  (Vienna University of Technology). http://bit.ly/2W1aJfr #PhD #CompSci 
+
 + 18-Abr-19: CIFRE PhD thesis position at Siemens Mobility,
   France. http://bit.ly/2XgivCi #PhD #CompSci 
 
