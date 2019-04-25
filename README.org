@@ -15,6 +15,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 25-Abr-19: PhD position on formal methods for multi-agent systems at TU Wien
   (Vienna University of Technology). http://bit.ly/2W1aJfr #PhD #CompSci 
 
++ 25-Abr-19: Postdoc in verification of Simulink models. KTH Royal Institute of
+  Technology in Stockholm. http://bit.ly/2W4TjPb #PostDoc #CompSci 
+
++ 25-Abr-19: Postdoctoral position in program analysis, verification or systems
+  at Imperial College London. http://bit.ly/2DyAI6W #PostDoc #CompSci 
+
++ 25-Abr-19: Funded PhD position in program analysis, verification or systems at
+  Imperial College London. http://bit.ly/2DyZCmR #PhD #CompSci   
+
++ 25-Abr-19: Postdoctoral position in quantum theory in
+  Edinburgh. http://bit.ly/2DxQOgR #PostDoc #CompSci 
+
 + 18-Abr-19: CIFRE PhD thesis position at Siemens Mobility,
   France. http://bit.ly/2XgivCi #PhD #CompSci 
 
