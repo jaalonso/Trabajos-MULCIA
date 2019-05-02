@@ -9,6 +9,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2019
 
+* Mayo 2019
+
++ 02-May-19: Postdoc position VirginiaTech: x86-64 binary
+  verification. http://bit.ly/2DK8y8Z #PostDoc #CompSci 
+
++ 03-May-19: PhD student position in logic, Utrecht (The
+  Netherlands). http://bit.ly/2DJZb99 #PhD #CompSci #Logic #Math 
 
 * Abril 2019
 
