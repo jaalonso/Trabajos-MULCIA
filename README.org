@@ -11,6 +11,20 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Mayo 2019
 
++ 06-May-19: Postdoc and PhD positions in logic and semantics for program
+  verification at Aarhus, Denmark. http://bit.ly/2V5swke #PhD #PostDoc #Logic
+  #CompSci 
+
++ 04-May-19: PhD student position in logic and systems verification, London
+  (England). http://bit.ly/2Je3ZY1 #PhD #Logic #CompSci 
+
++ 04-May-19: An applied research position is available at Imagination
+  Technologies (Kings Langley, UK) in the domain of formal verification for
+  arithmetic hardware. http://bit.ly/2JexwAU #Job #CompSci  
+
++ 04-May-19: PostDoc position in program analysis and repair at Ulsan National
+  Institute of Science and Technology. http://bit.ly/2J2JWMW #PostDoc #CompSci 
+
 + 02-May-19: Postdoc position VirginiaTech: x86-64 binary
   verification. http://bit.ly/2DK8y8Z #PostDoc #CompSci 
 
