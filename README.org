@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Mayo 2019
 
++ 07-May-19: Postdoc in categorical semantics of data types at Appalachian
+  State University. http://bit.ly/2J3jXVH #PostDoc #CompSci
+
++ 07-May-19: Phd position at University of Orléans. Reactive synchronous
+  programming: semantics and applications to IOT. http://bit.ly/2Jmsh2g #PhD
+  #CompSci 
+
 + 06-May-19: Postdoc and PhD positions in logic and semantics for program
   verification at Aarhus, Denmark. http://bit.ly/2V5swke #PhD #PostDoc #Logic
   #CompSci 
