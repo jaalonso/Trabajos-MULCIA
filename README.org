@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Mayo 2019
 
++ 21-May-19: The Faculty of Computer Science at Eötvös Loránd University is
+  advertising a PhD position in type theory. http://bit.ly/2VE5L7d #PhD #CompSci 
+
 + 16-May-19: Several PhD and Postdoc positions in formal methods and Web
   security at TU Wien, Austria, funded by ERC Consolidator
   Grant. http://bit.ly/2EdeabX #PhD #PostDoc #CompSci 
