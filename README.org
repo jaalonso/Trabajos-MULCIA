@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Mayo 2019
 
++ 27-May.19: 2 PhD positions on the ChEOPS project in Twente and Eindhoven
+  (Netherlands): Verified construction of correct and optimized parallel
+  software. http://bit.ly/2QtDrDN #PhD #CompSci  
+
 + 27-May-19: Postdoc positions in compositionality and applied category
   theory. Tallinn University of Technology. http://bit.ly/2wplbC9 #PostDoc
   #CompSci 
