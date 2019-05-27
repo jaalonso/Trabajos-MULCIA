@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Mayo 2019
 
++ 27-May-19: Postdoc positions in compositionality and applied category
+  theory. Tallinn University of Technology. http://bit.ly/2wplbC9 #PostDoc
+  #CompSci 
+
++ 27-May-19: Post-doc position UCL/LSE: Interface reasoning for interacting
+  systems. http://bit.ly/2Qq1mUJ #PostDoc #CompSci 
+
 + 21-May-19: The Faculty of Computer Science at Eötvös Loránd University is
   advertising a PhD position in type theory. http://bit.ly/2VE5L7d #PhD #CompSci 
 
