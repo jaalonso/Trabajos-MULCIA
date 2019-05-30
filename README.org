@@ -11,6 +11,22 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Mayo 2019
 
++ 30-May-19: Postdoc in system security and formal methods. KTH Royal Institute
+  of Technology in Stockholm, Sweden. http://bit.ly/2I5TwvD #PostDoc #CompSci 
+
++ 30-May-19: Research Fellow in programming principles, logic, and
+  verification. University College London. http://bit.ly/2I6GCgN #PostDoc
+  #CompSci 
+
++ 30-May-19: Research scientist in machine learning and predictive
+  science. Celgene, Sevilla. http://bit.ly/2I9Unv4 #Job #CompSci 
+
++ 30-May-19: Research scientist mathematical modelling and quantitative systems
+  pharmacology. Celgene, Sevilla http://bit.ly/2I88dya #Job #CompSci #Math 
+
++ 30-May-19: Data Scientist. Emergya, Sevilla. http://bit.ly/2I5sLHC #Job
+  #CompSci 
+
 + 27-May.19: 2 PhD positions on the ChEOPS project in Twente and Eindhoven
   (Netherlands): Verified construction of correct and optimized parallel
   software. http://bit.ly/2QtDrDN #PhD #CompSci  
