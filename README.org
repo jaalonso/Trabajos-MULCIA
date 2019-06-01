@@ -9,6 +9,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2019
 
+* Junio 2019
+
++ 01-Jun-19: Postdoc positions in verification and distributed systems at IMDEA,
+  Madrid. http://bit.ly/2WzP0im #PostDoc #CompSci 
+
 * Mayo 2019
 
 + 30-May-19: Postdoc in system security and formal methods. KTH Royal Institute
