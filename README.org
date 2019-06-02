@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Junio 2019
 
++ 02-Jun-19: Open Postdoc position at IMDEA (Madrid, Spain) to work together on
+  liquid relational types. http://bit.ly/2WEf6k3 #PostDoc #CompSci #Haskell 
+
 + 01-Jun-19: Postdoc positions in verification and distributed systems at IMDEA,
   Madrid. http://bit.ly/2WzP0im #PostDoc #CompSci 
 
