@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Junio 2019
 
++ 08-Jun-19: Looking for Formal Methods Engineer to work at
+  NASA. http://bit.ly/2XGuav3 #Job #CompSci
+
 + 08-Jun-19: Postdoctoral opening at the University of Minnesota related to an
   NSF-funded project entitled "A Higher-Order Framework for Meta-Theoretic
   Reasoning." http://bit.ly/2wGP1Cf #PostDoc #CompSci 
