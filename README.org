@@ -11,6 +11,30 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Junio 2019
 
++ 08-Jun-19: Postdoctoral opening at the University of Minnesota related to an
+  NSF-funded project entitled "A Higher-Order Framework for Meta-Theoretic
+  Reasoning." http://bit.ly/2wGP1Cf #PostDoc #CompSci 
+
++ 08-Jun-19: Two Phd/PostDoc positions, Freiburg University. One project deals
+  with inferrable resource typing. The other project develops new approaches to
+  infer and verify TypeScript signatures from JavaScript
+  sources. http://bit.ly/2XzvbVw #PhD #PostDoc #CompSci 
+
++ 08-Jun-19: Postdoc positions on ERC project FUN2MODEL (From FUNction-based TO
+  MOdel-based automated  probabilistic reasoning for DEep Learning) in 'strong'
+  AI/verification at Oxford. http://bit.ly/2wHZbmf #PostDoc #CompSci 
+
++ 08-Jun-19: 2-year Postdoc Position on Frama-C/E-ACSL, http://bit.ly/2wGZUUV
+  #PostDoc #CompSci 
+
++ 08-Jun-19: A PhD position at Imperial College London. The primary objective of
+  the PhD project is verification of distributed protocols using session
+  types. http://bit.ly/2wLyM6Y #PhD #CompSci  
+
++ 03-Jun-19: 2 PhD studentships on any aspect of functional programming, type
+  theory, logic, category theory, coalgebra etc. MSP group, University of
+  Strathclyde, UK. http://bit.ly/2YZO0RS #PhD #CompSci 
+
 + 02-Jun-19: Open Postdoc position at IMDEA (Madrid, Spain) to work together on
   liquid relational types. http://bit.ly/2WEf6k3 #PostDoc #CompSci #Haskell 
 
