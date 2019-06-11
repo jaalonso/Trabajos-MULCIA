@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Junio 2019
 
++ 11-Jun-19: PostDoc/Research Engineer in IoT Securit at
+  UCLouvain. http://bit.ly/2K97aBG #PostDoc #CompSci 
+
++ 11-Jun-19: Call for Ph.D. in reversible debugging of concurrent
+  programs. http://bit.ly/2K7JZYl #PhD #CompSci 
+
++ 11-Jun-19: PhD and Postdoctoral position at ENS Rennes funded european ERC
+  VESTA (Erified STatic Analysis platform) project. http://bit.ly/2K9jdid #PhD
+  #PostDoc #CompSci 
+
 + 08-Jun-19: Looking for Formal Methods Engineer to work at
   NASA. http://bit.ly/2XGuav3 #Job #CompSci
 
