@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Junio 2019
 
++ 12-Jun-19: PhD project on verification of efficient algorithms in Isabelle/HOL
+  at Manchester. http://bit.ly/2X5Wxph #PhD #CompSci #IsabelleHOL 
+
 + 11-Jun-19: PostDoc/Research Engineer in IoT Securit at
   UCLouvain. http://bit.ly/2K97aBG #PostDoc #CompSci 
 
