@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Junio 2019
 
++ 15-Jun-19: 1 PostDoc Position in applied computer science with a focus on
+  formal methods for verified decision making under
+  uncertainty. http://bit.ly/2ZvfuiP #PostDoc #CompSci  
+
 + 12-Jun-19: PhD project on verification of efficient algorithms in Isabelle/HOL
   at Manchester. http://bit.ly/2X5Wxph #PhD #CompSci #IsabelleHOL 
 
