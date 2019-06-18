@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Junio 2019
 
++ 18-Jun-19: Postdoc on formal methods and their application to verification of
+  computer networks. (Aalborg University, Denmark). http://bit.ly/2WQd29B
+  #PostDoc #CompSci 
+
++ 18-Jun-19: Postdoc/PhD positions at TU Kaiserslautern to work on the ERC
+  project "Algorithmic verification of string-manipulating
+  programs". http://bit.ly/2MSgSKM #PhD #PostDoc #CompSci  
+
 + 15-Jun-19: 1 PostDoc Position in applied computer science with a focus on
   formal methods for verified decision making under
   uncertainty. http://bit.ly/2ZvfuiP #PostDoc #CompSci  
