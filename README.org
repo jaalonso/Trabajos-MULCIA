@@ -11,6 +11,19 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Junio 2019
 
++ 19-Jun-19: Postdoc position on quantified effects at Reykjavik
+  University. http://bit.ly/2WXVSXT #PostDoc #CompSci 
+
++ 19-Jun-19: Research assistant / PhD Student / Post-Doc position in formal
+  methods for software and systems engineering. http://bit.ly/2MZxYXc #PhD
+  #PostDoc #CompSci 
+
++ 19-Jun-19: Thales (France) is hiring an expert engineer in formal
+  methods. http://bit.ly/2MWs0WU #Job #CompSci 
+
++ 19-Jun-19: PhD student or postdoctoral position in Logic / Algorithmic Model
+  Theory, Darmstadt (Germany). http://bit.ly/2WPMs0s #PhD #PostDoc #Logic 
+
 + 18-Jun-19: Postdoc on formal methods and their application to verification of
   computer networks. (Aalborg University, Denmark). http://bit.ly/2WQd29B
   #PostDoc #CompSci 
