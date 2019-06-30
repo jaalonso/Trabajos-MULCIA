@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Junio 2019
 
++ 30-Jun-19: Two PhD positions in formal methods in system engineering group at
+  TU Wien, Austria. http://bit.ly/2RJRq94 #PhD #CompSci 
+
 + 19-Jun-19: Postdoc position on quantified effects at Reykjavik
   University. http://bit.ly/2WXVSXT #PostDoc #CompSci 
 
