@@ -9,6 +9,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2019
 
+* Julio 2019
++ 02.Jul-19: PhD Position in logic and formal verification. University of
+  Barcelona, Spain. http://bit.ly/2J71yGt #PhD #CompSci #ITP #Coq 
+
++ 02-Jul-19: Postdoc position at National University of Singapore on program
+  synthesis. http://bit.ly/2J4233N #PostDoc #CompSci 
+
++ 01-Jul-19: UNSW Sydney seeking a postdoc in programming languages and
+  verification. http://bit.ly/2Xy5s39 #PostDoc #CompSci #ITP. 
+
 * Junio 2019
 
 + 30-Jun-19: Two PhD positions in formal methods in system engineering group at
