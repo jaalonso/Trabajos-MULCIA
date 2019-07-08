@@ -10,6 +10,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2019
 
 * Julio 2019
+
++ 08-Jul_19: Post-doc opportunity at UNSW Sydney in programming languages and
+  verification. http://bit.ly/2YFpW75 #PostDoc #CompSci #ITP
+
 + 02.Jul-19: PhD Position in logic and formal verification. University of
   Barcelona, Spain. http://bit.ly/2J71yGt #PhD #CompSci #ITP #Coq 
 
