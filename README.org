@@ -11,6 +11,28 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Julio 2019
 
++ 13-Jul-19: Two Lectureships / Associate Professorships on Responsible AI, Umea
+  (Sweden). http://bit.ly/32kGfZv #Job #CompSci 
+
++ 13-Jul-19: PhD student position in formal logic for AI, Bergen
+  (Norway). http://bit.ly/2NWrFUI #PhD #CompSci #AI 
+
++ 13-Jul-19: PhD student position in formal methods, Vienna
+  (Austria). http://bit.ly/2NU8wmy #PhD #CompSci 
+
++ 13-Jul-19: PhD student position on machine learning techniques, Liverpool
+  (England). http://bit.ly/2l7Eeyp #PhD #CompSci #AI #ML 
+
++ 13-Jul-19: PhD student position on AI implications for democracy, Umea
+  (Sweden). http://bit.ly/2l699Lw #PhD #AI 
+
++ 13-Jul-19: PhD student position or postdoctoral position on Knowledge
+  Representation, Leuven (Belgium). http://bit.ly/2l69aPA #PhD #PostDoc #CompSci
+  #AI #KRR 
+
++ 13-Jul-19: Postdoc and PhD positions - Center for Advanced Software Analysis,
+  Aarhus University. http://bit.ly/2l8B915 #PhD #PostDoc #CompSci 
+
 + 09-Jul-19: Open PhD position: Type systems for resource analysis. University
   Paris 13. http://bit.ly/2XAGDPO #PhD #CompSci 
 
