@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Julio 2019
 
++ 23-Jul-19: Postdoc position on verification of network protocols at Aalborg
+  University (Denmark). http://bit.ly/2YlBTC8 #PostDoc #CompSci
+
++ 16-Jul-19: PhD and postdoc positions in Complexity of mathematical proofs and
+  structures in the Institute of Mathematics of the Czech Academy of Sciences in
+  Prague. http://bit.ly/2lwFfAp #PhD #PostDoc #CompSci #Logic
+
 + 13-Jul-19: Two Lectureships / Associate Professorships on Responsible AI, Umea
   (Sweden). http://bit.ly/32kGfZv #Job #CompSci 
 
