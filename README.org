@@ -11,6 +11,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Julio 2019
 
++ 26-Jul-19: Postdoctoral position on formal verification of privacy, Guildford
+  (England). http://bit.ly/2GyrQzE #PostDoc #CompSci 
+
++ 26-Jul-19: Two Research Assistant/Associate positions at Imperial College
+  London to work on the project "From data types to session types: A basis for
+  concurrency and distribution". http://bit.ly/2GIuweb #PostDoc #CompSci  
+
++ 26-Jul-19: Postdoc opportunity: The ForML (formal methods and computational
+  logic) Lab at Augusta University is looking for a
+  postdoc. http://bit.ly/2ZfpVau #PostDoc #CompSci 
+
 + 23-Jul-19: Postdoc position on verification of network protocols at Aalborg
   University (Denmark). http://bit.ly/2YlBTC8 #PostDoc #CompSci
 
