@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Julio 2019
 
++ 30-Jul-19: Recruiting proof engineers for a study on development
+  processes. http://bit.ly/32ZbWro #Job #CompSci #ITP #Coq 
+
++ 30-Jul-19: Postdoctoral position in verified security at the University of
+  Surrey. http://bit.ly/331F3u8 #Postdoc #CompSci 
+
++ 26-Jul-19: 2 year postdoctoral researcher @ Oracle Labs Australia in finding
+  security vulnerabilities via program analysis. http://bit.ly/2Ze6E99 #PostDoc
+  #CompSci 
+
 + 26-Jul-19: Postdoctoral position on formal verification of privacy, Guildford
   (England). http://bit.ly/2GyrQzE #PostDoc #CompSci 
 
