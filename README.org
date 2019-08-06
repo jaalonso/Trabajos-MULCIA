@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Agosto 2019
 
++ 06-Ago-19: IOHK is looking for Functional Compiler Engineers. 
+  http://bit.ly/31oKaDo #Job #CompSci #FunctionalProgramming 
+
 + 04-Ago-19: PhD position in homotopy type theory at
   Birmingham. http://bit.ly/2KeceDo #PhD #CompSci
 
