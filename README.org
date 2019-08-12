@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Agosto 2019
 
++ 12-Ago-19: Postdoctoral position in logic (formal argumentation), Milan
+  (Italy). http://bit.ly/33uBQ6y #PostDoc #Logic #CompSci 
+
++ 12-Ago-19: Postdoctoral position (3y) in computational linguistics, Utrecht
+  (The Netherlands). http://bit.ly/2TsPG4T #PostDoc #CompSci 
+
 + 06-Ago-19: IOHK is looking for Functional Compiler Engineers. 
   http://bit.ly/31oKaDo #Job #CompSci #FunctionalProgramming 
 
