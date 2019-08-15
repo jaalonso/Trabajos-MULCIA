@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Agosto 2019
 
++ 15-Ago-19: UNSW Sydney seeking PhD students. http://bit.ly/2N3IDyt #PhD
+  #CompSci  
+
++ 13-Ago-19: PhD position: logic, SMT, verification. University of
+  Liège. http://bit.ly/2MZUD3Y #PhD #Logic #CompSci 
+
 + 12-Ago-19: Postdoctoral position in logic (formal argumentation), Milan
   (Italy). http://bit.ly/33uBQ6y #PostDoc #Logic #CompSci 
 
