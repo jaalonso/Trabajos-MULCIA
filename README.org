@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Agosto 2019
 
++ 27-Ago-19: Fully funded PhD student position in logic and formal methods,
+  Barcelona (Spain). http://bit.ly/341UOSz #PhD #Logic #CompSci
+
 + 21-Ago-19: Research Fellow in verified operating system security. University
   of Melbourne. http://bit.ly/2P31Z9w #PostDoc #CompSci 
 
