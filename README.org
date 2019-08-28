@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Agosto 2019
 
++ 28-Ago-19: PhD student position in efficient model abstraction, Logan UT
+  (U.S.A.) http://bit.ly/2PjhXg1 #PhD #CompSci #Logic
+
++ 28-Ago-19: 3y postdoctoral position in computational linguistics, Utrecht (The
+  Netherlands). http://bit.ly/2zmx2mb #PostDoc #CompSci 
+
++ 28-Ago-19: Two PhD student positions on formalisation of requirements and
+  performance analysis, Grenoble (France). http://bit.ly/2PjTUgR  #PhD #CompSci 
+
 + 27-Ago-19: Fully funded PhD student position in logic and formal methods,
   Barcelona (Spain). http://bit.ly/341UOSz #PhD #Logic #CompSci
 
