@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Agosto 2019
 
++ 29-Ago-19: PhD position in formal methods for biology at DTU Technical
+  University of Denmark. http://bit.ly/2Pmr1AF #PhD #CompSci
+
 + 28-Ago-19: PhD student position in efficient model abstraction, Logan UT
   (U.S.A.) http://bit.ly/2PjhXg1 #PhD #CompSci #Logic
 
