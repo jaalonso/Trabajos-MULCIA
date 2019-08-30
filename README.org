@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Agosto 2019
 
++ 30-Ago-19: PhD position at Chalmers, on using Functional Programming for
+  secure programming the Internet of Things. http://bit.ly/34d93Ec #PhD #CompSci
+  #FunctionalProgramming 
+
 + 29-Ago-19: PhD position in formal methods for biology at DTU Technical
   University of Denmark. http://bit.ly/2Pmr1AF #PhD #CompSci
 
