@@ -9,6 +9,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2019
 
+* Septiembre 2019
+
++ 11-Sep-19: Postdoc position at Imperial College London in software testing and
+  programming languages. http://bit.ly/2LteQya #PostDoc #CompSci
+
 * Agosto 2019
 
 + 30-Ago-19: PhD position at Chalmers, on using Functional Programming for
