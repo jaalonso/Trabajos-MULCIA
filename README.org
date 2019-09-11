@@ -11,6 +11,21 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2019
 
++ 11-Sep-19: Postdoctoral position in mathematical logic, Udine
+  (Italy). http://bit.ly/2LpVzNN #PostDoc #Logic 
+
++ 11-Sep-19: Postdoctoral position in parameterised complexity (2y), Vienna
+  (Austria). http://bit.ly/2NUkxqr #PostDoc #CompSci #Logic 
+
++ 11-Sep-19: Postdoctoral position (3y) on abductive inference, Amsterdam (The
+  Netherlands). http://bit.ly/2NWYuPK #PostDoc #CompSci 
+
++ 11-Sep-19: PhD student position or postdoctoral position on reasoning with
+  distributed data, Brussels (Belgium). http://bit.ly/2LprJcd #PhD #CompSci 
+
++ 11-Sep-19: Postdoctoral position (1y) in Natural Language Processing, Nancy
+  (France). http://bit.ly/2Lp1umu #PostDoc #CompSci 
+
 + 11-Sep-19: Postdoc position at Imperial College London in software testing and
   programming languages. http://bit.ly/2LteQya #PostDoc #CompSci
 
