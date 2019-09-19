@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2019
 
++ 19-Sep-19: Several open positions in rigorous systems/software engineering
+  with applied formal methods for trustworthy elections. http://bit.ly/2Nmd2cr
+  #Job #CompSci 
+
++ 19-Sep-19: Automated reasoning postdoc, Manchester UK. http://bit.ly/2V1OpTe
+  #PostDoc #CompSci 
+
++ 16-Sep-19: Postdoc on reasoning about program incorrectness at University
+  College London. http://bit.ly/2Amtell #PostDoc #CompSci 
+
 + 11-Sep-19: Postdoctoral position in mathematical logic, Udine
   (Italy). http://bit.ly/2LpVzNN #PostDoc #Logic 
 
