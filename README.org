@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2019
 
++ 23-Sep-19: Multiple PhD and Postdoc positions in information security and
+  program verification at ETH Zurich. http://bit.ly/2l0h9y7 #PhD #PostDoc
+  #CompSci
+
 + 23-Sep-19: Postdoctoral opening at the University of Minnesota to work on the
   project "A higher-order framework for meta-theoretic
   reasoning". http://bit.ly/3555mk7 #PostDoc #CompSci 
