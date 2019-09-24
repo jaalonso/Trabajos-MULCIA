@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2019
 
++ 24-Sep-19: Two post-doctoral positions at ENS de Lyon (France) to work on the
+  project "Coinduction for verification and certification" http://bit.ly/2kL7hIz
+  #PostDoc #CompSci #ITP #Coq
+
++ 24-Sep-19: PhD opportunities in formal foundations and verification of
+  distributed systems at the University of Birmingham, UK. http://bit.ly/2mL1V0w
+  #PhD #CompSci
+
 + 23-Sep-19: Multiple PhD and Postdoc positions in information security and
   program verification at ETH Zurich. http://bit.ly/2l0h9y7 #PhD #PostDoc
   #CompSci
