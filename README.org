@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2019
 
++ 25-Sep-19: Research assistant position in verification at Royal
+  Holloway,  University of London. http://bit.ly/2ncNl24 #PostDoc #CompSci 
+
++ 25-Sep-19: PhD position in coalgebraic model checking at FAU
+  Erlangen-Nürnberg. http://bit.ly/2lHNV7r #PhD #CompSci 
+
++ 25-Sep-19_PhD student position in computational social choice,
+  Amsterdam (The Netherlands). http://bit.ly/2ndBdhj #PhD #CompSci
+
 + 24-Sep-19: Two post-doctoral positions at ENS de Lyon (France) to work on the
   project "Coinduction for verification and certification" http://bit.ly/2kL7hIz
   #PostDoc #CompSci #ITP #Coq
