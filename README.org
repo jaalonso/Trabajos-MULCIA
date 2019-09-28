@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2019
 
++ 28-Sep-19: #MULCIA: PhD and Postdoc positions in Aarhus (DK) in the areas of
+  Logic, Semantics and Programming Languages. http://bit.ly/2nt33pJ #PhD
+  #PostDoc #CompSci 
+
 + 25-Sep-19: Research assistant position in verification at Royal
   Holloway,  University of London. http://bit.ly/2ncNl24 #PostDoc #CompSci 
 
