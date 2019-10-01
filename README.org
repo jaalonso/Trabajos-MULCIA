@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2019
 
++ 01-Oct-19: Postdoctoral position in automated reasoning, Manchester
+  (England). http://bit.ly/2V1OpTe #PostDoc #CompSci #ATP
+
 + 01-Oct-19: Student position in Complexity of mathematical proofs and
   structures. Institute of Mathematics of the Czech Academy of Sciences in
   Prague. http://bit.ly/2o0hEcO #PhD #Logic
