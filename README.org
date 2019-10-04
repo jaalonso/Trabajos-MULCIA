@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2019
 
++ 04-Oct-19: Programming internship for MSc or PhD students on Automated Theorem
+  Proving, Bergen (Norway). http://bit.ly/2LLf6IP #PhD #CompSci #ATP
+
++ 04-Oct-19: Postdoctoral position in Mathematical Logic & Mathematical
+  Statistics, Toronto (Canada). http://bit.ly/2LN1pZK #PostDoc #Logic #Math
+  #CompSci
+
 + 01-Oct-19: Postdoctoral position in automated reasoning, Manchester
   (England). http://bit.ly/2V1OpTe #PostDoc #CompSci #ATP
 
