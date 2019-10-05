@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2019
 
++ 05-Oct-19: Two three-year post-doc positions in semantics and descriptive
+  complexity at Oxford and Cambridge. http://bit.ly/335P1tI #PostDoc #CompSci
+
 + 04-Oct-19: Programming internship for MSc or PhD students on Automated Theorem
   Proving, Bergen (Norway). http://bit.ly/2LLf6IP #PhD #CompSci #ATP
 
