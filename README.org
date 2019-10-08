@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2019
 
++ 08-Oct-19: PhD student and Postdoc in Formal Methods / Reverse Engineering at
+  the Open University of The Netherlands. http://bit.ly/2MlucUy #PhD #PostDoc
+  #CompSci
+
 + 05-Oct-19: Two three-year post-doc positions in semantics and descriptive
   complexity at Oxford and Cambridge. http://bit.ly/335P1tI #PostDoc #CompSci
 
