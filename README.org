@@ -11,6 +11,19 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2019
 
++ 12-Oct-19: Postdoc positions in CertiChain project. National
+  University of Singapore. http://bit.ly/2B4g90v #PostDoc #CompSci 
+
++ 12-Oct-19: PhD and Postdoc positions in Aarhus (Denmark) in the areas
+  of Logic, Semantics and Programming Languages. http://bit.ly/2paUCAy #PhD
+  #PostDoc #CompSci 
+
++ 12-Oct-19: PhD Position in Formal Methods for Biology at DTU
+  Technical University of Denmark. http://bit.ly/32a7NAe #PhD #CompSci 
+
++ 12-Oct-19: PhD position in Theoretical Computer Science at the VU
+  Amsterdam. http://bit.ly/2VyDosX #PhD #CompSci  
+
 + 08-Oct-19: PhD student and Postdoc in Formal Methods / Reverse Engineering at
   the Open University of The Netherlands. http://bit.ly/2MlucUy #PhD #PostDoc
   #CompSci
@@ -34,7 +47,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2019
 
-+ 28-Sep-19: #MULCIA: PhD and Postdoc positions in Aarhus (DK) in the areas of
++ 28-Sep-19: PhD and Postdoc positions in Aarhus (DK) in the areas of
   Logic, Semantics and Programming Languages. http://bit.ly/2nt33pJ #PhD
   #PostDoc #CompSci 
 
