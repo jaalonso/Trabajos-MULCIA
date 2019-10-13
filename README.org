@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2019
 
++ 13-Oct-19: PhD position at University of Birmingham, UK, on topics related to
+  categorical semantics of programming languages and computer theorem
+  proving. http://bit.ly/2IJ2MXC #PhD #CompSci
+
 + 12-Oct-19: Postdoc positions in CertiChain project. National
   University of Singapore. http://bit.ly/2B4g90v #PostDoc #CompSci 
 
