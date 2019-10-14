@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2019
 
++ 14-Oct-19: #MULCIA: PhD student position on reduction of Boolean networks,
+  Kungens Lyngby (Denmark). http://bit.ly/2MflJTO #PhD #CompSci 
+
 + 13-Oct-19: PhD position at University of Birmingham, UK, on topics related to
   categorical semantics of programming languages and computer theorem
   proving. http://bit.ly/2IJ2MXC #PhD #CompSci
