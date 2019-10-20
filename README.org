@@ -11,7 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2019
 
-+ 14-Oct-19: #MULCIA: PhD student position on reduction of Boolean networks,
++ 20-Oct-19: PhD positions in Theory & Foundations of Computer Science,
+  Warwick (England). http://bit.ly/35SBNCP #PhD #CompSci 
+
++ 20-Oct-19: PhD student position in Computer Science Logic, Liverpool
+  (England). http://bit.ly/2quj0xE #PhD #CompSci 
+
++ 20-Oct-19: QuICS/PLUM Postdoctoral Scholarship On Practical Quantum
+  Computation. http://bit.ly/2P13ROn #PostDoc #CompSci #ITP #Coq 
+
++ 14-Oct-19: PhD student position on reduction of Boolean networks,
   Kungens Lyngby (Denmark). http://bit.ly/2MflJTO #PhD #CompSci 
 
 + 13-Oct-19: PhD position at University of Birmingham, UK, on topics related to
