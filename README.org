@@ -11,10 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2019
 
-+ 23-Oct-19: #MULCIA: PhD position in Computer Science and Artificial
-  Intelligence at Delft  University of Technology in a challenging project on
-  algorithms for  scheduling under uncertainty. http://bit.ly/2BzCp2o #PhD
-  #CompSci #AI 
++ 25-Oct-19:Research Fellowship in Mathematical Logic and TCS, Singapore
+  (Singapore). http://bit.ly/2pOEmWc #PostDoc #Logic #CompSci
+
++ 23-Oct-19: PhD position in Computer Science and Artificial Intelligence at
+  Delft University of Technology in a challenging project on algorithms for
+  scheduling under uncertainty. http://bit.ly/2BzCp2o #PhD #CompSci #AI
 
 + 20-Oct-19: PhD positions in Theory & Foundations of Computer Science,
   Warwick (England). http://bit.ly/35SBNCP #PhD #CompSci 
