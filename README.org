@@ -11,7 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2019
 
-+ 25-Oct-19:Research Fellowship in Mathematical Logic and TCS, Singapore
++ 25-Oct-19: PhD position in type theory at the University of Bergen. Possible
+  directions include homotopy type theory, applications of type theory to
+  computer science or computerised formalisation of  mathematics.
+  http://bit.ly/2JkgyjW #PhD #CompSci #ITP
+
++ 25-Oct-19: PhD student position in programming language engineering at TU
+  Delft. http://bit.ly/36717Fi #PhD #CompSci
+
++ 25-Oct-19: Research Fellowship in Mathematical Logic and TCS, Singapore
   (Singapore). http://bit.ly/2pOEmWc #PostDoc #Logic #CompSci
 
 + 23-Oct-19: PhD position in Computer Science and Artificial Intelligence at
