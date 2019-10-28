@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2019
 
++ 28-Oct-19: Fully funded PhD student position in modal logic, proof
+  theory and applications, Barcelona (Spain). http://bit.ly/34a3MfA #PhD
+  #CompSci #ITP #Coq 
+
 + 25-Oct-19: PhD position in type theory at the University of Bergen. Possible
   directions include homotopy type theory, applications of type theory to
   computer science or computerised formalisation of  mathematics.
