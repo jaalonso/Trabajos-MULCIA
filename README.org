@@ -9,6 +9,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2019
 
+* Noviembre 2019
+
++ 03-Nov-19: Postdoctoral position in formal methods, Gothenburg
+  (Sweden). http://bit.ly/2C8X2CK #PostDoc #CompSci
+
++ 03-Nov-19: Postdoctoral position in quantitative modelling, Aalborg
+  (Denmark). http://bit.ly/33cZzI1 #PostDoc #CompSci
+
++ 03-Nov-19: PhD student position and postdoctoral position in explainable AI,
+  Bamberg (Germany). http://bit.ly/324aOBi #PhD #PostDoc #CompSci #AI
+
 * Octubre 2019
 
 + 28-Oct-19: Fully funded PhD student position in modal logic, proof
