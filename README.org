@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Noviembre 2019
 
++ 22-Nov-19: PhD, postdoc and research engineer positions at Universite
+  Paris-Saclay/Inri to work on automatic theorem proving in Coq and its
+  application to blockchain verification. http://bit.ly/2OaqcIE #PhD #PostDoc
+  #CompSci #ITP #Coq #Blockchain 
+
 + 03-Nov-19: Postdoctoral position in formal methods, Gothenburg
   (Sweden). http://bit.ly/2C8X2CK #PostDoc #CompSci
 
