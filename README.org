@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Noviembre 2019
 
++ 26-Nov-19: PhD, postdoc & intern positions in RustBelt and Iris projects at
+  Max Planck. http://bit.ly/34mPqcv #PhD #PostDoc #CompSci #ITP #Coq #Rust
+
 + 22-Nov-19: PhD, postdoc and research engineer positions at Universite
   Paris-Saclay/Inri to work on automatic theorem proving in Coq and its
   application to blockchain verification. http://bit.ly/2OaqcIE #PhD #PostDoc
