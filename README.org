@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Noviembre 2019
 
++ 29-Nov-19: Postdoc position at Princeton University on verification of
+  concurrent data structure implementations. http://bit.ly/33Bgp2x #PostDoc
+  #CompSci #ITP #Coq
+
 + 26-Nov-19: PhD, postdoc & intern positions in RustBelt and Iris projects at
   Max Planck. http://bit.ly/34mPqcv #PhD #PostDoc #CompSci #ITP #Coq #Rust
 
