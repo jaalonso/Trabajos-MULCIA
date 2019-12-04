@@ -8,6 +8,20 @@ Están en orden cronológico inverso por la fecha de su publicación en [[https:
 en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
 ** 2019
+* Diciembre 2019
+
++ 04-Dic-19: Postdoctoral researcher in Computer Science (Security and Trust) at
+  the University of Luxembourg. http://bit.ly/34OLC3H #PostDoc #CompSci
+
++ 04-Dic-19: Multiple postdoc and PhD positions on verification, concurrency and
+  model learning at University College London and Royal Holloway University of
+  London. http://bit.ly/2YfXSI3 #PhD #PostDoc #CompSci
+
++ 04-Dic-19: Postdoc and internship opportunities in formal
+  methods. http://bit.ly/33OoPEb #PostDoc #CompSci
+
++ 04-Dic-19: Research Associate in First-Order Theorem Proving for
+  Theories. Univ. of Manchester. http://bit.ly/2V1OpTe #PostDoc #CompSci #ATP
 
 * Noviembre 2019
 
