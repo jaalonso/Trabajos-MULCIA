@@ -10,6 +10,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2019
 * Diciembre 2019
 
++ 06-Dic-19: #MULCIA: PhD student positions in logical methods in computer
+  science, Vienna/Graz/Linz (Austria). http://bit.ly/2RsFtXc #PhD #CompSci 
+
++ 06-Dic-19: #MULCIA: Two research fellowships and one PhD studentship in
+  verification, London (England). http://bit.ly/366RXIb #PhD #PostDoc #CompSci 
+
 + 04-Dic-19: Postdoctoral researcher in Computer Science (Security and Trust) at
   the University of Luxembourg. http://bit.ly/34OLC3H #PostDoc #CompSci
 
