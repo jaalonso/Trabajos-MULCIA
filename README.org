@@ -10,6 +10,22 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2019
 * Diciembre 2019
 
++ 21-Dic-19: #MULCIA: PhD position "Efficient and natural proofs and algorithms"
+  at University of Bath. http://bit.ly/2EI3XUY #PhD #CompSci 
+
++ 21-Dic-19: #MULCIA: Semantics/verification postdoc positions at
+  Cambridge. http://bit.ly/34L1S5c #PostDoc #CompSci 
+
++ 21-Dic-19: #MULCIA: 10 PhD studentships in Nottingham. http://bit.ly/2Q8oask
+  #PhD #CompSci 
+
++ 21-Dic-19: #MULCIA: Multiple PhD (and Master's) positions in Programming
+  Languages and Verification available at the University of British Columbia
+  (Vancouver, Canada). http://bit.ly/2QdQjOO #PhD #CompSci 
+
++ 21-Dic-19: #MULCIA: 11 Fully Funded Doctoral Positions in Computer Science,
+  Austria (Vienna, Graz or Linz). http://bit.ly/2sbO3zg #PhD #CompSci 
+
 + 06-Dic-19: #MULCIA: PhD student positions in logical methods in computer
   science, Vienna/Graz/Linz (Austria). http://bit.ly/2RsFtXc #PhD #CompSci 
 
