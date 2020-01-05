@@ -7,10 +7,16 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
-** 2019
-* Diciembre 2019
+** 2020
+* Enero 2020
 
-+ 21-Dic-19: #MULCIA: PhD and Postdoc positions in liquid relational types at
++ 05-Ene-20: Postdoctoral position in formal semantics, Utrecht (The
+  Netherlands). http://bit.ly/36tC8vU #PostDoc #CompSci
+
+** 2019
+*** Diciembre 2019
+
++ 21-Dic-19: PhD and Postdoc positions in liquid relational types at
   IMDEA (Madrid, Spain). http://bit.ly/2PK44FF #PhD #PostDoc #CompSci 
 
 + 21-Dic-19: PhD position "Efficient and natural proofs and algorithms"
@@ -48,7 +54,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 04-Dic-19: Research Associate in First-Order Theorem Proving for
   Theories. Univ. of Manchester. http://bit.ly/2V1OpTe #PostDoc #CompSci #ATP
 
-* Noviembre 2019
+*** Noviembre 2019
 
 + 29-Nov-19: Postdoc position at Princeton University on verification of
   concurrent data structure implementations. http://bit.ly/33Bgp2x #PostDoc
@@ -71,7 +77,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 03-Nov-19: PhD student position and postdoctoral position in explainable AI,
   Bamberg (Germany). http://bit.ly/324aOBi #PhD #PostDoc #CompSci #AI
 
-* Octubre 2019
+*** Octubre 2019
 
 + 28-Oct-19: Fully funded PhD student position in modal logic, proof
   theory and applications, Barcelona (Spain). http://bit.ly/34a3MfA #PhD
@@ -142,7 +148,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
   structures. Institute of Mathematics of the Czech Academy of Sciences in
   Prague. http://bit.ly/2o0hEcO #PhD #Logic
 
-* Septiembre 2019
+*** Septiembre 2019
 
 + 28-Sep-19: PhD and Postdoc positions in Aarhus (DK) in the areas of
   Logic, Semantics and Programming Languages. http://bit.ly/2nt33pJ #PhD
@@ -205,7 +211,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 11-Sep-19: Postdoc position at Imperial College London in software testing and
   programming languages. http://bit.ly/2LteQya #PostDoc #CompSci
 
-* Agosto 2019
+*** Agosto 2019
 
 + 30-Ago-19: PhD position at Chalmers, on using Functional Programming for
   secure programming the Internet of Things. http://bit.ly/34d93Ec #PhD #CompSci
@@ -247,7 +253,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 04-Ago-19: PhD position in homotopy type theory at
   Birmingham. http://bit.ly/2KeceDo #PhD #CompSci
 
-* Julio 2019
+*** Julio 2019
 
 + 31-Jul-19: PhD position in homotopy type theory at
   Birmingham. http://bit.ly/2yophvB #PhD #CompSci  
@@ -317,7 +323,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 01-Jul-19: UNSW Sydney seeking a postdoc in programming languages and
   verification. http://bit.ly/2Xy5s39 #PostDoc #CompSci #ITP. 
 
-* Junio 2019
+*** Junio 2019
 
 + 30-Jun-19: Two PhD positions in formal methods in system engineering group at
   TU Wien, Austria. http://bit.ly/2RJRq94 #PhD #CompSci 
@@ -393,7 +399,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 01-Jun-19: Postdoc positions in verification and distributed systems at IMDEA,
   Madrid. http://bit.ly/2WzP0im #PostDoc #CompSci 
 
-* Mayo 2019
+*** Mayo 2019
 
 + 30-May-19: Postdoc in system security and formal methods. KTH Royal Institute
   of Technology in Stockholm, Sweden. http://bit.ly/2I5TwvD #PostDoc #CompSci 
@@ -462,7 +468,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 03-May-19: PhD student position in logic, Utrecht (The
   Netherlands). http://bit.ly/2DJZb99 #PhD #CompSci #Logic #Math 
 
-* Abril 2019
+*** Abril 2019
 
 + 25-Abr-19: PhD position on formal methods for multi-agent systems at TU Wien
   (Vienna University of Technology). http://bit.ly/2W1aJfr #PhD #CompSci 
@@ -526,7 +532,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 04-Abr-19: Postdoc in system security and formal methods. KTH Royal Institute
   of Technology. http://bit.ly/2Id3RHB #PostDoc #CompSci 
 
-* Marzo 2019
+*** Marzo 2019
 
 + 30-Mar-19: PhD position efficient and natural proofs and algorithms at the
   University of Bath. http://bit.ly/2uJj1g9 #PhD #Logic #CompSci 
@@ -616,7 +622,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 05-Mar-19: PhD Position in Software Security at KTH Royal Institute of
   Technology. http://bit.ly/2ENieQO #PhD #CompSci 
 
-* Febrero 2019
+*** Febrero 2019
 
 + 25-Feb-19: Postdoc in formal methods and IoT security. Technical University of
   Denmark. http://bit.ly/2VgANlV #PostDoc #CompSci  
