@@ -10,6 +10,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2020
 * Enero 2020
 
++ 09-Ene-20: #MULCIA: Postdoctoral position in FAU Erlangen-Nürnberg to work on
+  the project "A high level language for programming and specifying multi-effect
+  algorithms". http://bit.ly/39UQPKg #PostDoc #CompSci  
+
++ 09-Ene-20: #MULCIA: PhD student in theory and implementation of dependently
+  typed programming languages. TU Delft, Netherlands. http://bit.ly/2N9Semv #PhD
+  #CompSci  
+
 + 05-Ene-20: Postdoctoral position in formal semantics, Utrecht (The
   Netherlands). http://bit.ly/36tC8vU #PostDoc #CompSci
 
