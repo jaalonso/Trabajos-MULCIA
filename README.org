@@ -18,6 +18,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
   typed programming languages. TU Delft, Netherlands. http://bit.ly/2N9Semv #PhD
   #CompSci  
 
++ 09-Ene-20: #MULCIA: PhD scholarship at Monash University, Australia:
+  "Interactive Haskell type inference". http://bit.ly/2s6GIRE #PhD #CompSci
+  #Haskell 
+
 + 05-Ene-20: Postdoctoral position in formal semantics, Utrecht (The
   Netherlands). http://bit.ly/36tC8vU #PostDoc #CompSci
 
