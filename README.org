@@ -10,6 +10,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2020
 * Enero 2020
 
++ 10-Ene-20: #MULCIA: Research Fellow position at the Australian National
+  University for a project on massively scaling automated verification
+  techniques for security protocol verification. http://bit.ly/2FEpXjP #PostDoc
+  #CompSci 
+
 + 09-Ene-20: #MULCIA: Postdoctoral position in FAU Erlangen-Nürnberg to work on
   the project "A high level language for programming and specifying multi-effect
   algorithms". http://bit.ly/39UQPKg #PostDoc #CompSci  
@@ -22,7 +27,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
   "Interactive Haskell type inference". http://bit.ly/2s6GIRE #PhD #CompSci
   #Haskell 
 
-+ 05-Ene-20: Postdoctoral position in formal semantics, Utrecht (The
++ 05-Ene-20: #MULCIA: Postdoctoral position in formal semantics, Utrecht (The
   Netherlands). http://bit.ly/36tC8vU #PostDoc #CompSci
 
 ** 2019
