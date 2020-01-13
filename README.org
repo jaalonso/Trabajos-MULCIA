@@ -10,6 +10,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2020
 * Enero 2020
 
++ 13-Ene-20: #MULCIA: PhD student position on generating English explanations of
+  logical formulas, Utrecht (The Netherlands).http://bit.ly/35Triyc #PhD
+  #CompSci 
+
 + 10-Ene-20: #MULCIA: Research Fellow position at the Australian National
   University for a project on massively scaling automated verification
   techniques for security protocol verification. http://bit.ly/2FEpXjP #PostDoc
