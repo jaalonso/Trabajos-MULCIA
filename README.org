@@ -10,6 +10,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2020
 * Enero 2020
 
++ 21-Ene-20: #MULCIA: PhD and PostDoc positions at Aarhus University in the
+  areas of Logic, Semantics and Programming Languages. http://bit.ly/2v1uIls
+  #PhD #PostDoc #CompSci 
+
 + 13-Ene-20: #MULCIA: PhD student position on generating English explanations of
   logical formulas, Utrecht (The Netherlands).http://bit.ly/35Triyc #PhD
   #CompSci 
