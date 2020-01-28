@@ -10,6 +10,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2020
 * Enero 2020
 
++ 28-Ene-10: #MULCIA: Research Faculty and Postdoctoral Positions in
+  Verification at Virginia Tech. http://bit.ly/36wJii5 #PostDoc #CompSci #ITP
+  #Coq 
+
 + 21-Ene-20: #MULCIA: PhD and PostDoc positions at Aarhus University in the
   areas of Logic, Semantics and Programming Languages. http://bit.ly/2v1uIls
   #PhD #PostDoc #CompSci 
