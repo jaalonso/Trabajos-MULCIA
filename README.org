@@ -8,7 +8,14 @@ Están en orden cronológico inverso por la fecha de su publicación en [[https:
 en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
 ** 2020
-* Enero 2020
+
+*** Febrero 2020
+
++ 05-Feb-20: #MULCIA: PhD position in knowledge representation and reasoning at
+  the Institute for Logic, Language and Computation (ILLC) in
+  Amsterdam. http://bit.ly/2UuzW3U #PhD #Logic #CompSci 
+
+*** Enero 2020
 
 + 28-Ene-10: #MULCIA: Research Faculty and Postdoctoral Positions in
   Verification at Virginia Tech. http://bit.ly/36wJii5 #PostDoc #CompSci #ITP
