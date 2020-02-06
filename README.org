@@ -11,6 +11,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2020
 
++ 06-Feb-20: #MULCIA: Senior Postdoc / Project Coordinator position in
+  Information Security and Program Verification at ETH
+  Zurich. http://bit.ly/2ShJ3SI #PostDoc #CompSci 
+
++ 06-Feb-20: #MULCIA: Poste de Maître de Conférences en Sémantique des langages
+  de programmation à l'Université d'Orléans. http://bit.ly/2H1LCTO #Jobs
+  #CompSci 
+
++ 06-Feb-20: #MULCIA: PhD Research Fellow in Specification and Analysis of
+  Information Privacy. University of Oslo. http://bit.ly/2vdCkSg #PhD #CompSci 
+
 + 05-Feb-20: #MULCIA: PhD position in knowledge representation and reasoning at
   the Institute for Logic, Language and Computation (ILLC) in
   Amsterdam. http://bit.ly/2UuzW3U #PhD #Logic #CompSci 
