@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2020
 
++ 12-Feb-20: #MULCIA: 4-year PhD position at the University of
+  Innsbruck. http://bit.ly/31MadFX #PhD #CompSci 
+
++ 12-Feb-20: #MULCIA: PhD student position in theoretical computer science,
+  Moscow (Russia). http://bit.ly/2UMVUiI #PhD #CompSci 
+
 + 10-Feb-20: #MULCIA: Research fellow in verified operating system security at
   the University of Melbourne. http://bit.ly/2P31Z9w #PostDoc #CompSci 
 
