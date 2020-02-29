@@ -11,6 +11,21 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2020
 
++ 29-Feb-20: #MULCIA: Postdoctoral position in distributed synthesis, Gothenburg
+  (Sweden). http://bit.ly/2TcKILn #PostDoc #CompSci 
+
++ 29-Feb-20: #MULCIA: PhD student and postdoctoral positions in logic &
+  computation, Vienna (Austria). http://bit.ly/32Aso1C #PhD #PostDoc #CompSci 
+
++ 29-Feb-20: #MULCIA: Postdoctoral position (Shuimu Tsinghua Scholarship) in
+  logic, Beijing (China). http://bit.ly/32HP4Nt #PostDoc #Logic 
+
++ 29-Feb-20: #MULCIA: Postdoctoral positions in Computational Linguistics,
+  Gothenburg (Sweden). http://bit.ly/32Mv4tj #PostDoc #CompSci 
+
++ 29-Feb-20: #MULCIA: Four PhD student positions in CS, including logic,
+  Liverpool (England). http://bit.ly/2wgY53M #PhD #CompSci 
+
 + 12-Feb-20: #MULCIA: 4-year PhD position at the University of
   Innsbruck. http://bit.ly/31MadFX #PhD #CompSci 
 
