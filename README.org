@@ -9,6 +9,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2020
 
+*** Marzo 2020
+
++ 02-Mar-20: #MULCIA: Fully funded PhD position in Computer Algebra & Machine
+  Learning at Coventry University. http://bit.ly/2IeaoRs #PhD #CompSci 
+
 *** Febrero 2020
 
 + 29-Feb-20: #MULCIA: Postdoctoral position in distributed synthesis, Gothenburg
