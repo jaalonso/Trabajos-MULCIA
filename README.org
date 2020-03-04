@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2020
 
++ 04-Mar-20: #MULCIA: PhD student position in proof theory, Bath
+  (England). http://bit.ly/3atSPJd #PhD #CompSci 
+
++ 04-Mar-20: #MULCIA: PhD student position in logic, Utrecht (The
+  Netherlands). http://bit.ly/3cvECNJ #PhD #Logic 
+
++ 04-Mar-20: #MULCIA: PhD student position in Logics for Privacy, Bourges
+  (France). http://bit.ly/3arlIWa #PhD #Logic #CompSci 
+
 + 02-Mar-20: #MULCIA: Fully funded PhD position in Computer Algebra & Machine
   Learning at Coventry University. http://bit.ly/2IeaoRs #PhD #CompSci 
 
