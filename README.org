@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2020
 
++ 21-Mar-20: #MULCIA: PhD position in intelligent tutoring systems for functional
+programming. https://bit.ly/33DoRQQ #PhD #CompSci #FunctionalProgramming 
+
 + 20-Mar-10: #MULCIA: Postdoc at Oxford: probabilistic and differentiable
   programming. https://bit.ly/2U3rQi2 #PostDoc #CompSci 
 
