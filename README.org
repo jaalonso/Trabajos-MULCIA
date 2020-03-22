@@ -11,8 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2020
 
++ 22-Mar-20: #MULCIA: Multiple Research Positions (3 Doctoral, 5 Post-doctoral)
+  on AI Verification. https://bit.ly/2WA1l5r #PhD #PostDoc #CompSci #AI 
+
 + 21-Mar-20: #MULCIA: PhD position in intelligent tutoring systems for functional
-programming. https://bit.ly/33DoRQQ #PhD #CompSci #FunctionalProgramming 
+  programming. https://bit.ly/33DoRQQ #PhD #CompSci #FunctionalProgramming 
 
 + 20-Mar-10: #MULCIA: Postdoc at Oxford: probabilistic and differentiable
   programming. https://bit.ly/2U3rQi2 #PostDoc #CompSci 
