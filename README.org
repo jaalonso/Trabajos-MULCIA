@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2020
 
++ 26-Mar-20: #MULCIA: PhD in formal methods and security, cotutelle
+  France-Scotland. https://bit.ly/3dxZLr2 #PhD #CompSci 
+
++ 26-Mar-20: #MULCIA: Post-doctoral position in linear, dependent, and graded
+  modal types, University of Kent. https://bit.ly/2WLd8hF #PostDoc #CompSci
+
++ 26-Mar-20: #MULCIA: Postdoctoral and PhD positions in program analysis,
+  verification or systems at Imperial College London. https://bit.ly/2ybrBJs
+  #PhD #PostDoc 
+
 + 22-Mar-20: #MULCIA: Multiple Research Positions (3 Doctoral, 5 Post-doctoral)
   on AI Verification. https://bit.ly/2WA1l5r #PhD #PostDoc #CompSci #AI 
 
