@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2020
 
++ 31-Mar-20: #MULCIA: Open PhD position in Vienna: formal methods for reliable
+  networks. https://bit.ly/2xF4Z3u #PhD #CompSci 
+
 + 26-Mar-20: #MULCIA: PhD in formal methods and security, cotutelle
   France-Scotland. https://bit.ly/3dxZLr2 #PhD #CompSci 
 
