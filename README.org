@@ -9,6 +9,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2020
 
+*** Abril 2020
+
++ 02-Abr-20: #MULCIA: Ph.D. position in formal proof and trust at Inria
+  Saclay. https://bit.ly/2wTkfK8 #PhD #CompSci
+
++ 02-Abr-20: #MULCIA: Teaching PhD position in quantitative systems and
+  reasoning methods at the Leiden University. https://bit.ly/3dMfSRH #PhD
+  #CompSci 
+
 *** Marzo 2020
 
 + 31-Mar-20: #MULCIA: Open PhD position in Vienna: formal methods for reliable
