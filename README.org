@@ -11,6 +11,25 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2020
 
++ 03-Abr-20: #MULCIA: Multiple open PhD positions at CEA LIST, France, in:
+  software security through program analysis, formal methods or
+  machinelearning. https://bit.ly/346pmD3 #PhD #CompSci 
+
++ 03-Abr-20: #MULCIA: PhD student position in knowledge representation &
+  reasoning, Amsterdam (The Netherlands). http://bit.ly/2UuzW3U #PhD #CompSci
+  #AI 
+
++ 03-Abr-20: #MULCIA: PhD student position in Logic & Machine Learning, Toulouse
+  (France). https://bit.ly/346q2bz #PhD #Logic #MachineLearning #AI #CompSci 
+
++ 03-Abr-10: #MULCIA: PhD student position in formal methods for information
+  security, Edinburgh (Scotland) & Rennes (France). https://bit.ly/2JDegMi #PhD
+  #CompSci 
+
++ 03-Abr-10: #MULCIA: Ten postdoctoral positions in maths, logic, computer
+  science, or AI, Novosibirsk (Russia). https://bit.ly/2JBkMTP #PostDoc #Logic
+  #CompSci #AI 
+
 + 02-Abr-20: #MULCIA: Ph.D. position in formal proof and trust at Inria
   Saclay. https://bit.ly/2wTkfK8 #PhD #CompSci
 
