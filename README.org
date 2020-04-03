@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2020
 
++ 03-Abr-20: #MULCIA: Three doctoral and five post-doctoral positions on AI
+  verification, Edinburgh (Scotland). https://bit.ly/34iNse5 #PhD #PostDoc #AI
+  #CompSci 
+
 + 03-Abr-20: #MULCIA: Multiple open PhD positions at CEA LIST, France, in:
   software security through program analysis, formal methods or
   machinelearning. https://bit.ly/346pmD3 #PhD #CompSci 
