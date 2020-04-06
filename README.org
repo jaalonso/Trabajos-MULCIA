@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2020
 
++ 06-Abr-20: #MULCIA: Two PhD positions in functional programming at Utrecht
+  University. https://bit.ly/2V5xeAD #PhD #CompSci #FunctionalProgramming 
+
 + 03-Abr-20: #MULCIA: Three doctoral and five post-doctoral positions on AI
   verification, Edinburgh (Scotland). https://bit.ly/34iNse5 #PhD #PostDoc #AI
   #CompSci 
