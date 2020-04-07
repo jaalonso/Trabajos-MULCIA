@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2020
 
++ 07-Abr-20: #MULCIA: Postdoctoral position on verification of concurrent
+  systems via model learning, Royal Holloway University of
+  London. https://bit.ly/3c0mQRz #PostDoc #CompSci
+
 + 06-Abr-20: #MULCIA: Two PhD positions in functional programming at Utrecht
   University. https://bit.ly/2V5xeAD #PhD #CompSci #FunctionalProgramming 
 
