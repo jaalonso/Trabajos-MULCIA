@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2020
 
++ 28-Abr-20: PhD position at University of Birmingham, UK.https://bit.ly/2zuFjaO
+  #PhD #CompsSci 
+
 + 07-Abr-20: #MULCIA: Postdoctoral position on verification of concurrent
   systems via model learning, Royal Holloway University of
   London. https://bit.ly/3c0mQRz #PostDoc #CompSci
