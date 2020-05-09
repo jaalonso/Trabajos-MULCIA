@@ -11,6 +11,23 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2020
 
++ 09-May-20: #MULCIA: PhD student position in Logic & Machine Learning, Toulouse
+  (France). https://bit.ly/2LfWOi0 #PhD #CompSci #Logic #MachineLearning 
+
++ 09-May-20: #MULCIA: Ten postdoctoral positions in maths, logic, CS, AI,
+  Novosibirsk (Russia). https://bit.ly/3bpeoe5 #PostDoc #CompSci #Logic #AI 
+
++ 09-May-20: #MULCIA: Tenure track research position on automation of formal
+  reasoning, Prague (Czech Republic). https://bit.ly/3ckyzuG #Job #PostDoc
+  #CompSci #Logic #ITP 
+
++ 09-May-20: #MULCIA: Two PhD student positions in Logic, Gothenburg
+  (Sweden). https://bit.ly/3cjeG7p #PhD #Logic 
+
++ 09-May-20: #MULCIA: PhD student positions in Uncertainty & Randomness in
+  Algorithms, Verification, & Logic, Aachen (Germany). https://bit.ly/2zrwhLDa
+  #PhD #CompSci #Logic 
+
 + 08-May-20: #MULCIA: 4 year PhD position in the Computational Logic research
   group. Innsbruck University. https://bit.ly/3ds5L3z #PhD #CompSci 
 
