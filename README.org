@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2020
 
++ 13-May-20: #MULCIA: Several Open PhD Positions in the doctoral program on
+  Logical Methods in Computer Science (LogiCS) in Austria. 
+  https://bit.ly/3bsaH7d #PhD #Logic #CompSci 
+
++ 11-May-20: #MULCIA: 6-Year PostDoc position in algorithms at the Vienna
+  University of Technology (TU Wien), Vienna, Austria. https://bit.ly/2zvIT4M
+  #PostDoc #CompSci 
+
 + 09-May-20: #MULCIA: PhD student position in Logic & Machine Learning, Toulouse
   (France). https://bit.ly/2LfWOi0 #PhD #CompSci #Logic #MachineLearning 
 
