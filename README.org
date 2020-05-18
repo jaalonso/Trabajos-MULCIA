@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2020
 
++ 18-May-20: #MULCIA: PostDoc Position in Aarhus, Denmark, at Center for Basic
+  Research in Program Verification. https://bit.ly/2X7qkM7 #PostDoc #CompSci 
+
++ 18-May-20: #MULCIA: Post-doctoral position in session types for reliable
+  actor-based systems, University of Kent (4 years). https://bit.ly/2LQzzLL
+  #PostDoc #CompSci 
+
 + 13-May-20: #MULCIA: Several Open PhD Positions in the doctoral program on
   Logical Methods in Computer Science (LogiCS) in Austria. 
   https://bit.ly/3bsaH7d #PhD #Logic #CompSci 
