@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2020
 
++ 20-May-20: #MULCIA: Research Fellow at UCL - Programming Principles, Logic,
+  and Verification. https://bit.ly/2LGSBEb #PostDoc #CompSci 
+
 + 18-May-20: #MULCIA: PostDoc Position in Aarhus, Denmark, at Center for Basic
   Research in Program Verification. https://bit.ly/2X7qkM7 #PostDoc #CompSci 
 
