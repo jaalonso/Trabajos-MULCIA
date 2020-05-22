@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2020
 
++ 22-May-20: #MULCIA: Job offer for a Mathematician or Computer Scientist
+  researcher in Barcelona. https://bit.ly/2ZqzC8X #Job #CompSci 
+
 + 20-May-20: #MULCIA: Research Fellow at UCL - Programming Principles, Logic,
   and Verification. https://bit.ly/2LGSBEb #PostDoc #CompSci 
 
