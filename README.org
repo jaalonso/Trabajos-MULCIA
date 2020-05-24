@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2020
 
++ 24-May-20: #MULCIA: AISEC — AI Secure and Explainable by Construction:
+  Multiple Research Positions (3 Doctoral, 5 Post-doctoral) available at
+  Heriot-Watt, Edinburgh and Strathclyde Universities, Scotland,
+  UK. https://bit.ly/3e8GNXk #PhD #PostDoc #CompSci 
+
 + 22-May-20: #MULCIA: Job offer for a Mathematician or Computer Scientist
   researcher in Barcelona. https://bit.ly/2ZqzC8X #Job #CompSci 
 
