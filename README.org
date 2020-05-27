@@ -11,6 +11,30 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2020
 
++ 27-May-20: #MULCIA: PhD student position in automata theory, Warsaw
+  (Poland). https://bit.ly/2zAXyvJ #PhD #CompSci 
+
++ 27-May-20: #MULCIA: Two research fellowships in logics & formal methods, Udine
+  (Italy). https://bit.ly/3c37GKN #PhD #PostDoc #CompSci 
+
++ 27-May-20: #MULCIA: Two PhD student positions in logic, Gothenburg
+  (Sweden). https://bit.ly/2AasmDE #PhD #Logic #CompSci 
+
++ 27-May-20: #MULCIA. Two postdoctoral research fellowships in proof theory,
+  Birmingham (England). https://bit.ly/2X7elzt #PhD #Logic 
+
++ 27-May-20: #MULCIA: Postdoctoral position in mathematical logic, Vienna
+  (Austria). https://bit.ly/36yTmc5 #PostDoc #Logic 
+
++ 27-May-20: #MULCIA: Postdoctoral position (3+3y) in set theory, Freiburg
+  (Germany). https://bit.ly/3d8pKVl #PostDoc #Logic 
+
++ 27-May-20: #MULCIA: PhD student position in foundations of networks, Vienna
+  (Austria). https://bit.ly/2M6b1yq #PhD #CompSci 
+
++ 27-May-20: #MULCIA: PhD studentship in mathematics and computation (including
+  logic), Birmingham (England). https://bit.ly/2AimyHW #PhD #CompSci #Logic 
+
 + 24-May-20: #MULCIA: AISEC — AI Secure and Explainable by Construction:
   Multiple Research Positions (3 Doctoral, 5 Post-doctoral) available at
   Heriot-Watt, Edinburgh and Strathclyde Universities, Scotland,
