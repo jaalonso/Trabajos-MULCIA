@@ -11,7 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2020
 
-+ 04-Jun-10: #MULCIA: Postdoctoral opening at the University of Minnesota to
++ 09-Jun-20: #MULCIA: PhD Position in Artificial Intelligence at TU Wien,
+  Vienna, Austria. https://bit.ly/2XOa2tf #PhD #CompSci #AI 
+
++ 04-Jun-20: #MULCIA: Postdoctoral opening at the University of Minnesota to
   work on the project "A higher-order framework for meta-theoretic
   reasoning". https://bit.ly/2XVT2A4 #PostDoc #CompSci 
 
