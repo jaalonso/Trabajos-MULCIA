@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2020
 
++ 12-Jun-20: #MULCIA: PhD student position in automata theory, Warsaw
+  (Poland). https://bit.ly/2B1ntND #PhD #CompSci 
+
++ 12-Jun-20: #MULCIA: Two PhD student positions on Reflection Spectra,
+  Gent/Vienna (Belgium/Austria). https://bit.ly/2MOS03B #PhD #Logic 
+
++ 12-Jun-10: #MULCIA: PhD student position in databases and AI, Vienna
+  (Austria). https://bit.ly/3cYk4fA #PhD #CompSci 
+
 + 11-Jun-20: #MULCIA: 2 PhD positions at the Laboratory for Applied Ontology
   (LOA ISTC CNR, Trento). https://bit.ly/2AW1G9V #PhD #CompSci 
 
