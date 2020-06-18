@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2020
 
++ 18-Jun-20: #MULCIA: PhD student and postdoc positions in logic and algorithmic
+  model theory, Darmstadt (Germany). https://bit.ly/2YH2Xdc #PhD #Logic #CompSci 
+
 + 17-Jun-20: #MULCIA: PhD position focused on SAT solving and combinatorial
   optimization at Lund University. https://bit.ly/2YLBXcm #PhD #CompSci #Logic
 
