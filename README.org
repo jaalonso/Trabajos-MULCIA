@@ -9,6 +9,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2020
 
+*** Julio 2020
+
++ 01-Jul-20: #MULCIA: Post Doctoral Fellow Position at Carnegie Mellon Universit
+  in Logical Systems Lab. https://bit.ly/31v6JcI #PostDoc #CompSci 
+
 *** Junio 2020
 
 + 18-Jun-20: #MULCIA: PhD student and postdoc positions in logic and algorithmic
@@ -35,7 +40,6 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 04-Jun-20: #MULCIA: Postdoctoral opening at the University of Minnesota to
   work on the project "A higher-order framework for meta-theoretic
   reasoning". https://bit.ly/2XVT2A4 #PostDoc #CompSci 
-
 
 *** Mayo 2020
 
