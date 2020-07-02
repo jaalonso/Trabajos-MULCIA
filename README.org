@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2020
 
++ 02-Jul-20: #MULCIA: Postdoctoral position available at VERIMAG laboratory,
+  Université Grenoble Alpes, Grenoble Institute of Technology,
+  France. https://bit.ly/3iowcL2 #PostDoc #CompSci #ITP #Coq 
+
 + 02-Jul-20: #MULCIA: Postdoc position on the project "Quantitative and
   qualitative approximations of reasoning". University of
   Milan. https://bit.ly/38k9Rtr #PostDoc #Logic 
