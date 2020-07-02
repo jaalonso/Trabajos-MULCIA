@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2020
 
++ 02-Jul-20: #MULCIA: Postdoctoral/research faculty position in Program
+  Analysis, Verification, and Security at Virginia Tech. https://bit.ly/2BkcZcJ
+  #PostDoc #CompSci 
+
 + 01-Jul-20: #MULCIA: Post Doctoral Fellow Position at Carnegie Mellon Universit
   in Logical Systems Lab. https://bit.ly/31v6JcI #PostDoc #CompSci 
 
