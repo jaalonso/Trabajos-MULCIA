@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2020
 
++ 03-Jul-20: #MULCIA: PhD student position in set theory with a focus on inner
+  models and large cardinals, Muenster (Germany). https://bit.ly/3iopQLr #PhD
+  #Logic 
+
++ 03-Jul-20: #MULCIA: Two postdoctoral positions in large cardinals and the
+  axiom of choice, Norwich (England). https://bit.ly/2Zwl7yF #PostDoc #Logic 
+
++ 03-Jul-20: #MULCIA: PhD student position & research engineer position on
+  responsible AI, Umea (Sweden). https://bit.ly/2YVaK8A #PhD #CompSci #AI 
+
 + 02-Jul-20: #MULCIA: Postdoctoral position available at VERIMAG laboratory,
   Université Grenoble Alpes, Grenoble Institute of Technology,
   France. https://bit.ly/3iowcL2 #PostDoc #CompSci #ITP #Coq 
