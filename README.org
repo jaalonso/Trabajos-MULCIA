@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2020
 
++ 07-Jul-20: #MULCIA: PhD Position at VERIMAG (University of Grenoble Alpes and
+  CNRS). https://bit.ly/2ZL1LWL #PhD #CompSci 
+
++ 07-Jul-20: #MULCIA: PhD student position in dependence logic, Helsinki
+  (Finland). https://bit.ly/3e7M0yb #PhD #Logic 
+
 + 03-Jul-20: #MULCIA: PhD student position in set theory with a focus on inner
   models and large cardinals, Muenster (Germany). https://bit.ly/3iopQLr #PhD
   #Logic 
