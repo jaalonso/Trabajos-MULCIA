@@ -11,6 +11,87 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2020
 
++ 12-Jul-20: #MULCIA: Postdoctoral Position in Machine Learning applied to Space
+  Science. Catholic University of Leuven, Belgium. https://bit.ly/2OegX9u
+  #PostDoc #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: PhD position in numerical modelling of plastics dispersal
+  in aquatic environments. Catholic University of Leuven,
+  Belgium. https://bit.ly/3fkinuY #PhD #Math #CompSci 
+
++ 12-Jul-20: #MULCIA: PhD position in programming languages and type
+  systems. Catholic University of Leuven, Belgium. https://bit.ly/2OjFhGW #PhD
+  #CompSci
+
++ 12-Jul-20: #MULCIA: Doctoral student in low power machine learning. University
+  of Antwerp Faculty of Science, Belgium. https://bit.ly/38QF3jW #PhD #CompSci
+  #AI 
+
++ 12-Jul-20: #MULCIA: PhD position in embodied intelligence for soft
+  robots. Catholic University of Leuven Department of Mechanical Engineering,
+  Belgium. https://bit.ly/3fneB4b #PhD #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: PhD and PostDoc positions in 3D machine learning / 3D
+  vision. Technical University of Munich, Germany. https://bit.ly/3fkiWF6 #PhD
+  #PostDoc #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: Postdoctoral researcher in knowledge-informed deep
+  representation learning. Dublin City University. https://bit.ly/2BVBJs6
+  #PostDoc #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: PhD research fellow in learning and optimization in
+  vehicular networks. University of Oslo. https://bit.ly/2W7W5oz #PhD #CompSci
+  #AI 
+
++ 12-Jul-20: #MULCIA: PhD research fellowship in machine learning in
+  oceanography. University of Oslo. https://bit.ly/3gR2hcO #PhD #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: Data Engineer in Artificial Intelligence. Uppsala
+  University. https://bit.ly/2W7WEPd #Job ##CompSci #AI 
+
++ 12-Jul-20: #MULCIA: Post Doc in Machine Learning over Wireless Networks. Royal
+  Institute of Technology, Sweden. https://bit.ly/3iR1BWy #PostDoc #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: PhD Position in Software Security, Verification, and
+  Testing. Uppsala University Department of Information Technology,
+  Sweden. https://bit.ly/2DtYIdX #PhD #CompSci
+
++ 12-Jul-20: #MULCIA: Doctoral Student in Machine Learning for Conversational
+  AI. Royal Institute of Technology, Sweden. https://bit.ly/2WbUf6b #PhD
+  #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: Postdoctoral Position in Machine Learning and Medical
+  Imaging. University of Bern Center for Biomedical Engineering Research,
+  Switzerland. https://bit.ly/2Wco8n4 #PostDoc #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: PhD Studentship in Automated, Provable, Safety-Aware
+  Software Rewriting for Security. University of Southampton School of
+  Electronics and Computer Science, United Kingdom. https://bit.ly/3gRac9O #PhD
+  #CompSci 
+
++ 12-Jul-20: #MULCIA: PhD Studentship in Human-Centred Artificial Intelligence
+  for Energy Management. University of Southampton School of Electronics and
+  Computer Science, United Kingdom. https://bit.ly/2Oeq7D1 #PhD #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: Research Fellow in Computer Vision and Machine Learning. University
+  of Surrey, United Kingdom. https://bit.ly/3fm2xjB #PostDoc #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: Research Assistant / Associate in Machine Learning
+  Systems. University of Cambridge, United Kingdom. https://bit.ly/3elTFsW
+  #PostDoc #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: Research Fellow in Natural Language Processing. Imperial
+  College London Faculty of Engineering, United Kingdom. https://bit.ly/2OiTIew
+  #PostDoc #CompSci #AI 
+
++ 12-Jul-20: #MULCIA: PhD Studentship in 3D semantic scene understanding with
+  Computer Vision and Artificial Intelligence. University of Southampton, United
+  Kingdom. https://bit.ly/3iUCRwM #PhD #CompSci 
+
++ 12-Jul-20: #MULCIA: PhD Research in Applications of Artificial Intelligence in
+  Healthcare. Monash University, Australia. https://bit.ly/2ZiHJny #PhD #CompSci
+  #AI 
+
 + 10-Jul-20: #MULCIA: Fully funded PhD studentship available at University of
   Southampton: Automated, provable, safety-aware software rewriting for
   security. https://bit.ly/3gL0dCT #phD #CompSci 
