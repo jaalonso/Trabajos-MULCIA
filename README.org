@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2020
 
++ 14-Jul-20: #MULCIA: PhD student position in Knowledge Representation
+  Formalisms, Amsterdam (The Netherlands). https://bit.ly/3j1jstQ #PhD #CompSci
+  #AI 
+
++ 14-Jul-20: #MULCIA: Postdoctoral position in model theory, Vienna
+  (Austria). https://bit.ly/3j26Bb6 #PostDoc #Logic
+
++ 14-Jul-20: #MULCIA: PhD student position in mathematical logic, Barcelona
+  (Spain). https://bit.ly/32dpD8l #PhD #Logic 
+
 + 12-Jul-20: #MULCIA: Postdoctoral Position in Machine Learning applied to Space
   Science. Catholic University of Leuven, Belgium. https://bit.ly/2OegX9u
   #PostDoc #CompSci #AI 
@@ -94,7 +104,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 + 10-Jul-20: #MULCIA: Fully funded PhD studentship available at University of
   Southampton: Automated, provable, safety-aware software rewriting for
-  security. https://bit.ly/3gL0dCT #phD #CompSci 
+  security. https://bit.ly/3gL0dCT #PhD #CompSci 
 
 + 10-Jul-20: #MULCIA: 2 Postdoctoral Positions (Machine Learning, AI, Abstract
   Algebra). https://bit.ly/2ZS5oKy #PostDoc #CompSci 
