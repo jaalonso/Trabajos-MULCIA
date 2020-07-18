@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2020
 
++ 18-Jul-20: #MULCIA: PhD Position on Certified Extraction in
+  Nantes. https://bit.ly/30kJy2F #PhD #CompSci #ITP #Coq 
+
 + 14-Jul-20: #MULCIA: PhD student position in Knowledge Representation
   Formalisms, Amsterdam (The Netherlands). https://bit.ly/3j1jstQ #PhD #CompSci
   #AI 
