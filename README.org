@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2020
 
++ 22-Jul-20. #MULCIA: PhD position(s) in structural and algorithmic aspects of
+  preference-based problems in social choice. Vienna,
+  Austria. https://bit.ly/3hsb6tS #PhD #CompSci 
+
++ 20-Jul-20: #MULCIA: Postdoc position in Formal Methods, Programming Languages,
+  and Systems, at the University of Salzburg, Computational Systems
+  Group. https://bit.ly/39lH3kM #PostDoc #CompSci 
+
 + 18-Jul-20: #MULCIA: PhD Position on Certified Extraction in
   Nantes. https://bit.ly/30kJy2F #PhD #CompSci #ITP #Coq 
 
