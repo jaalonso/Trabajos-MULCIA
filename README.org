@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2020
 
++ 23-Jul-20: #MULCIA: PhD Position interactive machine reasoning for responsible
+  hybrid intelligence, Delft (The Netherlands). https://bit.ly/30JRP02 #PhD
+  #CompSci #AI
+
 + 22-Jul-20. #MULCIA: PhD position(s) in structural and algorithmic aspects of
   preference-based problems in social choice. Vienna,
   Austria. https://bit.ly/3hsb6tS #PhD #CompSci 
