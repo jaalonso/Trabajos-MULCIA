@@ -9,6 +9,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2020
 
+*** Agosto 2020
+
++ 03-Ago-20: #MULCIA: Postdoc in foundational security for AI at University of
+  Edinburgh, UK. https://bit.ly/3k92oTp #PostDoc #CompSci #AI 
+
 *** Julio 2020
 
 + 23-Jul-20: #MULCIA: PhD Position interactive machine reasoning for responsible
