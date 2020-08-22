@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2020
 
++ 22-Ago-20: #MULCIA: Post-doctoral position at ENS Lyon, France (automata,
+  relation algebra, Coq). https://bit.ly/32iXQBX #PostDoc #CompSci #ITP #Coq 
+
++ 22-Ago-20: #MULCIA: Formal methods engineer positions at Siemens Mobility,
+  Paris, France (full-time). https://bit.ly/3l7LXqZ #Job #CompSci 
+
 + 03-Ago-20: #MULCIA: Postdoc in foundational security for AI at University of
   Edinburgh, UK. https://bit.ly/3k92oTp #PostDoc #CompSci #AI 
 
