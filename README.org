@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2020
 
++ 24-Ago-20: #MULCIA: Postdocs available in formal analysis of code for secure
+  hardware. https://bit.ly/2FKs74M #PostDoc #CompSci 
+
++ 24-Ago-20: #MULCIA: PhD and postdoc positions at the Schaffhausen Institute of
+  Technology. https://bit.ly/2Ewk2Qw #PhD #PostDoc #CompSci  
+
++ 24-Ago-20: #MULCIA: Research Associate on foundations for non-parametric
+  probabilistic programming. Univ. od Oxford. https://bit.ly/34qkqei #PostDoc
+  #CompSci 
+
 + 22-Ago-20: #MULCIA: Post-doctoral position at ENS Lyon, France (automata,
   relation algebra, Coq). https://bit.ly/32iXQBX #PostDoc #CompSci #ITP #Coq 
 
