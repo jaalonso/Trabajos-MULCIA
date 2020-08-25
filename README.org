@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2020
 
++ 25-Ago-29: #MULCIA: Postdocs available in formal analysis of code for secure
+  hardware. University of Manchester. https://bit.ly/2CWv2q9 #PostDoc #CompSci 
+
 + 24-Ago-20: #MULCIA: Postdocs available in formal analysis of code for secure
   hardware. https://bit.ly/2FKs74M #PostDoc #CompSci 
 
