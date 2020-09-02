@@ -9,6 +9,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2020
 
+*** Septiembre 2020
+
++ 02-Sep-20: #MULCIA: Postdoctoral position in programming languages at
+  Edinburgh LFCS. https://bit.ly/2YZE1P3 #PostDoc #CompSci 
+
++ 02-Sep-20: #MULCIA: Postdoctoral fellowship in Logic in Computer Science,
+  Prague (Czech Republic). https://bit.ly/31O9qFW #PostDoc #Logic #CompSci 
+
 *** Agosto 2020
 
 + 25-Ago-29: #MULCIA: Postdocs available in formal analysis of code for secure
