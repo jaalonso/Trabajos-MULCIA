@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2020
 
++ 05-Sep-20: #MULCIA: Postdoc position on formal methods and testing @ TU Graz,
+  Austria. https://bit.ly/3buEe1B #PostDoc #CompSci 
+
++ 05-Sep-20: #MULCIA: Postdoc positions in Prague: type theory and philosophy of
+  mathematics. https://bit.ly/3ifwzXT #PostDoc #Logic #Math #TypeTheory 
+
 + 02-Sep-20: #MULCIA: Postdoctoral position in programming languages at
   Edinburgh LFCS. https://bit.ly/2YZE1P3 #PostDoc #CompSci 
 
