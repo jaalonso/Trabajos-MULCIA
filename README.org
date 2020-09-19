@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2020
 
++ 19-sep-20: #MULCIA: PhD student position or postdoctoral position in SAT
+  testing or modelling human reasoning tasks, Dresden
+  (Germany). https://bit.ly/2RU5s9f #PhD #CompSci
+
 + 19-Sep-20: #MULCIA: Postdoctoral Opening at the University of Minnesota, USA,
   related to an NSF-funded project entitled "A higher-order framework for
   meta-theoretic reasoning". https://bit.ly/32LHW4u #PostDoc #CompSci   
