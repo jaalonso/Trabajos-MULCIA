@@ -11,6 +11,33 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2020
 
++ 19-Sep-20: #MULCIA: Postdoctoral Opening at the University of Minnesota, USA,
+  related to an NSF-funded project entitled "A higher-order framework for
+  meta-theoretic reasoning". https://bit.ly/32LHW4u #PostDoc #CompSci   
+
++ 19-Sep-20: #MULCIA: A postdoctoral or research faculty position with the
+  Systems Software Research Group at Virginia Tech on DARPA-funded projects at
+  the intersection of program analysis, verification, and
+  security. https://bit.ly/3cdJya4 #PostDoc #CompSci 
+
++ 19-Sep-20: #MULCIA: PhD positions on the POSTMAN (Powering SMT Solvers by
+  Machine Learning) project in Prague, Czech Republic. https://bit.ly/2FHJ68i
+  #PhD #CompSci 
+
++ 19-Sep-20: #MULCIA: Postdocs available in formal analysis of code for secure
+  hardware, Manchester, UK. https://bit.ly/3mA1DUF #PostDoc #CompSci 
+
++ 19-Sep-20: #MULCIA: Postdoc position on Formal Methods and Testing @ TU Graz,
+  Austria. https://bit.ly/2ZLJv0j #PostDoc #CompSci 
+
++ 19-Sep-20: #MULCIA: PhD/Post-Doc position at the University of Duisburg-Essen
+  in the DFG project SpeQt ("Spectra of Behavioural Distances and Quantitative
+  Logics"). https://bit.ly/2RIk6jH #PhD #PostDoc #CompSci 
+
++ 19-Sep-20: #MULCIA: PhD position at the University of Duisburg-Essen in the
+  area of modelling and verification of concurrent
+  systems. https://bit.ly/2RIk6jH #PhD #CompSci 
+
 + 16-Sep-20 #MULCIA: Two postdoctoral positions in type theory and philosophy of
   mathematics, Prague (Czech Republic). https://bit.ly/3hIQKMN #PostDoc #Logic
   #Math  
