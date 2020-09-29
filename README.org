@@ -11,6 +11,19 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2020
 
++ 29-sep-20: #MULCIA: Postdoctoral position in semantics, Amsterdam (The
+  Netherlands). https://bit.ly/33aRpSP #PhD #PostDoc #CompSci 
+
++ 29-sep-20: #MULCIA: Research Assistantships & Associateships in "Uncertainty &
+  Randomness in Algorithms, Verification, & Logic", Aachen
+  (Germany). https://bit.ly/2S67TFJ #PostDoc #CompSci
+
++ 29-sep-20: #MULCIA: Two PhD student positions & one postdoctoral position on
+  formal methods, Leuven (Belgium). https://bit.ly/36hYDXq #PhD #CompSci #Logic 
+
++ 29-sep-20: #MULCIA: 2 Lecturer (Assistant Professor) Positions in Programming
+  Languages at the University of Kent. https://bit.ly/34bD5sL #PostDoc #CompSci 
+
 + 19-sep-20: #MULCIA: PhD student position or postdoctoral position in SAT
   testing or modelling human reasoning tasks, Dresden
   (Germany). https://bit.ly/2RU5s9f #PhD #CompSci
