@@ -9,8 +9,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2020
 
-
 *** Octubre 2020
+
++ 07-oct-20: #MULCIA: Two funded PhD positions in Interdisciplinary Ontology
+  Projects at UMaine. http://spatialai.org/ #PhD #CompSci #AI
 
 + 02-oct-20: #MULCIA: Postdoctoral Fellowship at Institute of Computer Science
   (ICS) of the Czech Academy of Sciences (CAS), Prague. https://bit.ly/3jocleW
