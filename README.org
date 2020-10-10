@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre 2020
 
++ 10-oct-20: #MULCIA: PhD fellow in runtime verification at the University of
+  Copenhagen. https://bit.ly/2GIcWdk #PhD #CompSci
+
++ 10-oct-20: #MULCIA: PhD fellow in formal verification of stream processing at
+  the University of Copenhagen. https://bit.ly/2GAVU0R #PhD #CompSci 
+
++ 10-oct-20: #MULCIA: Postdoc in formal verification of monitoring at the
+  University of Copenhagen. https://bit.ly/3ltCGsA #PostDoc #CompSci 
+
 + 07-oct-20: #MULCIA: Two funded PhD positions in Interdisciplinary Ontology
   Projects at UMaine. http://spatialai.org/ #PhD #CompSci #AI
 
