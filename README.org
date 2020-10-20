@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre 2020
 
++ 20-oct-20: #MULCIA: 2021 Amazon Automated Reasoning
+  Internships. https://amazonarginternships.splashthat.com/ #Job #CompSci 
+
 + 10-oct-20: #MULCIA: PhD fellow in runtime verification at the University of
   Copenhagen. https://bit.ly/2GIcWdk #PhD #CompSci
 
