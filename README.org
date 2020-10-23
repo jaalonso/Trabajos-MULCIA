@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre 2020
 
++ 23-oct-20: #MULCIA: 4 PhD and 4 Postdoc positions at Umeå University (Sweden)
+  in "AI for Data Management". https://bit.ly/2TiWjrh #PhD #PostDoc #CompSci #AI 
+
++ 23-oct-20: #MULCIA: At least 12 PhD studentships available as part of the UKRI
+  Centre for Doctoral Training in Safe and Trusted Artificial
+  Intelligence. https://bit.ly/34nBwZT #PhD #PostDoc #CompSci #AI
+
++ 23-oct-20: #MULCIA: Two funded PhD positions in Interdisciplinary Ontology
+  Projects at UMaine. https://bit.ly/34lilQs #PhD #PostDoc #CompSci #AI 
+
 + 20-oct-20: #MULCIA: 2021 Amazon Automated Reasoning
   Internships. https://amazonarginternships.splashthat.com/ #Job #CompSci 
 
