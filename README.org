@@ -9,6 +9,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2020
 
+
+*** Noviembre 2020
+
++ 05-nov-20: #MULCIA: 2+ postdoc researchers (max 5 years) and 4+ Ph.D. students
+  in formal methods and control theory for AI-intensive cyber-physical systems
+  in Kyoto or Tokyo, Japan https://bit.ly/2IansdX #PhD #PostDoc #CompSci 
+
 *** Octubre 2020
 
 + 23-oct-20: #MULCIA: 4 PhD and 4 Postdoc positions at Umeå University (Sweden)
