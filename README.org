@@ -11,6 +11,22 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2020
 
++ 13-nov-20: #MULCIA: PhD student positions at Boston University Programming
+  Languages and Verification group. https://bit.ly/3kvTePI #PhD #CompSci
+
++ 13-nov-20: #MULCIA: 10 PhD positions at TU Wien on Security and Privacy,
+  Formal Methods, and Machine Learning. https://bit.ly/3eXAXJT #PhD #CompSci
+
++ 13-nov-20: #MULCIA: Postdoctoral position in mathematical logic, Gent
+  (Belgium). https://bit.ly/3pqj7UU #PostDoc #Logic
+
++ 13-nov-20: #MULCIA: Postdoctoral positions in mathematics (logic included),
+  Madison WI (U.S.A.). https://bit.ly/3nj5UeG #PostDoc #Logic
+
++ 13-nov-20: #MULCIA: PhD student position and postdoctoral position in
+  philosophy of machine learning, Tuebingen (Germany). https://bit.ly/3pxRFEX
+  #PhD #CompSci
+
 + 10-nov-20: #MULCIA: Postdoctoral position on logical foundations and
   verification of distributed systems at VERIMAG (Grenoble,
   France). https://bit.ly/38AI22d #PostDoc #CompSci
