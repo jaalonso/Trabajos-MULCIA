@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2020
 
++ 14-nov-20: #MULCIA: PhD positions at Verified Software research
+  group. Imperial College London. https://bit.ly/3kCrHMQ #PhD #CompSci
+
 + 13-nov-20: #MULCIA: PhD student positions at Boston University Programming
   Languages and Verification group. https://bit.ly/3kvTePI #PhD #CompSci
 
