@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2020
 
++ 17-nov-20: #MULCIA: A postdoctoral position is available in the Computer
+  Science department at Boston College as part of an NSF-supported project on
+  formal verification of machine learning algorithms. https://bit.ly/2UE09vC
+  #PostDoc #CompSci
+
 + 14-nov-20: #MULCIA: PhD positions at Verified Software research
   group. Imperial College London. https://bit.ly/3kCrHMQ #PhD #CompSci
 
