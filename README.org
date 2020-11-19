@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2020
 
++ 19-nov-20: #MULCIA: Convocatoria Extraordinaria para acceder a la Bolsa de
+  Profesores Sustitutos Interinos del Departamento de Ciencias de la Computación
+  e I.A. de la Universidad de Sevilla. https://bit.ly/3feRFVq
+
 + 17-nov-20: #MULCIA: A postdoctoral position is available in the Computer
   Science department at Boston College as part of an NSF-supported project on
   formal verification of machine learning algorithms. https://bit.ly/2UE09vC
