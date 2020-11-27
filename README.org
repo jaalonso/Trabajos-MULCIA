@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2020
 
++ 27-nov-20: #MULCIA: PhD positions: Verified Software Group, Imperial College
+  London. https://bit.ly/3q5IL1o #PhD #CompSci
+
 + 27-nov-20: #MULCIA: PhD positions at Aarhus University on algorithmic
   verification & programming languages. https://bit.ly/39eHKhI #PhD #CompSci
 
