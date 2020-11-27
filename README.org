@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2020
 
++ 27-nov-20: #MULCIA: Two postdoc positions in automatic and interactive theorem
+  proving using system Coq. https://bit.ly/3fENQsJ #PostDoc #CompSci #ITP #Coq
+
 + 21-nov-20: #MULCIA: 2 postdoctoral fellowships (2 years) in Computer Science
   with focus on AI for Data Management. Umeå University. https://bit.ly/3kPSntm
   #PostDoc #CompSci #AI
