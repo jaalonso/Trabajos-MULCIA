@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2020
 
++ 27-nov-20: #MULCIA: PhD positions at Aarhus University on algorithmic
+  verification & programming languages. https://bit.ly/39eHKhI #PhD #CompSci
+
 + 27-nov-20: #MULCIA: Two postdoc positions in automatic and interactive theorem
   proving using system Coq. https://bit.ly/3fENQsJ #PostDoc #CompSci #ITP #Coq
 
