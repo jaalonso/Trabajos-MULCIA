@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre 2020
 
++ 03-dic-20: #MULCIA: Funded MSc, PhD and postdoc positions in Program Reasoning
+  and Verification at The University of British Columbia
+  (Vancouver). https://bit.ly/3mv5uSq #PhD #PostDoc #CompSci
+
 + 01-dic-20: #MULCIA: PhD positions at University of Glasgow in Programming
   Languages. https://bit.ly/3fQpMDw #PhD #CompSci
 
