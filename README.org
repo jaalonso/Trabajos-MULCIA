@@ -12,6 +12,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre 2020
 
++ 06-dic-20: #MULCIA: Postdoc and PhD positions in the Lab for Temporal
+  Logic. Iowa State University. https://bit.ly/3lKiP8d #PhD #PostDoc #CompSci
+
++ 06-dic-20: #MULCIA: PhD positions at the International Max Planck Research
+  School on trustworthy computing. https://bit.ly/2VIre1r #PhD #CompSci
+
++ 06-dic-20: #MULCIA: Postdoctoral position in Program Analysis/Systems at
+  Imperial College London. https://bit.ly/2JWfTrL #PostDoc #CompSci
+
 + 03-dic-20: #MULCIA: Funded MSc, PhD and postdoc positions in Program Reasoning
   and Verification at The University of British Columbia
   (Vancouver). https://bit.ly/3mv5uSq #PhD #PostDoc #CompSci
