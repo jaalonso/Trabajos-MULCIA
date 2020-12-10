@@ -12,6 +12,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre 2020
 
++ 10-dic-20: #MULCIA: Postdoc and research engineer positions in semantics and
+  verification for secure systems software. University of
+  Cambridge. https://bit.ly/2VWsbTW #PhD #PostDoc #CompSci
+
++ 10-dic-20: #MULCIA: 3-year post-doc in programming language foundations at
+  University of Glasgow. https://bit.ly/3qI8Aoy #PostDoc #CompSci
+
++ 10-dic-20: #MULCIA: PhD positions in programming languages in LFCS/University
+  of Edinburgh. https://bit.ly/37LorKu #PhD #CompSci
+
 + 06-dic-20: #MULCIA: Postdoc and PhD positions in the Lab for Temporal
   Logic. Iowa State University. https://bit.ly/3lKiP8d #PhD #PostDoc #CompSci
 
