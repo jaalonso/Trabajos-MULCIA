@@ -11,6 +11,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2021
 
++ 07-ene-21: #MULCIA: Postdoc in Statistical Model Checking at UCLouvain --
+  Belgium. https://bit.ly/3pToH1x #PostDoc #CompSci
+
++ 07-ene-21: #MULCIA: PhD positions in Mathematical Foundations of Computation
+  at University of Bath. https://bit.ly/3pXPJop #PhD #CompSci
+
++ 07-ene-21: #MULCIA: fully funded PhD position on verification of industrial
+  robots at University of Sheffield. https://bit.ly/35ekbTi #PhD #CompSci
+
++ 07-ene-21: #MULCIA: Two industrially-funded PhD positions at VERIMAG,
+  Grenoble, France. https://bit.ly/35fZs1o #PhD #CompSci
+
 + 06-ene-21: #MULCIA: Position in St.Petersburg: Math Logic and/or
   TCS. https://bit.ly/38k7Yyp #PostDoc #Logic #CompSci
 
