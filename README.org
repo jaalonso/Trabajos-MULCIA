@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2021
 
++ 15-ene-21: #MULCIA: Research Associate in Formal Mathematics at Imperial
+  College London. https://bit.ly/3sCgXmO #PostDoc #ITP #LeanProver #Math
+
 + 07-ene-21: #MULCIA: Postdoc in Statistical Model Checking at UCLouvain --
   Belgium. https://bit.ly/3pToH1x #PostDoc #CompSci
 
