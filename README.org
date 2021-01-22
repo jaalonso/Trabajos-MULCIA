@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2021
 
++ 22-ene-21: #MULCIA: Two fully funded PhD positions in type theory at
+  Chalmers/Gothenburg Univ. https://bit.ly/3a08Mbw #PhD #CompSci
+
 + 21-ene-21: #MULCIA: Postdoctoral position in HoTT at the University of San
   Diego. https://bit.ly/2KzgtN3 #PostDoc #CompSci #HoTT
 
