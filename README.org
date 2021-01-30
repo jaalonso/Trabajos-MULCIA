@@ -11,6 +11,29 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2021
 
++ 30-ene-21: #MULCIA: PhD student and postdoctoral positions in Mode(s) of
+  Verification & Monitorability, Reykjavik (Iceland). https://bit.ly/2MB0ejh
+  #PhD #PostDoc #CompSci
+
++ 30-ene-21: #MULCIA: Postdoctoral position in Computational Linguistics,
+  Duesseldorf (Germany). https://bit.ly/3pzqsku #PostDoc #CompSci
+
++ 30-ene-21: #MULCIA: Postdoctoral position on analysis techniques for deep
+  neural networks. Rice University. https://bit.ly/3pwRUPT #PostDoc #CompSci
+
++ 30-ene-21: #MULCIA: PhD student position on foundations of knowledge,
+  Groningen (The Netherlands). https://bit.ly/3pwsDpe #PhD #CompSci #Logic
+
++ 30-ene-21: #MULCIA: PhD student position on coalgebraic logics for
+  quantitative verification, Glasgow (Scotland). https://bit.ly/3t953RA #PhD
+  #Logic #CompSci
+
++ 30-ene-21: #MULCIA: PhD student position on concurrency & logic, Groningen
+  (The Netherlands). https://bit.ly/3pDX0Kw #PhD #Logic #CompSci
+
++ 30-ene-21: #MULCIA: Postdoctoral position (2y) in Logic, Beijing
+  (China). https://bit.ly/2Ysllqv #PostDoc #Logic
+
 + 22-ene-21: #MULCIA: Two fully funded PhD positions in type theory at
   Chalmers/Gothenburg Univ. https://bit.ly/3a08Mbw #PhD #CompSci
 
