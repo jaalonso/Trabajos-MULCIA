@@ -17,6 +17,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2021
 
++ 02-feb-21: #MULCIA: PhD in theory and practise of refinement types at IMDEA
+  Software Institute. https://bit.ly/39F2MFV #PhD #CompSci #Haskell
+  #FunctionalProgramming
+
 + 30-ene-21: #MULCIA: PhD student and postdoctoral positions in Mode(s) of
   Verification & Monitorability, Reykjavik (Iceland). https://bit.ly/2MB0ejh
   #PhD #PostDoc #CompSci
