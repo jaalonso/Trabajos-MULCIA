@@ -9,6 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2021
 
+
+*** Febrero 2021
+
++ 02-feb-21: #MULCIA: Postdoc opening in categorical semantics at Appalachian
+  State University. https://bit.ly/36B28Yh #PostDoc #CompSci
+
 *** Enero 2021
 
 + 30-ene-21: #MULCIA: PhD student and postdoctoral positions in Mode(s) of
