@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2021
 
++ 10-feb-21: #MULCIA: PhD position in formal methods at the University of Oslo,
+  Norway. https://bit.ly/2Z1qruj #PhD #CompSci
+
 + 02-feb-21: #MULCIA: Postdoc opening in categorical semantics at Appalachian
   State University. https://bit.ly/36B28Yh #PostDoc #CompSci
 
