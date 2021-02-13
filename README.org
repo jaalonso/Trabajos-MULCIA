@@ -12,6 +12,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2021
 
++ 13-feb-21: #MULCIA: PhD position in formal methods/decompilation at the Open
+  University of The Netherlands. https://bit.ly/37bIAK7 #PhD #CompSci
+
++ 13-feb-21: #MULCIA: 12 month postdoc positions in Paris and Marseille to
+  develop formal methods for probabilistic computing. https://bit.ly/2MSSgm5
+  #PostDoc #CompSci
+
 + 10-feb-21: #MULCIA: PhD position in formal methods at the University of Oslo,
   Norway. https://bit.ly/2Z1qruj #PhD #CompSci
 
