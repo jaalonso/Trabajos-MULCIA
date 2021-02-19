@@ -12,6 +12,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2021
 
++ 19-feb-21: #MULCIA: Postdoc and PhD Positions at Imperial College London in
+  Complexity https://bit.ly/2NFxyWG #PhD #PostDoc #CompSci
+
++ 19-feb-21: #MULCIA: Researcher position on ERC project FUN2MODEL (From
+  FUNction-based TO MOdel-based automated probabilistic reasoning for DEep
+  Learning) at Oxford. https://bit.ly/3u8J5Pf #PostDoc #CompSci
+
++ 19-feb-21: #MULCIA: Postdoc positions on ERC project PERSIST (A Semantic
+  Foundation for Persistent Programming) at MPI-SWS. https://bit.ly/3ax4MAs
+  #PostDoc #CompSci
+
 + 13-feb-21: #MULCIA: PhD position in formal methods/decompilation at the Open
   University of The Netherlands. https://bit.ly/37bIAK7 #PhD #CompSci
 
