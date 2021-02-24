@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2021
 
++ 24-feb-21: #MULCIA: Postdoctor in Type theory for mathematics and computer
+  science. University of Gothenburg. https://bit.ly/3kiIYvO #PostDoc #CompSci
+
 + 19-feb-21: #MULCIA: Postdoc and PhD Positions at Imperial College London in
   Complexity https://bit.ly/2NFxyWG #PhD #PostDoc #CompSci
 
