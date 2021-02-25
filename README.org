@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2021
 
++ 25-feb-21: #MULCIA: Postdoc/phd positions in ERC project "Certified Quantum
+  Security" (formal verification of quantum crypto). https://bit.ly/3qYgFp8 #PhD
+  #PostDoc #CompSci
+
 + 24-feb-21: #MULCIA: Postdoctor in Type theory for mathematics and computer
   science. University of Gothenburg. https://bit.ly/3kiIYvO #PostDoc #CompSci
 
