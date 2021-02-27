@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2021
 
++ 27-feb-21: #MULCIA: Post-doc position (2 years) on monitoring and verification
+  of smart systems. https://bit.ly/3uEch0w #PostDoc #CompSci
+
 + 25-feb-21: #MULCIA: Postdoc/phd positions in ERC project "Certified Quantum
   Security" (formal verification of quantum crypto). https://bit.ly/3qYgFp8 #PhD
   #PostDoc #CompSci
