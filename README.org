@@ -9,6 +9,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2021
 
+*** Marzo 2021
+
++ 01-mar-21: #MULCIA: Post-doc position in Programming Language Foundations at
+  University of Glasgow. https://bit.ly/3r1WNkO #PostDoc #CompSci
+
++ 01-mar-21: #MULCIA: Lecturer (Assistant Professor) Position in Programming
+  Languages at the University of Kent. https://bit.ly/3r5GhAv #PostDoc #CompSci
 
 *** Febrero 2021
 
