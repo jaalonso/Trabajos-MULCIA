@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2021
 
++ 11-mar-21: #MULCIA: PhD position in Programming Language Tooling - Lund
+  University, Sweden https://bit.ly/30x5Q1J #PhD #CompSci
+
++ 11-mar-21: #MULCIA: PhD or postdoc position on program verification and Iris
+  at Radboud University Nijmegen https://bit.ly/3l5bUaU #PhD #PostDoc #CompSci
+
++ 09-mar-21: #MULCIA: PhD or postdoc position on program verification and Iris
+  at Radboud University Nijmegen. https://bit.ly/2N15EEL #PhD #PostDoc #CompSci
+
 + 08-mar-21: #MULCIA: 3 Post-doc positions on semantics of programming languages
   at the University of Bologna. https://bit.ly/30obrHy #PostDoc #CompSci
 
