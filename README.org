@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2021
 
++ 13-mar-21: #MULCIA: Lecturer in Verification position at University of
+  Sheffield. https://bit.ly/3bHygfG #PostDoc #CompSci
+
 + 11-mar-21: #MULCIA: PhD position in Programming Language Tooling - Lund
   University, Sweden https://bit.ly/30x5Q1J #PhD #CompSci
 
