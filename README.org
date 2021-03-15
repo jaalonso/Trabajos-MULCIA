@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2021
 
++ 15-mar-21: #MULCIA: Postdoctoral position in foundations of autonomous
+  multi-agent systems, Warsaw (Poland) https://bit.ly/3qVYjUZ #PostDoc #CompSci
+
++ 15-mar-21: #MULCIA: Postdoctoral position in mathematical logic, Bern
+  (Switzerland). https://bit.ly/2OUcs7s #PostDoc #CompSci
+
++ 15-mar-21: #MULCIA: PhD Research Fellow in Informatics - Knowledge
+  Representation and Machine Learning. https://bit.ly/3vs3Buw #PhD #CompSci
+
 + 13-mar-21: #MULCIA: Lecturer in Verification position at University of
   Sheffield. https://bit.ly/3bHygfG #PostDoc #CompSci
 
