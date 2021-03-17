@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2021
 
++ 17-mar-21: #MULCIA: PhD Position at U. Oslo: Formal Methods for Probabilistic
+  Programs. https://bit.ly/30VJqXO #PhD #CompSci
+
++ 17-mar-21: #MULCIA: Research Programmer in HoTT and Cubical Type Theory at
+  University of Minnesota. https://bit.ly/30TrBsI #PhD #PostDoc #CompSci
+
 + 15-mar-21: #MULCIA: Postdoctoral position in foundations of autonomous
   multi-agent systems, Warsaw (Poland) https://bit.ly/3qVYjUZ #PostDoc #CompSci
 
