@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2021
 
++ 24-mar-21: #MULCIA: PhD student position in logic in philosophy & AI, Bochum
+  (Germany). https://bit.ly/2QzEJRP #PhD #CompSci
+
++ 24-mar-21: #MULCIA: Research fellowship in programming principles, logic, &
+  verification, London (England). https://bit.ly/31a27r2 #PhD #PostDoc #CompSci
+
++ 24-mar-21: #MULCIA: PhD student position on interactions between spaces of
+  argumentation, Paris (France). https://bit.ly/3snOyQY #PhD #CompSci
+
 + 22-mar-21: #MULCIA: 2-year researcher position in HoTT, Stockholm
   University. https://bit.ly/2OONIhC #PostDoc #CompSci
 
