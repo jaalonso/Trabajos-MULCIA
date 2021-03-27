@@ -10,6 +10,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2021
 
 *** Marzo 2021
++ 27-mar-21: #MULCIA: Lectureship or Associate Professorship in programming
+  principles, logic, & verification, London (England). https://bit.ly/2Pzf0rY
+  #PostDoc #CompSci
+
++ 27-mar-21: #MULCIA: Post-Doctoral Research Associate in Verification of
+  Trustworthy Autonomous Systems, Manchester (England). https://bit.ly/3rtuAmg
+  #PostDoc #CompSci
+
++ 25-mar-21: #MULCIA: Research position at UCL, London: Research Fellow in
+  Programming Principles, Logic, and Verification: Systems Security Modelling.
+  https://bit.ly/39gPX4e #PhD #PostDoc #CompSci
 
 + 24-mar-21: #MULCIA: PhD student position in logic in philosophy & AI, Bochum
   (Germany). https://bit.ly/2QzEJRP #PhD #CompSci
