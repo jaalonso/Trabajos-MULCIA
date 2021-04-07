@@ -9,6 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2021
 
+
+*** Abril 2021
+
++ 07-abr-21: #MULCIA: Announcing a postdoc in Cambridge ideally suited for Coq
+  enthusiasts. https://bit.ly/3cX9lFx #PostDoc #CompSci #Coq
+
 *** Marzo 2021
 + 27-mar-21: #MULCIA: Lectureship or Associate Professorship in programming
   principles, logic, & verification, London (England). https://bit.ly/2Pzf0rY
