@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2021
 
++ 09-abr-21: #MULCIA: Pos doc position at University of
+  Minho. https://bit.ly/3e3CyhB #PostDoc #CompSci #Logic
+
 + 07-abr-21: #MULCIA: Announcing a postdoc in Cambridge ideally suited for Coq
   enthusiasts. https://bit.ly/3cX9lFx #PostDoc #CompSci #Coq
 
