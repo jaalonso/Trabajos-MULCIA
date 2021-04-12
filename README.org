@@ -9,8 +9,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2021
 
-
 *** Abril 2021
+
++ 12-abr-21: #MULCIA: Two Postdoc Positions within the DIAPASoN (Differential
+  Program Semantics) Project. https://bit.ly/3tf7Ecf #PostDoc #CompSci
 
 + 09-abr-21: #MULCIA: Pos doc position at University of
   Minho. https://bit.ly/3e3CyhB #PostDoc #CompSci #Logic
