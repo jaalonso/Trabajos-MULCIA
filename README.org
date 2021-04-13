@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2021
 
++ 13-abr-21: #MULCIA: Two PhD positions in Formal Methods for Underwater Robots
+  available (RWTH Aachen, Uni Oslo). https://bit.ly/3sbbq5e #PhD #CompSci
+
 + 12-abr-21: #MULCIA: Two Postdoc Positions within the DIAPASoN (Differential
   Program Semantics) Project. https://bit.ly/3tf7Ecf #PostDoc #CompSci
 
