@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2021
 
++ 16-abr-21: #MULCIA: Postdoctoral Position (12m) on integrated verification of
+  cyberphysical systems, Padua (Italy). https://bit.ly/2OUdYXR #PostDoc #CompSci
+
++ 16-abr-21: #MULCIA: Postdoctoral position in philosophy of AI, Utrecht (The
+  Netherlands) https://bit.ly/3e4Qms1 #PostDoc #AI
+
 + 13-abr-21: #MULCIA: Two PhD positions in Formal Methods for Underwater Robots
   available (RWTH Aachen, Uni Oslo). https://bit.ly/3sbbq5e #PhD #CompSci
 
