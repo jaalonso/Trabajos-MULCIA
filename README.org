@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2021
 
++ 16-abr-21: #MULCIA: PhD opening in HoTT at Stockholm. https://bit.ly/3v0RnZ3
+  #PhD #CompSci #HoTT
+
 + 16-abr-21: #MULCIA: Postdoctoral Position (12m) on integrated verification of
   cyberphysical systems, Padua (Italy). https://bit.ly/2OUdYXR #PostDoc #CompSci
 
