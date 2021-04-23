@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2021
 
++ 23-abr-21: #MULCIA: Hiring: Programming Languages Researcher/Senior
+  Researcher. https://bit.ly/3dIXNpZ #PostDoc #CompSci
+
 + 20-abr-21: #MULCIA: Research engineer position (Development of Squirrel: an
   interactive prover for protocol verification) https://bit.ly/3v6fHsk #Job
   #CompSci
