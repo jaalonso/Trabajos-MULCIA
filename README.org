@@ -9,6 +9,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2021
 
+*** Mayo 2021
+
++ 10-may-21: #MULCIA: PhD position in proof theory / reverse
+  mathematics. https://bit.ly/2Svo4j8 #PhD #Logic #Math
+
 *** Abril 2021
 
 + 23-abr-21: #MULCIA: Hiring: Programming Languages Researcher/Senior
