@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2021
 
++ 10-may-21: #MULCIA: Postdoc position (6 years) in the Computational Logic
+  research group in Innsbruck https://bit.ly/33wR7Fu #PostDoc #CompSci #Logic
+
++ 10-may-21: #MULCIA: Postdoctoral Position in Verified
+  Security. https://bit.ly/3tCZ46q #PostDoc #CompSci
+
 + 10-may-21: #MULCIA: PhD position in proof theory / reverse
   mathematics. https://bit.ly/2Svo4j8 #PhD #Logic #Math
 
