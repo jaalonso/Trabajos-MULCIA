@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2021
 
++ 12-may-21: #MULCIA: Postdoc position at the LIP laboratory, ENS de Lyon,
+  France. https://bit.ly/33B4IeR #PostDoc #CompSci
+
 + 10-may-21: #MULCIA: Postdoc position (6 years) in the Computational Logic
   research group in Innsbruck https://bit.ly/33wR7Fu #PostDoc #CompSci #Logic
 
