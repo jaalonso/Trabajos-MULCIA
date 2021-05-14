@@ -11,6 +11,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2021
 
++ 14-may-21: #MULCIA: PhD student position in Logic & AI, Bergen
+  (Norway). https://bit.ly/3eKLSbJ #PhD #CompSci
+
++ 14-may-21: #MULCIA: Assistant / Associate Professorship in Logic-based AI,
+  Kungens Lyngby (Denmark). https://bit.ly/3ogNhKf #PostDoc #CompSci
+
++ 14-may-21: #MULCIA: PhD student position in proof theory, Darmstadt (Germany)
+  https://bit.ly/3tQ3EOS #PhD #Logic
+
++ 14-may-21: #MULCIA: PhD student position in Logic, Amsterdam (The
+  Netherlands). https://bit.ly/3ogzHq1 #PhD #Logic
+
 + 12-may-21: #MULCIA: Postdoc position at the LIP laboratory, ENS de Lyon,
   France. https://bit.ly/33B4IeR #PostDoc #CompSci
 
