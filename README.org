@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2021
 
++ 15-may-21: #MULCIA: PhD student position in modal fixpoint logics, Amsterdam
+  (The Netherlands). https://bit.ly/3uQcb5z #PhD #CompSci #Logic
+
 + 15-may-21: #MULCIA: Postdoctoral position in logic, semantics, formal
   verification, Lyon (France). https://bit.ly/3uR9Ebl #PostDoc #CompSci
 
