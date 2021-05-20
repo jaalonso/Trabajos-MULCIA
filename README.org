@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2021
 
++ 20-may-21: #MULCIA: PhD student position on explaining the meaning of logical
+  formulas in ordinary language, Utrecht (The Netherlands).
+  http://bit.ly/3f2Lx47 #PhD #CompSci
+
 + 15-may-21: #MULCIA: PhD student position in modal fixpoint logics, Amsterdam
   (The Netherlands). https://bit.ly/3uQcb5z #PhD #CompSci #Logic
 
