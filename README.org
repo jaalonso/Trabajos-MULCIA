@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2021
 
++ 26-may-21: #MULCIA: Postdoctoral position in the Geometry of Algorithms, Paris
+  (France. https://bit.ly/3vuNpso #PostDoc #CompSci
+
 + 20-may-21: #MULCIA: PhD position on the verification of automated reasoning
   using Isabelle. Max-Planck-Institute for Informatics, Saarbrücken,
   Germany. https://bit.ly/3f4EtnH #PhD #CompSci #IsabelleHOL
