@@ -10,6 +10,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2021
 
 *** Mayo 2021
++ 29-may-21: #MULCIA: PhD student and post-doc positions in Program Verification
+  at ETH Zurich. https://bit.ly/3vz9N3K #PhD #PostDoc #CompSci
+
++ 28-may-21: #MULCIA: PhD position on program verification in Coq at University
+  of Lille, France. https://bit.ly/3wFw8wF #PhD #CompSci #ITP #Coq
 
 + 27-may-21: #MULCIA: PhD studentship in homotopy type theory and univalent
   foundations at TU Delft. https://bit.ly/2RP34UD #PhD #PostDoc #CompSci
