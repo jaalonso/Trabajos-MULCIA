@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2021
 
++ 01-jun-21: #MULCIA: Postdoc position at Cambridge in programming with
+  equations https://bit.ly/3i3Z8tY #PostDoc #CompSci
+
 + 01-jun-21: #MULCIA: Two fully-funded PhD positions in software security,
   program analysis & formal methods @ Université Paris-Saclay, CEA List,
   France. https://bit.ly/3fElsbR #PhD #CompSci
