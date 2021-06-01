@@ -9,7 +9,21 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2021
 
+*** Junio 2021
+
++ 01-jun-21: #MULCIA: Two fully-funded PhD positions in software security,
+  program analysis & formal methods @ Université Paris-Saclay, CEA List,
+  France. https://bit.ly/3fElsbR #PhD #CompSci
+
++ 01-jun-21: #MULCIA: Postdoc position at CMU: Verified DSLs for high assurance
+  systems. https://bit.ly/3pfVBu3 #PostDoc #CompSci
+
++ 01-jun-21: #MULCIA: Two positions (one PhD and one Postdoc) in quantum formal
+  verification @ Université Paris-Saclay, CEA List,
+  France. https://bit.ly/3uz9tk8 #PhD #PostDoc #CompSci
+
 *** Mayo 2021
+
 + 29-may-21: #MULCIA: PhD student and post-doc positions in Program Verification
   at ETH Zurich. https://bit.ly/3vz9N3K #PhD #PostDoc #CompSci
 
