@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2021
 
++ 02-jun-21: #MULCIA: Postdoc Position in Logical Foundations of AI, Logic Group
+  at University of Milan. https://bit.ly/38k9Rtr #PostDoc #AI
+
 + 01-jun-21: #MULCIA: Postdoc position at Cambridge in programming with
   equations https://bit.ly/3i3Z8tY #PostDoc #CompSci
 
