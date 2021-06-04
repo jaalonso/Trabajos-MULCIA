@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2021
 
++ 04-jun-21: #MULCIA: Research position in Formal Verification at HENSOLDT Cyber
+  in Munich. https://bit.ly/3uNOdHC #PostDoc #CompSci
+
++ 04-jun-21: #MULCIA: PhD funding on "Reasoning about Concurrent Game Structures
+  with Numerical Resources" https://bit.ly/3fLUfnQ #PhD #CompSci
+
 + 02-jun-21: #MULCIA: Postdoc Position in Logical Foundations of AI, Logic Group
   at University of Milan. https://bit.ly/38k9Rtr #PostDoc #AI
 
