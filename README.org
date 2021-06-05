@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2021
 
++ 05-jun-21: #MULCIA: PhD positions in Grenoble, France. https://bit.ly/3geO62i
+  #PhD #CompSci
+
++ 05-jun-21: #MULCIA: Two PhD positions and Two Postdoc positions in Logic
+  (Groningen). https://bit.ly/3x03jLo #PhD #PosDoc #Logic #CompSci
+
 + 04-jun-21: #MULCIA: PhD position in HoTT/UF at TU
   Delft. https://bit.ly/3wUZmrt #PhD #CompSci
 
