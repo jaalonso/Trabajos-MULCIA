@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2021
 
++ 06-jun-21: #MULCIA: PhD Position in Logic and Theoretical Computer
+  Science. University of Groningen. https://bit.ly/3pBXd1D #PhD #Logic #CompSci
+
++ 06-jun-21: #MULCIA: PhD Position in Logic and Semantics of
+  Computing. University of Groningen. https://bit.ly/3vWpHWb #PhD #CompSci
+
++ 06-jun-21: #MULCIA: Post-doctoral Positions in Logic and Theoretical Computer
+  Science. University of Groningen. https://bit.ly/34REyFl #PostDoc #CompSci
+
 + 05-jun-21: #MULCIA: PhD positions in Grenoble, France. https://bit.ly/3geO62i
   #PhD #CompSci
 
