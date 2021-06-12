@@ -11,6 +11,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2021
 
++ 12-jun-21: #MULCIA: Research Assistant / Research Associate in
+  Argumentation-based Explainable Machine Learning. Imperial College
+  London. https://bit.ly/3wusG8c #PhD #PostDoc #CompSci #AI
+
++ 12-jun-21: #MULCIA: Research Assistant / Associate in Argument-Mining-based
+  Explainable AI. Imperial College London. https://bit.ly/3wgMeNm #PhD #PostDoc
+  #CompSci #AI
+
++ 12-jun-21: #MULCIA: Research Assistant / Associate in Argumentation-based
+  Explainable AI. Imperial College London. https://bit.ly/3wlJ4bd #PhD #PostDoc
+  #CompSci #AI
+
 + 06-jun-21: #MULCIA: PhD Position in Logic and Theoretical Computer
   Science. University of Groningen. https://bit.ly/3pBXd1D #PhD #Logic #CompSci
 
