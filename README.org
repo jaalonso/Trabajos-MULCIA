@@ -11,6 +11,21 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2021
 
++ 16-jun-21: #MULCIA: Postdoctoral position on polymorphism algebras, Vienna
+  (Austria). https://bit.ly/3vrnoJr #PostDoc #CompSci
+
++ 16-jun-21: #MULCIA: 5-year PhD position in Logic in Multi-agent
+  Systems. https://bit.ly/3xkOeUQ #PhD #CompSci
+
++ 16-jun-21: #MULCIA: Postdoctoral position (2y) in logical foundations of AI,
+  Milano (Italy). https://bit.ly/38k9Rtr #PostDoc #CompSci
+
++ 16-jun-21: #MULCIA: PhD student position in Knowledge Representation &
+  Reasoning, Luxembourg (Luxembourg). https://bit.ly/35oebHp #PhD #CompSci
+
++ 16-jun-21: #MULCIA: Two PhD student scholarships in Knowledge Representation &
+  Reasoning, Brussels (Belgium). https://bit.ly/3gr0iyi #PhD #CompSci
+
 + 12-jun-21: #MULCIA: Research Assistant / Research Associate in
   Argumentation-based Explainable Machine Learning. Imperial College
   London. https://bit.ly/3wusG8c #PhD #PostDoc #CompSci #AI
