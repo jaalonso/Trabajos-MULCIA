@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2021
 
++ 22-jun-21: #MULCIA: PhD position: Proof theory and algebra of fixed
+  points. Birmingham, UK and Melbourne, Australia. https://bit.ly/3qeX6t5 #PhD
+  #CompSci
+
++ 22-jun-21: #MULCIA: Postdoc Position at Simon Fraser University in Vancouver,
+  Canada. https://bit.ly/3wMpGEz #PostDoc #CompSci
+
++ 22-jun-21: #MULCIA: Postdoc Position, Programming Group - SCS, University of
+  St.Gallen. https://bit.ly/2SlIxYa #PostDoc #CompSci
+
 + 19-jun-21: #MULCIA: Job offer: 3 year research engineer in static analysis of
   OCaml programs at Inria Rennes. https://bit.ly/35CPuXS  #PostDoc #CompSci
 
