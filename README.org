@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2021
 
++ 22-jun-21: #MULCIA: PhD student position in logic in multi-agent systems,
+  Utrecht (The Netherlands). https://bit.ly/3xkOeUQ #PhD #CompSci
+
 + 22-jun-21: #MULCIA: PhD position: Proof theory and algebra of fixed
   points. Birmingham, UK and Melbourne, Australia. https://bit.ly/3qeX6t5 #PhD
   #CompSci
