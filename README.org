@@ -9,6 +9,23 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2021
 
+*** Julio 2021
+
++ 06-jul-21: #MULCIA: Two PhD student positions in continuous-time models,
+  verification and machine learning. Aalborg (Denmark) https://bit.ly/3yutmeK
+  #PhD #CompSci
+
++ 06-jul-21: #MULCIA: Tenure-track assistant professorship in programming,
+  logic, & intelligent systems, Roskilde (Denmark). https://bit.ly/3xmIY3J
+  #PostDoc #CompSci
+
++ 06-jul-21: #MULCIA: Two postdoctoral research positions in formal
+  verification, Manchester (England). https://bit.ly/3hiK5M8 #PostDoc #CompSci
+
++ 06-jul-21: #MULCIA: PhD student position & postdoctoral position on
+  foundations of knowledge graphs, Stuttgart (Germany). https://bit.ly/36jaTp8
+  #PhD #CompSci
+
 *** Junio 2021
 
 + 22-jun-21: #MULCIA: PhD student position in logic in multi-agent systems,
