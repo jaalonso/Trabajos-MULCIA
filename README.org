@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2021
 
++ 09-jul-21: #MULCIA: Postdoctoral Position at the University of Cambridge with
+  the ERC Consolidator Grant project TypeFoundry. https://bit.ly/3k49OcW
+  #PostDoc #CompSci
+
++ 09-jul-21: #MULCIA: Vacancy for a PhD in Computer Science and Functional
+  Programming. https://bit.ly/3hpfE74 #PhD #CompSci #FunctionalProgramming
+
 + 06-jul-21: #MULCIA: Two PhD student positions in continuous-time models,
   verification and machine learning. Aalborg (Denmark) https://bit.ly/3yutmeK
   #PhD #CompSci
