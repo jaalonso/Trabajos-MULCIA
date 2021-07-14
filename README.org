@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2021
 
++ 14-jul-21: #MULCIA: Two postdoc positions on next-generation fuzzing
+  techniques. Imperial College London. https://bit.ly/2U7Tsp2 #PostDoc #CompSci
+
++ 14-jul-21: #MULCIA: Postdoc Position in Formal Verification at University of
+  Stuttgart. https://bit.ly/36ErDHL #PostDoc #CompSci
+
 + 09-jul-21: #MULCIA: Postdoctoral Position at the University of Cambridge with
   the ERC Consolidator Grant project TypeFoundry. https://bit.ly/3k49OcW
   #PostDoc #CompSci
