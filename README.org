@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2021
 
++ 15-jul-21: #MULCIA: Postdoctoral position at Stanford Center for AI
+  Safety. https://bit.ly/3yZ0ATB #PostDoc #CompSci #AI #FormalMethods
+
++ 15-jul-21: #MULCIA: Three-year postdoc position on verifying concurrent
+  programs at Imperial College London. https://bit.ly/3B1GLNr #PostDoc #CompSci
+
++ 15-jul-21: #MULCIA: 6-Month postdoc in lambda-calculi and effects, University
+  of Bath. https://bit.ly/3enW21j #PostDoc #CompSci
+
 + 14-jul-21: #MULCIA: Two postdoc positions on next-generation fuzzing
   techniques. Imperial College London. https://bit.ly/2U7Tsp2 #PostDoc #CompSci
 
