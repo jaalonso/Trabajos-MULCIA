@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2021
 
++ 17-jul-21: #MULCIA: Postdoc position: Formal methods in control (Munich,
+  Germany). https://bit.ly/3zlB5fB #PostDoc #CompSci
+
 + 15-jul-21: #MULCIA: Postdoctoral position at Stanford Center for AI
   Safety. https://bit.ly/3yZ0ATB #PostDoc #CompSci #AI #FormalMethods
 
