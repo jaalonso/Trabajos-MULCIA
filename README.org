@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2021
 
++ 20-jul-21: #MULCIA: PhD position in machine learning technology to improve
+  symbolic integration and simplification in a leading computer algebra
+  system. Coventry University. https://bit.ly/3xQSfRS #PhD #CompSci
+
 + 17-jul-21: #MULCIA: Postdoc position: Formal methods in control (Munich,
   Germany). https://bit.ly/3zlB5fB #PostDoc #CompSci
 
