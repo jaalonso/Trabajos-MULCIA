@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2021
 
++ 21-jul-21: #MULCIA: Postdoc and PhD positions in proof theory in
+  Ghent. https://bit.ly/3Bn0szf #PhD #PostDoc #Logic
+
 + 20-jul-21: #MULCIA: PhD position in machine learning technology to improve
   symbolic integration and simplification in a leading computer algebra
   system. Coventry University. https://bit.ly/3xQSfRS #PhD #CompSci
