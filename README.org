@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2021
 
++ 24-jul-21: #MULCIA: Funded postdoc and PhD positions in theorem proving and
+  intuitionistic mathematics https://bit.ly/2UJIGFV #PhD #PostDoc #CompSci
+  #Logic #Math
+
 + 23-jul-21: #MULCIA: Postdoctoral opening at the University of
   Minnesota. https://bit.ly/3wZpQrt #PostDoc #CompSci
 
