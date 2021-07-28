@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2021
 
++ 28-jul-21: #MULCIA: Postdoc at Cornell the Pronto
+  project. https://bit.ly/372bBaS #PostDoc #CompSci
+
 + 24-jul-21: #MULCIA: Funded postdoc and PhD positions in theorem proving and
   intuitionistic mathematics https://bit.ly/2UJIGFV #PhD #PostDoc #CompSci
   #Logic #Math
