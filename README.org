@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2021
 
++ 29-jul-21: #MULCIA: PhD position in automated reasoning (Grenoble,
+  France). https://bit.ly/2V1CusT #PhD #CompSci #ATP #ITP
+
++ 29-jul-21: #MULCIA: Postdoc position: Formal Verification/Synthesis (Munich,
+  Germany) https://bit.ly/2UT96Fu #PostDoc #CompSci
+
 + 28-jul-21: #MULCIA: Postdoc at Cornell the Pronto
   project. https://bit.ly/372bBaS #PostDoc #CompSci
 
