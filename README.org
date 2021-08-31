@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2021
 
++ 31-ago-21: #MULCIA: Postdoc position: Formal Methods (Munich,
+  Germany). https://bit.ly/3jueZCk #PostDoc #CompSci
+
 + 26-ago-21: #MULCIA: Research position at fortiss,
   Munich. https://bit.ly/3gv6XY3 #Job #CompSci
 
