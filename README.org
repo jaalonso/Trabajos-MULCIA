@@ -9,6 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2021
 
+*** Septiembre 2021
+
++ 07-sep-21: #MULCIA: Postdoctoral Fellow in computational mathematics and
+  programming logic at Stockholm University. https://bit.ly/3n6avEc #PostDoc
+  #CompSci
+
 *** Agosto 2021
 
 + 31-ago-21: #MULCIA: Postdoc position: Formal Methods (Munich,
