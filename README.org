@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2021
 
++ 09-sep-21: #MULCIA: 30 months postdoctoral research position at University of
+  Sheffield involving proof-assistant-based verification. https://bit.ly/2YENIFo
+  #PostDoc #CompSci
+
 + 07-sep-21: #MULCIA: Postdoctoral Fellow in computational mathematics and
   programming logic at Stockholm University. https://bit.ly/3n6avEc #PostDoc
   #CompSci
