@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2021
 
++ 15-sep-21: #MULCIA: PhD student position in Argumentation for XAI, Warsaw
+  (Poland). https://bit.ly/3tJXm4V #PhD #CompSci #XAI
+
 + 15-sep-21: #MULCIA: PhD and Postdoc positions: cyclic proof theory and
   coinductive reasoning at Ben-Gurion University in
   Israel. https://bit.ly/3z9WHe3 #PhD #PostDoc #Logic #Math #CompSci
