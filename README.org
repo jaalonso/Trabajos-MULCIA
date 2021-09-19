@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2021
 
++ 19-sep-21: #MULCIA: Postdoctoral position on verification via model learning,
+  London (England) https://bit.ly/3hMKkyG #PostDoc #CompSci
+
++ 19-sep-21: #MULCIA: Postdoctoral position on reasoning about interfacing &
+  communication (2y), London (England). https://bit.ly/3tTNXb8 #PostDoc #CompSci
+
++ 17-sep-21: #MULCIA: Post-doc on formal verification at Boston
+  College. https://bit.ly/3lr7bko #PostDoc #ITP #CompSci
+
 + 16-sep-21: #MULCIA: #Job: Formalization of olympiad-level problem statements
   in Lean. https://bit.ly/2VLuDQF #ITP #LeanProver #Math
 
