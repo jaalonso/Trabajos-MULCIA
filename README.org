@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2021
 
++ 24-sep-21: #MULCIA: Formal verification manager job at Google - Coq experience
+  a plus. https://bit.ly/2Zselhc #PostDoc #CompSci
+
 + 24-sep-21: #MULCIA: Postdoctoral Research Fellow / Research Fellow in
   Verifying Concurrent Data Structures for Trustworthy Systems at the University
   ofQueensland (Brisbane). https://bit.ly/3o4b1mI #PostDoc #CompSci
