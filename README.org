@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2021
 
++ 24-sep-21: #MULCIA: Postdoctoral Research Fellow / Research Fellow in
+  Verifying Concurrent Data Structures for Trustworthy Systems at the University
+  ofQueensland (Brisbane). https://bit.ly/3o4b1mI #PostDoc #CompSci
+
 + 19-sep-21: #MULCIA: Postdoctoral position on verification via model learning,
   London (England) https://bit.ly/3hMKkyG #PostDoc #CompSci
 
