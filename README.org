@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2021
 
++ 25-sep-21: #MULCIA: Postdoctoral positions in formal verification, Manchester
+  (England). https://bit.ly/39CY8ri #PostDoc #CompSci
+
 + 24-sep-21: #MULCIA: Formal verification manager job at Google - Coq experience
   a plus. https://bit.ly/2Zselhc #PostDoc #CompSci
 
