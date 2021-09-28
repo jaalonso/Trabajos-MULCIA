@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2021
 
++ 28-sep-21: #MULCIA: Post-Doc position at INRIA on semantics and verification
+  of probabilistic programs https://bit.ly/39Y7uhD #PostDoc #CompSci
+
 + 25-sep-21: #MULCIA: Postdoctoral positions in formal verification, Manchester
   (England). https://bit.ly/39CY8ri #PostDoc #CompSci
 
