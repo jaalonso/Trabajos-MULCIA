@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2021
 
++ 30-sep-21: #MULCIA: Postdoc and Ph.D. student positions in symbolic
+  algorithms - University of Bergen (Norway) https://bit.ly/3oqJjRn #PhD
+  #PostDoc #CompSci
+
 + 28-sep-21: #MULCIA: Post-Doc position at INRIA on semantics and verification
   of probabilistic programs https://bit.ly/39Y7uhD #PostDoc #CompSci
 
