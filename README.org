@@ -9,6 +9,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2021
 
+*** Octubre de 2021
+
++ 02-oct-21: #MULCIA: Research Fellows in Logic at UCL,
+  London. https://bit.ly/2WyrPH7 #PhD #PostDoc #Logic
+
++ 02-oct-21: #MULCIA: One-year postdoc position on category theory for
+  lambda-calculus and proof theory, in the Paris area https://bit.ly/3zWZPdO
+  #PostDoc #CompSci
+
 *** Septiembre 2021
 
 + 30-sep-21: #MULCIA: Postdoc and Ph.D. student positions in symbolic
