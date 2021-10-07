@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2021
 
++ 07-oct-21: #MULCIA: Postdoctoral position in logico-philosophical foundations
+  of geometry & topology, Torun (Poland). https://bit.ly/3BjHDwv #PostDoc #Logic
+  #Math
+
++ 07-oct-21: #MULCIA: Research Fellowship in Logic, London
+  (England). https://bit.ly/3mtuXwV #PostDoc #Logic #CompSci
+
++ 07-oct-21: #MULCIA: PhD student position in coalgebra, Nijmegen (The
+  Netherlands). https://bit.ly/2YptYpD #PhD #Math #CompSci
+
 + 02-oct-21: #MULCIA: Research Fellows in Logic at UCL,
   London. https://bit.ly/2WyrPH7 #PhD #PostDoc #Logic
 
