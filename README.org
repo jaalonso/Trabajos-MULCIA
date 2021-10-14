@@ -11,6 +11,31 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2021
 
++ 14-oct-21: #MULCIA: PhD position in non-classical logics through proof
+  theory. University of Groningen. https://bit.ly/3lEesyH #PhD #Logic
+
++ 14-oct-21: #MULCIA: PhD position in logic, coalgebra and semantics of
+  computing. University of Groningen. https://bit.ly/3FLl0DB #PhD #Logic
+  #CompSci
+
++ 14-oct-21: #MULCIA: PhD position in proof theory of modal logics. University
+  of Groningen. https://bit.ly/3iZsLwf #PhD #Logic
+
++ 08-oct-21: #MULCIA: Joint Mathematical Sciences and Hoskinson Center
+  Postdoctoral Fellowship. Carnegie Mellon
+  University. https://apply.interfolio.com/96032 #PostDoc #ITP #LeanProver
+  #CompSci #Math
+
++ 08-oct-21: #MULCIA: Multiple open positions (postdoc, PhD, intern) on runtime
+  verification at CEA LIST, France. https://bit.ly/3lq5Njw #PhD #PostDoc
+  #CompSci
+
++ 08-oct-21: #MULCIA: PhD position in Logic & Security at UCL, London,
+  https://bit.ly/3AmQGLW #PhD #Logic #CompSci
+
++ 08-oct-21: #MULCIA: Postdoc position in formal verification at University of
+  Stuttgart. https://bit.ly/3BpSrcu #PostDoc #CompSci
+
 + 07-oct-21: #MULCIA: Postdoctoral position in logico-philosophical foundations
   of geometry & topology, Torun (Poland). https://bit.ly/3BjHDwv #PostDoc #Logic
   #Math
