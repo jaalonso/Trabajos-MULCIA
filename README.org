@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2021
 
++ 19-oct-21: #MULCIA: Assistant Professorship (permanent) in Model-Based AI,
+  Amsterdam (The Netherlands). https://bit.ly/3aRVONO #Job #PostDoc #CompSci #AI
+
++ 19-oct-21: #MULCIA: PhD student position in logical modelling, London
+  (England). https://bit.ly/3BX8Qp9 #PhD #CompSci
+
 + 14-oct-21: #MULCIA: PhD position in non-classical logics through proof
   theory. University of Groningen. https://bit.ly/3lEesyH #PhD #Logic
 
