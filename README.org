@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2021
 
++ 22-oct-21: #MULCIA: PhD position in type theory at Chalmers/Gothenburg
+  University. https://bit.ly/3neZK0U #PhD #CompSci
+
++ 22-oct-21: #MULCIA: Assistant Professor position in Formal Methods, Eindhoven
+  University, The Netherlands https://bit.ly/3b5n1fK #Job #CompSci
+
 + 19-oct-21: #MULCIA: Assistant Professorship (permanent) in Model-Based AI,
   Amsterdam (The Netherlands). https://bit.ly/3aRVONO #Job #PostDoc #CompSci #AI
 
