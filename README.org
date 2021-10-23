@@ -4,12 +4,22 @@ En esta página se recopilan las ofertas de trabajo de interés para los
 estudiantes del [[http://master.cs.us.es/M%C3%A1ster_Universitario_en_L%C3%B3gica,_Computaci%C3%B3n_e_Inteligencia_Artificial][Máster Universitario en Lógica, Computación e Inteligencia
 Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 
+
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
 ** 2021
 
 *** Octubre de 2021
+
++ 23-oct-21: #MULCIA: Full Professorship for Formal Methods at JKU
+  Linz. https://bit.ly/3BcnTdg #Job #CompSci
+
++ 23-oct-21: #MULCIA: Engineer positions for the ProofInUse
+  consortium. https://bit.ly/3pwCkqf #Job #CompSci
+
++ 23-oct-21: #MULCIA: Position: technical lead for certification,
+  IO. https://bit.ly/3E9Z8Aw #Job #CompSci
 
 + 22-oct-21: #MULCIA: PhD position in type theory at Chalmers/Gothenburg
   University. https://bit.ly/3neZK0U #PhD #CompSci
