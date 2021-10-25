@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2021
 
++ 25-oct-21: #MULCIA: Associate Professorship (or Professorship) (Tutorial
+  Fellow) in Automated Verification, Oxford (England). https://bit.ly/3Eh7ZjV
+  #PostDoc #CompSci
+
 + 23-oct-21: #MULCIA: Full Professorship for Formal Methods at JKU
   Linz. https://bit.ly/3BcnTdg #Job #CompSci
 
