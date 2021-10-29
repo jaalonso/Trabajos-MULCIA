@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2021
 
++ 29-oct-21: #MULCIA: Doctoral position in the area of knowledge graphs,
+  ontologies, description logics, and automated reasoning. Ulm
+  University. https://bit.ly/3jKO2tF #PhD #CompSci
+
 + 25-oct-21: #MULCIA: Associate Professorship (or Professorship) (Tutorial
   Fellow) in Automated Verification, Oxford (England). https://bit.ly/3Eh7ZjV
   #PostDoc #CompSci
