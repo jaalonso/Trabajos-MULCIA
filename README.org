@@ -10,6 +10,20 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2021
 
+*** Noviembre de 2021
+
++ 10-nov-21: #MULCIA: PhD openings in Programming Language at Sorbonne
+  Université, Paris. https://bit.ly/3D1n2Os #PhD #CompSci
+
++ 10-nov-21: #MULCIA: Postdoc position in distributed computing at the IMDEA
+  Software Institute. https://bit.ly/3n0Y5x1 #PostDoc #CompSci
+
++ 10-nov-21: #MULCIA: Postdoc in quantum computation at Dalhousie
+  https://bit.ly/3CXAnHr #PostDoc #CompSci
+
++ 10-nov-21: #MULCIA: Associate Professorship (or Professorship) in Automated
+  Verification at Oxford. https://bit.ly/3Eh7ZjV #PostDoc #CompSci
+
 *** Octubre de 2021
 
 + 29-oct-21: #MULCIA: Doctoral position in the area of knowledge graphs,
