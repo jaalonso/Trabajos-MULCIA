@@ -12,6 +12,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2021
 
++ 15-nov-21: #MULCIA: Theorem Proving Research Associate Position in Manchester,
+  UK. https://bit.ly/3onpBUE #PostDoc #CompSci
+
++ 15-nov-21: #MULCIA: Three PhD positions in Logic
+  (Groningen). https://bit.ly/3Hkldi1 #PhD #Logic
+
 + 10-nov-21: #MULCIA: PhD openings in Programming Language at Sorbonne
   Université, Paris. https://bit.ly/3D1n2Os #PhD #CompSci
 
