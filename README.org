@@ -12,6 +12,26 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2021
 
++ 18-nov-21: #MULCIA: PhD position in non-classical logics through proof theory,
+  Groningen (The Netherlands). https://bit.ly/3lEesyH #PhD #Logic
+
++ 18-nov-21: #MULCIA: PhD position in logic, coalgebra and semantics of
+  computing, Groningen (The Netherlands). https://bit.ly/3FLl0DB #PhD #CompSci
+
++ 18-nov-21: #MULCIA: PhD position in proof theory of modal logics, Groningen
+  (The Netherlands). https://bit.ly/3iZsLwf #PhD #Logic
+
++ 18-nov-21: #MULCIA: Postdoctoral position in database theory & knowledge
+  representation, Warsaw (Poland). https://bit.ly/3oGC4Di #PostDoc #CompSci
+
++ 18-nov-21: #MULCIA: PhD position in deductive verification of safety-critical
+  software, at KTH Royal Institute of Technology. https://bit.ly/3FsFb8I #PhD
+  #CompSci
+
++ 18-nov-21: #MULCIA: 2 open PhD/PostDoc positions in knowledge representation
+  and reasoning at the University of Hagen, Germany. https://bit.ly/3CuuUGS #PhD
+  #PostDoc #CompSci
+
 + 15-nov-21: #MULCIA: Theorem Proving Research Associate Position in Manchester,
   UK. https://bit.ly/3onpBUE #PostDoc #CompSci
 
