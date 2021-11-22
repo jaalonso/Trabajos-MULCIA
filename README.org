@@ -12,6 +12,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2021
 
++ 22-nov-21: #MULCIA: PhD student scholarship in mathematical logic, Brisbane
+  (Australia). https://bit.ly/3CGhzvs #PhD #Logic
+
++ 22-nov-21: #MULCIA: Universitair Docent (Lecturer/tenured Assistant Professor)
+  in Experimental Methods for AI in Logic & Language, Amsterdam (The
+  Netherlands). https://bit.ly/3qUAhx7 #Job #CompSci #AI #Logic
+
 + 18-nov-21: #MULCIA: PhD position in non-classical logics through proof theory,
   Groningen (The Netherlands). https://bit.ly/3lEesyH #PhD #Logic
 
