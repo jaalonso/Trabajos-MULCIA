@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2021
 
++ 23-nov-21: #MULCIA: Permanent research-intensive academic post: Verification
+  and Validation of Autonomous Systems, at the National Robotarium, Edinburgh,
+  UK. https://bit.ly/3FwVUro #Job #CompSci
+
 + 22-nov-21: #MULCIA: PhD student scholarship in mathematical logic, Brisbane
   (Australia). https://bit.ly/3CGhzvs #PhD #Logic
 
