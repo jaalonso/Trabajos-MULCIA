@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2021
 
++ 25-nov-21: #MULCIA: Postdoc position in Lille (France) on type systems and
+  logical methods. https://bit.ly/3p5i65s #PostDoc #CompSci
+
 + 23-nov-21: #MULCIA: Permanent research-intensive academic post: Verification
   and Validation of Autonomous Systems, at the National Robotarium, Edinburgh,
   UK. https://bit.ly/3FwVUro #Job #CompSci
