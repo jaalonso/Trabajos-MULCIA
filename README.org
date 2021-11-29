@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2021
 
++ 29-nov-21: #MULCIA: Postdoc position: Automated reasoning and proof
+  certificates (part-time) at TU Wien. https://bit.ly/32Hzu8K #PostDoc #CompSci
+
 + 26-nov-21: #MULCIA: 2 researcher positions in knowledge representation and
   reasoning / semantic technologies at University of Stuttgart
   (Germany). https://bit.ly/3cOFv5d #PhD #PostDoc #CompSci #AI
