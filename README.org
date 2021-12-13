@@ -12,6 +12,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2021
 
++ 13-dic-21: #MULCIA: PhD positions in theoretical computer science at Lund
+  University. https://bit.ly/3lW9IUU #PhD #PostDoc #CompSci
+
++ 13-dic-21: #MULCIA: PhD positions in theoretical computer science and/or
+  combinatorial optimization in Copenhagen. https://bit.ly/3m03u6G #PhD #CompSci
+
++ 13-dic-21: #MULCIA: Post-doc position in the theory, design and implementation
+  of programming languages at University of Glasgow,
+  Scotland. https://bit.ly/3ymLnMZ #PostDoc #CompSci
+
 + 04-dic-21: #MULCIA: Post-doc position in RECIPROG (Reasoning on Circular
   proofs for Programming) project (located in Lyon, Nantes or
   Paris). https://bit.ly/3Ds4HJv #PostDoc #CompSci #ITP #Coq
