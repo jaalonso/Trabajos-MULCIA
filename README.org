@@ -12,6 +12,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2021
 
++ 15-dic-21: #MULCIA: PhD / Postdoc position in Leipzig on the topics of
+  knowledge representation (in particular description logics and ontologies) and
+  database theory. https://bit.ly/3m6rYLx #PhD #PostDoc #CompSci
+
+
 + 15-dic-21: #MULCIA: Postdoc position - hardware acceleration of Haskell at
   Heriot-Watt University in Edinburgh. https://bit.ly/30vlRZy #PostDoc #CompSci
 
