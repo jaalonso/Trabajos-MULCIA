@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2021
 
++ 18-dic-21: #MULCIA: Postdoctoral position in Computer Science Logic, Sheffield
+  (England). https://bit.ly/3JcA4w7 #PostDoc #CompSci
+
 + 16-dic-21: #MULCIA: Postdoc in proof theory - University of Birmingham,
   UK. https://bit.ly/3q0tAaF #PostDoc #CompSci #Logic
 
