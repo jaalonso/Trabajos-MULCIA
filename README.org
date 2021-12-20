@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2021
 
++ 20-dic-21: #MULCIA: Postdoctoral position on automated reasoning with legal
+  entities, Luxembourg (Luxembourg). https://bit.ly/32lZrKB #PostDoc #CompSci
+
 + 18-dic-21: #MULCIA: Postdoctoral position in Computer Science Logic, Sheffield
   (England). https://bit.ly/3JcA4w7 #PostDoc #CompSci
 
