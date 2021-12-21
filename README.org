@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2021
 
++ 21-dic-21: #MULCIA: Assistant Professor (Tenure-track) Positions in Artificial
+  Intelligence, Cybersecurity, and Programming Languages at the University of
+  Southern Denmark. https://bit.ly/30Kp9bl #Job #PostDoc #CompSci
+
 + 20-dic-21: #MULCIA: Postdoctoral position on automated reasoning with legal
   entities, Luxembourg (Luxembourg). https://bit.ly/32lZrKB #PostDoc #CompSci
 
