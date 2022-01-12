@@ -12,6 +12,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2022
 
++ 12-ene-22: #MULCIA: Research Associate on FUN2MODEL: From FUNction-based TO
+  MOdel-based automated probabilistic reasoning for DEep Learning. Oxford
+  University. https://bit.ly/3fhwLG2 #PostDoc #CompSci
+
++ 12-ene-22: #MULCIA: Position as Senior Lecturer in Logic in
+  Gothenburg. https://bit.ly/31PDQKM #PostDoc #Logic
+
 + 11-ene-22: #MULCIA: Postdoc position(s) in ASP and machine learning at
   Oxford. https://bit.ly/3fbKduX #PostDoc #CompSci #ASP #MachineLearning
 
