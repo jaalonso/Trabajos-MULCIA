@@ -12,6 +12,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2022
 
++ 13-ene-22: #MULCIA: Postdoc positions in theoretical computer science in
+  Copenhagen https://bit.ly/3nibpgb #PostDoc #CompSci
+
++ 13-ene-22: #MULCIA: Teacher position in Logic & Multi-Agent systems, Groningen
+  (The Netherlands). https://bit.ly/3qnJFbZ #PostDoc #CompSci #Logic
+
 + 12-ene-22: #MULCIA: Research Associate on FUN2MODEL: From FUNction-based TO
   MOdel-based automated probabilistic reasoning for DEep Learning. Oxford
   University. https://bit.ly/3fhwLG2 #PostDoc #CompSci
