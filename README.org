@@ -12,6 +12,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2022
 
++ 14-ene-22: #MULCIA: Postdoctoral position in automated reasoning, Luxembourg
+  (Luxembourg). https://bit.ly/3rmO3qX #PostDoc #CompSci
+
++ 14-ene-22: #MULCIA: Postdoc positions on Formal Verification for Zero-Trust
+  IoT Systems at Kyoto University and National Institute of Informatics (NII),
+  Japan. https://bit.ly/3Kcx3MD #PostDoc #CompSci
+
 + 13-ene-22: #MULCIA: Postdoc positions in theoretical computer science in
   Copenhagen https://bit.ly/3nibpgb #PostDoc #CompSci
 
