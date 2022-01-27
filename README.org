@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2022
 
++ 27-ene-22: #MULCIA: Siemens Belgium in Leuven seeks for an expert in
+  SAT/SMT/constraint programming. https://sie.ag/34bNcS6 #Job #CompSci #SAT #SMT
+  #Constraint_programming
+
 + 14-ene-22: #MULCIA: Postdoctoral position in automated reasoning, Luxembourg
   (Luxembourg). https://bit.ly/3rmO3qX #PostDoc #CompSci
 
