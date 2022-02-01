@@ -10,6 +10,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2022
 
+*** Febrero de 2022
+
++ 01-feb-22: #MULCIA: Industrially-funded PhD position at VERIMAG, Grenoble,
+  France: Certified compilation for security. https://bit.ly/3rjU3lA #PhD
+  #CompSci
+
++ 01-feb-22: #MULCIA: fully funded PhD position on verification of industrial
+  robots at University of Sheffield. https://bit.ly/35ekbTi #PhD #CompSci
+
++ 01-feb-22: #MULCIA: PhD scholarship on Concurrency and
+  Logic. https://bit.ly/3493gnV #PhD #CompSci
+
 *** Enero de 2022
 
 + 27-ene-22: #MULCIA: Siemens Belgium in Leuven seeks for an expert in
