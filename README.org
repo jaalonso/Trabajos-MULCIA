@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2022
 
++ 08-feb-22: #MULCIA: PhD student in Computing Science on the topic of efficient
+  and provably correct execution environments. https://bit.ly/3uzVY7n #PhD
+  #CompSci
+
 + 06-feb-22: #MULCIA: Researcher positions (Postdoc / PhD) in quantum crypto and
   formal verification. https://bit.ly/3kl2GXU #PhD #PostDoc #CompSci
 
