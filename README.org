@@ -12,6 +12,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2022
 
++ 09-feb-22: #MULCIA: Post-doc/senior researcher in smart contract security
+  analysis using formal methods. University of Warsaw,
+  Poland. https://bit.ly/3J9qAAA #PostDoc #CompSci
+
++ 09-feb-22: #MULCIA: Postdoc on session types and reliability. University of
+  Kent. https://bit.ly/3B8t5jQ #PostDoc #CompSci
+
 + 08-feb-22: #MULCIA: PhD student in Computing Science on the topic of efficient
   and provably correct execution environments. https://bit.ly/3uzVY7n #PhD
   #CompSci
