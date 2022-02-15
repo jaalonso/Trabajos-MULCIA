@@ -12,6 +12,29 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2022
 
++ 15-feb-22: #MULCIA: Research Fellowship in Software Engineering & Verification
+  (3y), Manchester (England) https://bit.ly/3uQVJF6 #Job #PostDoc #CompSci
+
++ 15-feb-22: #MULCIA: PhD student position in cyclic proofs for modal and
+  higher-order logic, Amsterdam (The Netherlands). https://bit.ly/3sL5GS5 #PhD
+  #Logic
+
++ 15-feb-22: #MULCIA: Postdoctoral position in metamathematics of substructural
+  modal logics, Prague (Czech Republic). https://bit.ly/3sGeVD1 #PostDoc #Logic
+
++ 15-feb-22: #MULCIA: Senior Scientist position in set theory, Vienna
+  (Austria). https://bit.ly/3oLIQbO #Job #PostDoc #Logic #Math
+
++ 15-feb-22: #MULCIA: PhD student position in logical approach to verification
+  of hyperproperties, Sheffield (England). https://bit.ly/352u1us #PhD #CompSci
+
++ 15-feb-22: #MULCIA: Postdoctoral position (2y) on distributed synthesis,
+  Gothenburg (Sweden). https://bit.ly/3gRc44k #PostDoc #CompSci
+
++ 14-feb-22: #MULCIA: Two PhD positions in Knowledge Representation and
+  Reasoning / Artificial Intelligence, TU Graz. https://bit.ly/3Bj0Sah #PhD
+  #CompSci #AI
+
 + 10-feb-22: #MULCIA: PhD positions in mathematical foundations of computer
   science - Bath. https://bit.ly/3JeDQ7a #PhD #CompSci #Math
 
