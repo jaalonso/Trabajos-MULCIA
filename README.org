@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2022
 
++ 16-feb-22: #MULCIA: PhD position on efficient and provably correct execution
+  environments at Uppsala University, Sweden. https://bit.ly/3JvePVx #PhD
+  #CompSci
+
 + 15-feb-22: #MULCIA: Research Fellowship in Software Engineering & Verification
   (3y), Manchester (England) https://bit.ly/3uQVJF6 #Job #PostDoc #CompSci
 
