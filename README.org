@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2022
 
++ 18-feb-22: #MULCIA: Two Lecturer / Senior Lecturer posts in Formal Methods at
+  Newcastle University. https://bit.ly/3BvTcBC #Jobs #PostDoc #CompSci
+
 + 16-feb-22: #MULCIA: PhD position on efficient and provably correct execution
   environments at Uppsala University, Sweden. https://bit.ly/3JvePVx #PhD
   #CompSci
