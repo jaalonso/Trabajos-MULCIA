@@ -12,6 +12,19 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2022
 
++ 22-feb-22: #MULCIA: Fully-Funded 4-year Ph.D. position in automata theory,
+  University of Warsaw. Project: "Frontiers of automatic analysis of concurrent
+  systems" https://bit.ly/3IhACzW #PhD #CompSci
+
++ 22-feb-22: #MULCIA: Postdoc position, University of Warsaw. Project:
+  "Data-enriched models of computation". https://bit.ly/3s8s5tb #PostDoc
+  #CompSci
+
++ 22-feb-22: #MULCIA: PhD and postdoc positions in security and privacy at
+  Chalmers University of Technology. https://bit.ly/34Z5xT1 #PhD #PostDoc
+  #CompSci
+
+
 + 18-feb-22: #MULCIA: Two Lecturer / Senior Lecturer posts in Formal Methods at
   Newcastle University. https://bit.ly/3BvTcBC #Jobs #PostDoc #CompSci
 
