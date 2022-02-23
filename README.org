@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2022
 
++ 23-feb-22: #MULCIA: Postdoctoral fellowship in KR / explainable AI /
+  neuro-symbolic systems. University of Edinburgh. https://bit.ly/3HgeRit
+  #PostDoc #CompSci
+
 + 22-feb-22: #MULCIA: Fully-Funded 4-year Ph.D. position in automata theory,
   University of Warsaw. Project: "Frontiers of automatic analysis of concurrent
   systems" https://bit.ly/3IhACzW #PhD #CompSci
