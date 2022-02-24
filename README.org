@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2022
 
++ 24-feb-22: #MULCIA: Postdoctoral position at Inria Saclay: B in
+  Dedukti. https://bit.ly/3HhtwKl #PostDoc #CompSci
+
 + 24-feb-22: #MULCIA: Two postdoc positions at LIS (Aix-Marseille University)
   and LIX (Ecole Polytechnique). Project: "LambdaComb: a cartographic quest
   between lambda-calculus, logic, and combinatorics". https://bit.ly/3JRxU4g
