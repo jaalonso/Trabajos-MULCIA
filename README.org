@@ -12,6 +12,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2022
 
++ 02-mar-22: #MULCIA: Formal/mathematical verification engineer at
+  AMD. Location: Milton Keynes, Buckinghamshire, GB. https://bit.ly/3Mj67f6
+  #Job #CompSci
+
++ 02-mar-22: #MULCIA: PhD position in number theory and formalization. Vrije
+  Universiteit Amsterdam. https://bit.ly/346gC4b #PhD #CompSci #Math
+
 + 01-mar-22: #MULCIA: PhD in Cyclic Proofs for Modal and Higher-order
   Logic. University of Amsterdam. https://bit.ly/3sL5GS5 #PhD #Logic
 
