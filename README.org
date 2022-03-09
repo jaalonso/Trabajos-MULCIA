@@ -12,6 +12,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2022
 
++ 09-mar-22: #MULCIA: Postdoctoral positions in AI for Programming Education at
+  MPI-SWS, Germany https://bit.ly/3KmOY2u #PostDoc #CompSci
+
++ 09-mar-22: #MULCIA: PhD in Mathematical and Computational Logic at the
+  University of Amsterdam. https://bit.ly/3hPXOcV #PhD #Logic #Math #CompSci
+
++ 03-mar-22: #MULCIA: Postdoc and PhD position in homotopy type theory or
+  related areas at the University of Nottingham, UK.  https://bit.ly/34aYgPH
+  #PhD #PostDoc #CompSci
+
 + 02-mar-22: #MULCIA: Formal/mathematical verification engineer at
   AMD. Location: Milton Keynes, Buckinghamshire, GB. https://bit.ly/3Mj67f6
   #Job #CompSci
