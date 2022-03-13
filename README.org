@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2022
 
++ 12-mar-22: #MULCIA: Open Position: Assistant Professor in Logic for AI
+  (Fixed-term, three years), Milan. https://bit.ly/3I0txCI #Job #Logic #AI
+
 + 09-mar-22: #MULCIA: Postdoctoral positions in AI for Programming Education at
   MPI-SWS, Germany https://bit.ly/3KmOY2u #PostDoc #CompSci
 
