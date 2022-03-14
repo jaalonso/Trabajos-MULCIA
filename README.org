@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2022
 
++ 14-mar-22: #MULCIA: Postdoc position(s) in ASP and machine learning at
+  Oxford. https://bit.ly/3i3MWIe #PostDoc #CompSci #ASP #LogicProgramming
+  #MachineLearning
+
 + 12-mar-22: #MULCIA: Open Position: Assistant Professor in Logic for AI
   (Fixed-term, three years), Milan. https://bit.ly/3I0txCI #Job #Logic #AI
 
