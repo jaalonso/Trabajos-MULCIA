@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2022
 
++ 15-mar-22: #MULCIA: Postdoc positions on "Declarative and constraint modelling
+  for generating socially and environmentally responsible action
+  plans". https://bit.ly/3q7NilB #PostDoc #CompSci
+
 + 14-mar-22: #MULCIA: Postdoc position(s) in ASP and machine learning at
   Oxford. https://bit.ly/3i3MWIe #PostDoc #CompSci #ASP #LogicProgramming
   #MachineLearning
