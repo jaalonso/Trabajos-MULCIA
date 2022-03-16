@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2022
 
++ 16-mar-22: #MULCIA: Vacancy for an Assistant Professor in Formal Methods at
+  the Eindhoven University of Technology (NL). https://bit.ly/3CUdZj6 #Job
+  #CompSci
+
 + 15-mar-22: #MULCIA: Postdoc positions on "Declarative and constraint modelling
   for generating socially and environmentally responsible action
   plans". https://bit.ly/3q7NilB #PostDoc #CompSci
