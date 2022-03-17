@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2022
 
++ 17-mar-22: #MULCIA: MLabs is Hiring a Haskell Developer (100% Remote,
+  Worldwide). https://bit.ly/3tkexvv #Job #Haskell #FunctionalProgramming
+
 + 17-mar-22: #MULCIA: PhD position in Formal Methods and
   AI. https://bit.ly/3KQzkMT #PhD #CompSci #AI
 
