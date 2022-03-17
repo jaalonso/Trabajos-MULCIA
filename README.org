@@ -12,6 +12,19 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2022
 
++ 17-mar-22: #MULCIA: PhD position in Formal Methods and
+  AI. https://bit.ly/3KQzkMT #PhD #CompSci #AI
+
++ 17-mar-22: #MULCIA: Postdoc position in Lille (France) on type systems and
+  logical methods. https://bit.ly/3JnoWMg #PostDoc #CompSci
+
++ 17-mar-22: #MULCIA: PhD student position in finite model theory for many
+  valued logics, St Lucia (Australia). https://bit.ly/36s0hrh #PhD #Logic #Math
+
++ 17-mar-22: #MULCIA: Postdoc positions on Formal Verification for Zero-Trust
+  IoT Systems at Kyoto University and National Institute of Informatics (NII),
+  Japan. https://bit.ly/3IjIJev #PostDoc #CompSci
+
 + 16-mar-22: #MULCIA: Vacancy for an Assistant Professor in Formal Methods at
   the Eindhoven University of Technology (NL). https://bit.ly/3CUdZj6 #Job
   #CompSci
