@@ -12,6 +12,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2022
 
++ 22-mar-22: #MULCIA: PhD student position on proof theory and verification of
+  legal software, Barcelona. https://bit.ly/3tvnB0u #PhD #CompSci
+
++ 22-mar-22: #MULCIA: PhD position on Homotopy Type Theory at the University of
+  Amsterdam. https://bit.ly/3qqXxS9 #PhD #CompSci #HoTT
+
++ 22-mar-22: #MULCIA: Research Assistant/Associate in Language Design for Typed
+  Metaprogramming at the University of Cambridge. https://bit.ly/3inDrUJ
+  #PostDoc #CompSci
+
 + 17-mar-22: #MULCIA: MLabs is Hiring a Haskell Developer (100% Remote,
   Worldwide). https://bit.ly/3tkexvv #Job #Haskell #FunctionalProgramming
 
