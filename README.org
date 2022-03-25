@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2022
 
++ 25-mar-22: #MULCIA: Ph.D position on formal methods available @ University of
+  Oslo (short deadline). https://bit.ly/3DigUCf #PhD #CompSci
+
 + 22-mar-22: #MULCIA: PhD student position on proof theory and verification of
   legal software, Barcelona. https://bit.ly/3tvnB0u #PhD #CompSci
 
