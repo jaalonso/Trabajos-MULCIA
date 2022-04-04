@@ -10,6 +10,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2022
 
+*** Abril de 2022
+
++ 04-abr-22: #MULCIA: Fully funded PhD position in "Compositional verification
+  of smart contracts in Isabelle". (Exeter, UK) https://bit.ly/3GLJZ9z #PhD
+  #CompSci #IsabelleHOL
+
++ 04-abr-22: #MULCIA: Fully funded PhD position in "Formal verification for
+  safety- or security-critical systems". (Exeter, UK) https://bit.ly/3GLJZ9z
+  #PhD #CompSci #IsabelleHOL
+
 *** Marzo de 2022
 
 + 31-mar-22: #MULCIA: PhD position in machine learning for formal verification
