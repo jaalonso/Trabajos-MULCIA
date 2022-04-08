@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril de 2022
 
++ 08-abr-22: #MULCIA: Postdoc position on planning with others' beliefs and
+  goals. IRIT, Toulouse. https://bit.ly/37tfNUC #PostDoc #CompSci #AI
+
 + 04-abr-22: #MULCIA: Fully funded PhD position in "Compositional verification
   of smart contracts in Isabelle". (Exeter, UK) https://bit.ly/3GLJZ9z #PhD
   #CompSci #IsabelleHOL
