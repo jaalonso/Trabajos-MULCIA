@@ -12,6 +12,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril de 2022
 
++ 28-abr-22: #MULCIA: Post-Doctoral Researcher in Software Verification Modular
+  AI Verification and Visualisation (MAIVV) [Maynooth University,
+  Ireland]. https://bit.ly/3kj1yVh #PostDoc #CompSci
+
++ 28-abr-22: #MULCIA: Post-Doctoral Researcher in Visualising Deep Learning
+  Systems Modular AI Verification and Visualisation (MAIVV) [Maynooth
+  University, Ireland]. https://bit.ly/3Mym3tp #PostDoc #CompSci #AI
+
++ 28-abr-22: #MULCIA: PhD Scholarship in Computer Science Modular AI
+  Verification and Visualisation (MAIVV) [Maynooth University,
+  Ireland]. https://bit.ly/3EWf1w3 #PhD #CompSci #AI
+
 + 19-abr-22: #MULCIA: PhD position: Compositional verification of system program
   modules in Rust - Inria Rennes. https://bit.ly/3uTbKdc #PhD #CompSci
 
