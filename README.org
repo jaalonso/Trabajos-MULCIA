@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril de 2022
 
++ 29-abr-22: #MULCIA: IO Global is searching for a Software Engineer - Formal
+  Methods to join their Ledger team.  https://bit.ly/3kmtiIX #Jobs #CompSci
+
 + 28-abr-22: #MULCIA: Post-Doctoral Researcher in Software Verification Modular
   AI Verification and Visualisation (MAIVV) [Maynooth University,
   Ireland]. https://bit.ly/3kj1yVh #PostDoc #CompSci
