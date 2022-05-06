@@ -10,6 +10,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2022
 
+*** Mayo de 2022
+
++ 06-may-22: #MULCIA: Researcher Formal Verification position at Hensoldt Cyber
+  in Munich. https://bit.ly/3uNOdHC #Job #CompSci #ITP #IsabelleHOL
+
++ 06-may-22: #MULCIA: PhD student position in compositional verification, Rennes
+  (Frances). https://bit.ly/3FnzIBh #PhD #CompSci
+
+
 *** Abril de 2022
 
 + 29-abr-22: #MULCIA: IO Global is searching for a Software Engineer - Formal
