@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo de 2022
 
++ 19-may-22: #MULCIA: PhD student position on Knowledge Representation &
+  Reasoning for Personal Agents, Enschede (The Netherlands).
+  https://bit.ly/3PuHCgy #PhD #CompSci
+
 + 06-may-22: #MULCIA: Researcher Formal Verification position at Hensoldt Cyber
   in Munich. https://bit.ly/3uNOdHC #Job #CompSci #ITP #IsabelleHOL
 
