@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo de 2022
 
++ 25-may-22: #MULCIA: Postdoctoral Researcher Position in Formalization of
+  Algorithms in Proof Assistants, University of Bergen,
+  Norway. https://bit.ly/3PEFfb7 #PostDoc #CompSci
+
 + 19-may-22: #MULCIA: PhD student position on Knowledge Representation &
   Reasoning for Personal Agents, Enschede (The Netherlands).
   https://bit.ly/3PuHCgy #PhD #CompSci
