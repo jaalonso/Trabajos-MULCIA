@@ -12,6 +12,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo de 2022
 
++ 26-may-22: #MULCIA: Postdoc position in non-classical logic /
+  Department of Logic, Nicolaus Copernicus University in
+  Toruń. https://bit.ly/3MOiXlq #PostDoc #Logic
+
++ 26-may-22: #MULCIA: 3 year postdoc position in computational logic in
+  connection with the FWF-JSPS joint project "ARI: Automation of
+  rewriting infrastructure". https://bit.ly/3wNEZ2h #PostDoc #CompSci
+  #Logic
+
 + 25-may-22: #MULCIA: Postdoctoral Researcher Position in Formalization of
   Algorithms in Proof Assistants, University of Bergen,
   Norway. https://bit.ly/3PEFfb7 #PostDoc #CompSci
