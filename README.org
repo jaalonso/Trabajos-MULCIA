@@ -10,6 +10,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2022
 
+*** Junio de 2022
+
++ 01-jun-22: #MULCIA: PhD Position F/M automated reasoning for set
+  theory at Inria Nancy. https://bit.ly/3PPFekZ #PhD #CompSci
+
++ 01-jun-22: #MULCIA: Engineer Research and Development (M/F), Formal
+  Verification. https://bit.ly/3m5gU0G #Job #CompSci   
+
++ 01-jun-22: #MULCIA: PhD Position F/M formalization of set theory and
+  proof checking. https://bit.ly/3GCetw9 #PhD #PostDoc #CompSci 
+
 *** Mayo de 2022
 
 + 26-may-22: #MULCIA: Postdoc position in non-classical logic /
