@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2022
 
++ 09-jun-22: #MULCIA: Post-doc at MSR Cambridge UK in constraint
+  solving/program verification and synthesis/scheduling for AI/ML
+  systems. https://bit.ly/3MBMVIH #PostDoc #CompSci 
+    
 + 02-jun-22: #MULCIA: Postdoctoral researcher position in formalization
   of algorithms in proof assistants, University of Bergen,
   Norway. https://bit.ly/3GIKKl6  #PostDoc #CompSci     
