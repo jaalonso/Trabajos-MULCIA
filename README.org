@@ -1,5 +1,5 @@
 #+TITLE: Ofertas de trabajo de interés para el MULCIA
-
+ 
 En esta página se recopilan las ofertas de trabajo de interés para los
 estudiantes del [[http://master.cs.us.es/M%C3%A1ster_Universitario_en_L%C3%B3gica,_Computaci%C3%B3n_e_Inteligencia_Artificial][Máster Universitario en Lógica, Computación e Inteligencia
 Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2022
 
++ 18-jun-22: #MULCIA: Postdoc position on specification and verification
+  of heterogeneous systems at Imperial College. https://bit.ly/3Okarvv
+  #PostDoc #CompSci     
+    
 + 13-jun-22: #MULCIA: Engineer and postdoc positions in France: proof
   assistant for crypto protocols. https://bit.ly/3QlSIVB #PostDoc
   #CompSci     
