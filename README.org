@@ -12,6 +12,19 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2022
 
++ 25-jun-22: #MULCIA: PhD position in formal verification of blockchain
+  applications, Göteborg (Sweden). https://bit.ly/3bsjY54 #PhDºd
+  #PostDoc #CompSci
+
++ 25-jun-22: #MULCIA: PhD positions in knowledge engineering, Bolzano
+  (Italy). https://bit.ly/3On2IN7 #PhD #CompSci
+
++ 25-jun-22: #MULCIA: PhD student position in trust management, Munich
+  (Germany). https://bit.ly/3nh8JyR #PhD #CompSci
+
++ 25-jun-22: #MULCIA: Postdoctoral position in reasoning in arithmetic
+  theories, Oxford (England). https://bit.ly/3ykCRzR #PostDoc #CompSci   
+    
 + 18-jun-22: #MULCIA: Postdoc position on specification and verification
   of heterogeneous systems at Imperial College. https://bit.ly/3Okarvv
   #PostDoc #CompSci     
