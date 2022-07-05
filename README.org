@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2022
 
++ 05-jul-22: #MULCIA: Postdoctoral position in Logic, Uncertainty,
+  Computation, & Information, Milan (Italy). https://bit.ly/3uq44i8
+  #PostDoc #CompSci 
+    
 + 01-jul-22: #MULCIA: Research position (2y) on formal methods for
   reasoning in social settings, Pisa (Italy). https://bit.ly/3ysKR0D
   #PostDoc #LogicMath  
