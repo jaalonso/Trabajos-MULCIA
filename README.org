@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2022
 
++ 16-jul-22: #MULCIA: Fully funded PhD position on efficient and
+  provably correct execution environments at Uppsala
+  University. https://bit.ly/3yFztOS #PhD #CompSci 
+    
 + 05-jul-22: #MULCIA: Postdoctoral position in Logic, Uncertainty,
   Computation, & Information, Milan (Italy). https://bit.ly/3uq44i8
   #PostDoc #CompSci 
