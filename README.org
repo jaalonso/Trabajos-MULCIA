@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2022
 
++ 21-jul-22: #MULCIA: Fully Funded EPSRC and Swansea University PhD
+  Scholarship: Comparing the expressiveness of transducers and
+  simply-typed linear λ-calculi. https://bit.ly/3B8NabY #PhD #CompSci 
+    
 + 21-jul-22: #MULCIA: Research Associate, Project FAIR: Verification and
   Accountability, at the Alan Turing Institutes. https://bit.ly/3IXFBXE
   #PostDoc #CompSci 
