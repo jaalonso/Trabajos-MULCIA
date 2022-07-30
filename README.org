@@ -12,6 +12,20 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2022
 
++ 30-jul-22: #MULCIA: Postdoc and PhD positions at designing and
+  formally verifying distributed systems. University of
+  Birmingham. https://bit.ly/3zKiCfm #PhD #PostDoc #CompSci
+
++ 30-jul-22: #MULCIA: Post Doctoral Research Fellowship at the
+  University of Lisbon in the area of programming languages, type
+  systems and logics. https://bit.ly/3Q6t2vj #PostDoc #CompSci
+
++ 30-jul-22: #MULCIA: Assistant Professorships at Heriot-Watt
+  University. https://bit.ly/3JeywSC #PostDoc #CompSci   
+    
++ 26-jul-22: #MULCIA: Assistant Professor position in "Logic in AI" at
+  VU Amsterdam. https://bit.ly/3PGAE7Z #Job #CompSci #AI 
+    
 + 21-jul-22: #MULCIA: Fully Funded EPSRC and Swansea University PhD
   Scholarship: Comparing the expressiveness of transducers and
   simply-typed linear λ-calculi. https://bit.ly/3B8NabY #PhD #CompSci 
