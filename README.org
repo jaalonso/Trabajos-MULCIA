@@ -1,9 +1,8 @@
 #+TITLE: Ofertas de trabajo de interés para el MULCIA
- 
+
 En esta página se recopilan las ofertas de trabajo de interés para los
 estudiantes del [[http://master.cs.us.es/M%C3%A1ster_Universitario_en_L%C3%B3gica,_Computaci%C3%B3n_e_Inteligencia_Artificial][Máster Universitario en Lógica, Computación e Inteligencia
 Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
-
 
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
@@ -11,6 +10,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2022
 
 *** Julio de 2022
+
++ 30-jul-22: #MULCIA: PhD position in Knowledge Representation and
+  Reasoning / Artificial Intelligence, TU Graz. https://bit.ly/3JhsBvW
+  #PhD #CompSci #AI
 
 + 30-jul-22: #MULCIA: Postdoc and PhD positions at designing and
   formally verifying distributed systems. University of
@@ -21,45 +24,45 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
   systems and logics. https://bit.ly/3Q6t2vj #PostDoc #CompSci
 
 + 30-jul-22: #MULCIA: Assistant Professorships at Heriot-Watt
-  University. https://bit.ly/3JeywSC #PostDoc #CompSci   
-    
+  University. https://bit.ly/3JeywSC #PostDoc #CompSci
+
 + 26-jul-22: #MULCIA: Assistant Professor position in "Logic in AI" at
-  VU Amsterdam. https://bit.ly/3PGAE7Z #Job #CompSci #AI 
-    
+  VU Amsterdam. https://bit.ly/3PGAE7Z #Job #CompSci #AI
+
 + 21-jul-22: #MULCIA: Fully Funded EPSRC and Swansea University PhD
   Scholarship: Comparing the expressiveness of transducers and
-  simply-typed linear λ-calculi. https://bit.ly/3B8NabY #PhD #CompSci 
-    
+  simply-typed linear λ-calculi. https://bit.ly/3B8NabY #PhD #CompSci
+
 + 21-jul-22: #MULCIA: Research Associate, Project FAIR: Verification and
   Accountability, at the Alan Turing Institutes. https://bit.ly/3IXFBXE
-  #PostDoc #CompSci 
+  #PostDoc #CompSci
 
 + 21-jul-22: #MULCIA: Postdoc Vacancy at the Programming Languages
   Group, University of St Andrews https://bit.ly/3RPjd6J #PostDoc
-  #CompSci 
+  #CompSci
 
 + 16-jul-22: #MULCIA: Fully funded PhD position on efficient and
   provably correct execution environments at Uppsala
-  University. https://bit.ly/3yFztOS #PhD #CompSci 
-    
+  University. https://bit.ly/3yFztOS #PhD #CompSci
+
 + 05-jul-22: #MULCIA: Postdoctoral position in Logic, Uncertainty,
   Computation, & Information, Milan (Italy). https://bit.ly/3uq44i8
-  #PostDoc #CompSci 
-    
+  #PostDoc #CompSci
+
 + 01-jul-22: #MULCIA: Research position (2y) on formal methods for
   reasoning in social settings, Pisa (Italy). https://bit.ly/3ysKR0D
-  #PostDoc #LogicMath  
+  #PostDoc #LogicMath
 
 + 01-jul-22: #MULCIA: Postdoctoral position in Epistemology and/or
   Philosophy of Maths, Linkoeping (Sweden) https://bit.ly/3R2qwHB
-  #PostDoc #LogicMath 
+  #PostDoc #LogicMath
 
 *** Junio de 2022
 
 + 29-jun-22: #MULCIA: Two postdoctoral positions & one PhD student
   position in Computer Science Logic. University of
-  Sheffield. https://bit.ly/39ZnROy #PhD #PostDoc #CompSci  
-    
+  Sheffield. https://bit.ly/39ZnROy #PhD #PostDoc #CompSci
+
 + 25-jun-22: #MULCIA: PhD position in formal verification of blockchain
   applications, Göteborg (Sweden). https://bit.ly/3bsjY54 #PhDºd
   #PostDoc #CompSci
@@ -71,35 +74,35 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
   (Germany). https://bit.ly/3nh8JyR #PhD #CompSci
 
 + 25-jun-22: #MULCIA: Postdoctoral position in reasoning in arithmetic
-  theories, Oxford (England). https://bit.ly/3ykCRzR #PostDoc #CompSci   
-    
+  theories, Oxford (England). https://bit.ly/3ykCRzR #PostDoc #CompSci
+
 + 18-jun-22: #MULCIA: Postdoc position on specification and verification
   of heterogeneous systems at Imperial College. https://bit.ly/3Okarvv
-  #PostDoc #CompSci     
-    
+  #PostDoc #CompSci
+
 + 13-jun-22: #MULCIA: Engineer and postdoc positions in France: proof
   assistant for crypto protocols. https://bit.ly/3QlSIVB #PostDoc
-  #CompSci     
-    
+  #CompSci
+
 + 10-jun-22: #MULCIA: PhD positions in theoretical computer science at
-  Lund University. https://bit.ly/3lW9IUU #PhD #CompSci 
-    
+  Lund University. https://bit.ly/3lW9IUU #PhD #CompSci
+
 + 09-jun-22: #MULCIA: Post-doc at MSR Cambridge UK in constraint
   solving/program verification and synthesis/scheduling for AI/ML
-  systems. https://bit.ly/3MBMVIH #PostDoc #CompSci 
-    
+  systems. https://bit.ly/3MBMVIH #PostDoc #CompSci
+
 + 02-jun-22: #MULCIA: Postdoctoral researcher position in formalization
   of algorithms in proof assistants, University of Bergen,
-  Norway. https://bit.ly/3GIKKl6  #PostDoc #CompSci     
-    
+  Norway. https://bit.ly/3GIKKl6  #PostDoc #CompSci
+
 + 01-jun-22: #MULCIA: PhD Position F/M automated reasoning for set
   theory at Inria Nancy. https://bit.ly/3PPFekZ #PhD #CompSci
 
 + 01-jun-22: #MULCIA: Engineer Research and Development (M/F), Formal
-  Verification. https://bit.ly/3m5gU0G #Job #CompSci   
+  Verification. https://bit.ly/3m5gU0G #Job #CompSci
 
 + 01-jun-22: #MULCIA: PhD Position F/M formalization of set theory and
-  proof checking. https://bit.ly/3GCetw9 #PhD #PostDoc #CompSci 
+  proof checking. https://bit.ly/3GCetw9 #PhD #PostDoc #CompSci
 
 *** Mayo de 2022
 
