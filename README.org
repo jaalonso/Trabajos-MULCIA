@@ -9,6 +9,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2022
 
+*** Agosto de 2022
+
++ 04-ago-22: #MULCIA: Lecturer (Assistant Professor) Position in
+  Programming Languages at the University of
+  Kent. https://bit.ly/3A6k5gB #Job #CompSci
+
++ 04-ago-22: #MULCIA: PhD positions on formal methods and program
+  analysis available at the University of Oslo. https://bit.ly/3St0yOv
+  #PhD #CompSci
+
 *** Julio de 2022
 
 + 30-jul-22: #MULCIA: PhD position in Knowledge Representation and
