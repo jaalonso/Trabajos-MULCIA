@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2022
 
++ 06-ago-22: #MULCIA: PhD student in Computing Science on the topic of
+  efficient and provably correct execution environments at Uppsala
+  University. https://bit.ly/3Q3IOYj #PhD #CompSci
+
 + 04-ago-22: #MULCIA: Lecturer (Assistant Professor) Position in
   Programming Languages at the University of
   Kent. https://bit.ly/3A6k5gB #Job #CompSci
