@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2022
 
++ 20-ago-22: #MULCIA: Postdoc in logic, three years full time
+  (University of Otago, NZ) https://bit.ly/3c3HpCp #PostDoc #CompSci
+  #Logic
+
 + 09-ago-22: #MULCIA: PhD Position in Theoretical Computer Science and
   Combinatorial Optimization at Lund University . https://bit.ly/3SBWviL
   #PhD #CompSci
