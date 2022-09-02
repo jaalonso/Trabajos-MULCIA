@@ -9,6 +9,24 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2022
 
+*** Septiembre de 2022
+
++ 02-sep-22: #MULCIA: Postdoctoral position (2y) in distributed
+  synthesis, Gothenburg (Sweden). https://bit.ly/3KIcDLX #PostDoc
+  #CompSci
+
++ 02-sep-22: #MULCIA: PhD student position in finite model theory for
+  many valued logics, St Lucia (Australia). https://bit.ly/3TCbwSb #PhD
+  #Logic
+
++ 02-sep-22: #MULCIA: Assistant, Associate, & Full Professorships (three
+  positions) in Theoretical Computer Science, Amsterdam (The
+  Netherlands) https://bit.ly/3CR5w21 #Job #CompSci
+
++ 02-sep-22: #MULCIA: Postdoctoral fellowship in paraconsistent
+  computability theory, Dunedin & Christchurch (New
+  Zealand). https://bit.ly/3q3zJmL #PostDoc #CompSci
+
 *** Agosto de 2022
 
 + 20-ago-22: #MULCIA: Postdoc in logic, three years full time
