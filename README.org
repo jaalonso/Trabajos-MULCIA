@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2022
 
++ 08-sep-22: #MULCIA: Tenure-track assistant or associate professorship
+  in complexity theory in Copenhagen. https://bit.ly/3TTM9M0 #Job
+  #PostDoc #CompSci
+
 + 08-sep-22: #MULCIA: PhD position in Knowledge Representation and
   Reasoning / Artificial Intelligence, TU Graz. https://bit.ly/3TPeEKH
   #PhD #PostDoc #CompSci
