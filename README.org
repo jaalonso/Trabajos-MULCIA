@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2022
 
++ 08-sep-22: #MULCIA: PhD position in Knowledge Representation and
+  Reasoning / Artificial Intelligence, TU Graz. https://bit.ly/3TPeEKH
+  #PhD #PostDoc #CompSci
+
 + 02-sep-22: #MULCIA: Postdoctoral fellowship (2 years) within Formal
   Reasoning Methods for Social Intelligent
   Systems. https://bit.ly/3wQOMEc #PostDoc #CompSci
