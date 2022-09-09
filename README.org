@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2022
 
++ 09-sep-22: #MULCIA: Senior Lecturer / Associate Professor in Fairness
+  in Machine Learning & AI Planning at the University of
+  Melbourne. https://bit.ly/3d5CtNB #Job #CompSci #AI
+
 + 09-sep-22: #MULCIA: PhD scholarship for compiler verification  at the
   University of Lisbon / INESC-ID (Portugal). https://bit.ly/3L1cnbe
   #PhD #CompSci
