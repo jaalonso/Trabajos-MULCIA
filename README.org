@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2022
 
++ 09-sep-22: #MULCIA: PhD scholarship for compiler verification  at the
+  University of Lisbon / INESC-ID (Portugal). https://bit.ly/3L1cnbe
+  #PhD #CompSci
+
++ 09-sep-22: #MULCIA: Recruitment of a research engineer in automated
+  proof at LIRMM in Montpellier (France). https://bit.ly/3B0JmaZ #Job
+  #CompSci
+
 + 08-sep-22: #MULCIA: Tenure-track assistant or associate professorship
   in complexity theory in Copenhagen. https://bit.ly/3TTM9M0 #Job
   #PostDoc #CompSci
