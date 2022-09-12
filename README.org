@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2022
 
++ 12-sep-22: #MULCIA: Looking for PostDoc on Program Verification
+  Techniques in F* and Coq at the Max Planck Institute for Security and
+  Privacy. https://bit.ly/3B6WZFG #PostDoc #CompSci
+
 + 09-sep-22: #MULCIA: Senior Lecturer / Associate Professor in Fairness
   in Machine Learning & AI Planning at the University of
   Melbourne. https://bit.ly/3d5CtNB #Job #CompSci #AI
