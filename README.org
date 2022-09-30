@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2022
 
++ 30-sep-22: #MULCIA: Fully funded PhD positions in logic, semantics of
+  programs and verification at University of Sheffield,
+  UK. https://bit.ly/3Cie3u9 #PhD #CompSci
+
 + 24-sep-22: #MULCIA: W2-Professorships in the field of formal
   mathematics and computer assisted theorem proving at The University of
   Bonn. https://bit.ly/3Ra2BF2 #Jobs #PostDoc #CompSci
