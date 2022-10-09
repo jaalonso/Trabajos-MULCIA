@@ -9,6 +9,30 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2022
 
+*** Octubre de 2022
+
++ 09-oct-22: #MULCIA: Postdoctoral position in mathematical logic,
+  Vienna (Austria). https://bit.ly/3CeFrYO #PostDoc #Logic #Math
+
++ 09-oct-22: #MULCIA: Faculty position in Logical Foundations at the
+  University of Cambridge. https://bit.ly/3EwTeN4 #Job #PostDoc #CompSci
+
++ 09-oct-22: #MULCIA: Four (4) PhD student positions in dependent type
+  theory for mathematics and computer science. https://bit.ly/3fNB1R3
+  #PhD #CompSci
+
++ 09-oct-22: #MULCIA: Two postdocs in Type theory for mathematics and
+  computer science ar the University of
+  Gothenburg. https://bit.ly/3CmjxTC #PostDoc #CompSci
+
++ 09-oct-22: #MULCIA: Faculty position in Verification at Sheffield
+  University. https://bit.ly/3rIrNbA #Job #PostDoc #CompSci
+
++ 09-oct-22: #MULCIA: Two positions at the University of Bonn in the
+  field of formal mathematics and computer assisted theorem
+  proving. https://bit.ly/3CLPPZH #Job #CompSci
+
+
 *** Septiembre de 2022
 
 + 30-sep-22: #MULCIA: Fully funded PhD positions in logic, semantics of
