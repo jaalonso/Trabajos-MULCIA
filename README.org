@@ -11,6 +11,20 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2022
 
++ 12-oct-22: #MULCIA: Ph.D. positions at Portland State University (in
+  programming languages, formal verification, and/or interactive theorem
+  proving). https://bit.ly/3yxjN0I #PhD #CompSci
+
++ 12-oct-22: #MULCIA: Three PhD student positions in verification,
+  Sheffield (England). https://bit.ly/3Cie3u9 #PhD #CompSci
+
++ 12-oct-22: #MULCIA: PhD and postdoc positions in theory of quantum
+  computing in Paris. https://bit.ly/3esC3BS #PhD #PostDoc #CompSci
+
++ 12-oct-22: #MULCIA: Postdoc positions at Virginia Tech/Open University
+  in verification. https://bit.ly/3CQAdE9 #PostDoc #CompSci
+
+
 + 09-oct-22: #MULCIA: Postdoctoral position in mathematical logic,
   Vienna (Austria). https://bit.ly/3CeFrYO #PostDoc #Logic #Math
 
