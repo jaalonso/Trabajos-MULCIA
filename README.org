@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2022
 
++ 14-oct-22: #MULCIA: PhD position in number theory and formalisation at
+  UEA (Formalising aspects of the Langlands Program in
+  Lean). https://bit.ly/3CWFEBm #PhD #CompSci
+
 + 12-oct-22: #MULCIA: Ph.D. positions at Portland State University (in
   programming languages, formal verification, and/or interactive theorem
   proving). https://bit.ly/3yxjN0I #PhD #CompSci
