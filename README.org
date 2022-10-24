@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2022
 
++ 24-oct-22: #MULCIA: Job opportunity at Oxford in Safe and Secure AI
+  (ELSA EU network). https://www.cs.ox.ac.uk/news/2096-full.html #Job
+  #CompSci #AI
+
 + 20-oct-22: #MULCIA: PhD positions at Binghamton University to work on
   formal verification, analysis, and/or synthesis. https://bit.ly/3TzOQ49
   #PhD #CompSci
