@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2022
 
++ 24-nov-22: #MULCIA: Fully funded PhD positions in PL theory and
+  interactive theorem proving at Heriot-Watt University in
+  Edinburgh. https://bit.ly/3V3pIEh #PhD #CompSci
+
++ 24-nov-22: #MULCIA: PhD Position in Theoretical Computer Science
+  and/or Combinatorial Optimization in Lund. https://bit.ly/3XtonrT #PhD
+  #CompSci
+
 + 22-nov-22: #MULCIA: Postdoc position in verification and automata
   learning at MPI-SWS, in association with Cornell and Oxford
   https://bit.ly/3Oq6TbO #PostDoc #CompSci
