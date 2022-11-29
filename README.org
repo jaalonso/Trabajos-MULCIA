@@ -11,6 +11,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2022
 
++ 29-nov-22: #MULCIA: 7 PhD positions available in Austria within the
+  SPyCoDe (Semantic and Cryptographic Foundations of Security and
+  Privacy by Compositional Design) Special Research
+  Program. https://bit.ly/3GVfvWe #PhD #CompSci
+
++ 29-nov-22: #MULCIA: Fully funded PhD positions in PL theory and
+  interactive theorem proving at Heriot-Watt University in
+  Edinburgh. https://bit.ly/3OMuJOU #PhD #CompSci
+
++ 29-nov-22: #MULCIA: 2 PhD positions in Formal Analysis for Concurrent
+  Workflows in HVL, Bergen, Norway. https://bit.ly/3in62MR #PhD #CompSci
+
 + 24-nov-22: #MULCIA: Fully funded PhD positions in PL theory and
   interactive theorem proving at Heriot-Watt University in
   Edinburgh. https://bit.ly/3V3pIEh #PhD #CompSci
