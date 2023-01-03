@@ -7,6 +7,18 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+** 2023
+
+*** Enero de 2023
+
++ 03-ene-23: #MULCIA: Post-doc position in program verification using
+  proof assistants at Université de Montpellier. https://bit.ly/3IfgroZ
+  #PostDoc #CompSci
++ 03-ene-23: #MULCIA: A fully funded postdoc position in "Quantitative
+  verification of software families based on coalgebraic modal logic and
+  games" at the University of Sheffield. https://bit.ly/3WEp4xC #PostDoc
+  #CompSci
+
 ** 2022
 
 *** Diciembre de 2022
