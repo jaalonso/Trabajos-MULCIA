@@ -11,9 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2023
 
++ 05-ene-23: #MULCIA: Postdoctoral position on Program Semantics and SW
+  Verification at Singapore Institute of
+  Technology. https://bit.ly/3jMRJlD #PostDoc #CompSci
+
 + 03-ene-23: #MULCIA: Post-doc position in program verification using
   proof assistants at Université de Montpellier. https://bit.ly/3IfgroZ
   #PostDoc #CompSci
+
 + 03-ene-23: #MULCIA: A fully funded postdoc position in "Quantitative
   verification of software families based on coalgebraic modal logic and
   games" at the University of Sheffield. https://bit.ly/3WEp4xC #PostDoc
