@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2023
 
++ 09-ene-23: #MULCIA: Verification jobs at Cryspen
+  https://bit.ly/3vON3OY #Job #CompSci
+
++ 09-ene-23: #MULCIA: 2-year postdoctoral position in Neurosymbolic
+  Artificial Intelligence at the University of
+  Edinburgh. https://bit.ly/3QozDCy #PostDoc #CompSci
+
 + 05-ene-23: #MULCIA: Postdoctoral position on Program Semantics and SW
   Verification at Singapore Institute of
   Technology. https://bit.ly/3jMRJlD #PostDoc #CompSci
