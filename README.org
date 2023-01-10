@@ -11,6 +11,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2023
 
++ 10-ene-23: #MULCIA: A fully funded postdoc position in "Quantitative
+  Verification of Software Families based on Coalgebraic Modal Logic and
+  Games" https://bit.ly/3CxKPHq #PostDoc #CompSci
+
++ 10-ene-23: #MULCIA: Two open position in Mathematical and
+  Computational Logic at the ILLC, University of
+  Amsterdam. https://bit.ly/3IC5XQB #Job #CompSci
+
++ 10-ene-23: #MULCIA: Tenure-track Faculty Positions at the IMDEA
+  Software Institute. https://bit.ly/3IGeEJI #Jobs #PostDoc #CompSci
+
 + 09-ene-23: #MULCIA: Verification jobs at Cryspen
   https://bit.ly/3vON3OY #Job #CompSci
 
