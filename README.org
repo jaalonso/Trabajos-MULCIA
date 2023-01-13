@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2023
 
++ 13-ene-23: #MULCIA: Postdoc position and PhD position in Computational
+  Topology and Neural Networks at the University of
+  Seville. https://bit.ly/3IKrNBy #PhD #PostDoc #CompSci
+
 + 13-ene-23: #MULCIA: Fully funded PhD scholarship on "Trustworthy
   refactoring tools for Haskell programs" at St
   Andrews. https://bit.ly/3XpXyEe #PhD #CompSci
