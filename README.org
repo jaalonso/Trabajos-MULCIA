@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2023
 
++ 19-ene-23: #MULCIA: Postdoc in Inria Sophia Antipolis: Metaprogramming
+  a principled category theory library with
+  Coq/Hierarchy-Builder. https://bit.ly/3kidVnQ #PostDoc #CompSci
+
++ 19-ene-23: #MULCIA: PhD Studentship at Planning and Learning Group,
+  Madrid, Spain. https://bit.ly/3QOlYVC #PhD #CompSci
+
 + 13-ene-23: #MULCIA: Postdoc position and PhD position in Computational
   Topology and Neural Networks at the University of
   Seville. https://bit.ly/3IKrNBy #PhD #PostDoc #CompSci
