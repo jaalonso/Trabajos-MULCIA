@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2023
 
++ 26-ene-23: #MULCIA: Research scientist - Formal methods at Two Six
+  Technologies. Arlington, Virginia https://bit.ly/3wxUVoe #Job #CompSci
+
 + 19-ene-23: #MULCIA: Postdoc in Inria Sophia Antipolis: Metaprogramming
   a principled category theory library with
   Coq/Hierarchy-Builder. https://bit.ly/3kidVnQ #PostDoc #CompSci
