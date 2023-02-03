@@ -9,6 +9,26 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2023
 
+*** Febrero de 2023
+
++ 03-feb-23: #MULCIA: 4y fully funded PhD position on verification of
+  efficient and secure parallel algorithms at the University of
+  Twente. https://bit.ly/3jtp3OS #PhD #CompSci
+
++ 03-feb-23: #MULCIA: Postdoc position on design and/or verification of
+  distributed systems at the University of
+  Birmingham. https://bit.ly/3YmRYCO #PostDoc #CompSci
+
++ 02-feb-23: #MULCIA: Two PhD Positions in AUTOSARD (Automated Sublinear
+  Amortised Resource Analysis of Data Structures)
+  project. https://bit.ly/3l0MRtU #PhD #CompSci
+
++ 02-feb-23: #MULCIA: Job offer / Researcher-Engineer / Inria, Saclay,
+  France. https://bit.ly/3DWh3wX #Job #CompSci
+
++ 01-feb-23: #MULCIA: Assistant professor in logic/semantics at the
+  Vrije Universiteit Amsterdam.  https://bit.ly/3RjH0Ml #Job #CompSci
+
 *** Enero de 2023
 
 + 26-ene-23: #MULCIA: Research scientist - Formal methods at Two Six
