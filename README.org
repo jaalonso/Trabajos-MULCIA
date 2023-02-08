@@ -11,6 +11,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2023
 
++ 08-feb-23: #MULCIA: Five tenured positions in theoretical computer
+  science at IRIF / Université Paris Cité. https://bit.ly/40BPCC1 #Jobs
+  #CompSci
+
++ 08-feb-23: #MULCIA: PhD position in formal methods at the University
+  of Oslo. https://bit.ly/3llXZ4I #PhD #CompSci
+
++ 04-feb-23: #MULCIA: Post-doc position at Université de Montpellier:
+  Verified data structures for term indexing. https://bit.ly/3ldROPO
+  #PostDoc #CompSci
+
 + 03-feb-23: #MULCIA: 4y fully funded PhD position on verification of
   efficient and secure parallel algorithms at the University of
   Twente. https://bit.ly/3jtp3OS #PhD #CompSci
