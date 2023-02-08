@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2023
 
++ 08-feb-23: #MULCIA: PhD position in Explainable AI in Finance at the
+  University of Amsterdam. https://bit.ly/40HOQUg #PhD #CompSci #AI
+
 + 08-feb-23: #MULCIA: Five tenured positions in theoretical computer
   science at IRIF / Université Paris Cité. https://bit.ly/40BPCC1 #Jobs
   #CompSci
