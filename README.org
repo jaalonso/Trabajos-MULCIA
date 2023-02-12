@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2023
 
++ 12-feb-23: #MULCIA: Post-Doc in knowledge representation and
+  reasoning, automated theorem proving (especially for non-classical
+  logics) at the University of Luxembourg. https://bit.ly/3lvzPVq
+  #PostDoc #CompSci
+
 + 08-feb-23: #MULCIA: PhD position in Explainable AI in Finance at the
   University of Amsterdam. https://bit.ly/40HOQUg #PhD #CompSci #AI
 
