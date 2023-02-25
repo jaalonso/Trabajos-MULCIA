@@ -11,6 +11,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2023
 
++ 25-feb-23: #MULCIA: Two Postdocs in Logic, Gothenburg
+  (Sweden). https://bit.ly/3KC9DmD #PostDoc #Logic
+
++ 14-feb-23: #MULCIA: PhD position in Computer Science on the formal and
+  cognitive foundations of human-centred AI (Orebro University, Sweden)
+  https://bit.ly/3IoS8ER #PhD #AI #CompSci
+
++ 14-feb-23: #MULCIA: Research Assistant / Research Associate in
+  Argumentation-based Explainable AI (Imperial College
+  London). https://bit.ly/3IwfN6p #PhD #PostDoc #CompSci #AI
+
 + 12-feb-23: #MULCIA: Post-Doc in knowledge representation and
   reasoning, automated theorem proving (especially for non-classical
   logics) at the University of Luxembourg. https://bit.ly/3lvzPVq
