@@ -9,6 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2023
 
+*** Marzo de 2023
+
++ 01-mar-23: #MULCIA: Post-Doctoral Research Visit F/M Metaprogramming a
+  principled category theory library with
+  Coq/Hierarchy-Builder. https://bit.ly/3Z9l4GR #PostDoc #CompSci
+
 *** Febrero de 2023
 
 + 25-feb-23: #MULCIA: Two Postdocs in Logic, Gothenburg
