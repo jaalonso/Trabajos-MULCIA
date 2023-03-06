@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2023
 
++ 06-mar-23: #MULCIA: PhD position at Inria / Nantes Université
+  (France). The successful candidate will contribute to the Fresco ERC
+  project, aiming at designing fast and reliable symbolic
+  computations. https://bit.ly/3mslidD #PhD #CompSci
+
++ 06-mar-23: #MULCIA: Postdoc position on formal verification for
+  zero-trust IoT systems at Kyoto University. https://bit.ly/3EZDZfa
+  #PostDoc #CompSci
+
 + 01-mar-23: #MULCIA: PhD position in Epistemic Reasoning and
   Multi-Agent Learning, IRIT, Toulouse
   University. https://bit.ly/3Yc1Grt #PhD #CompSci
