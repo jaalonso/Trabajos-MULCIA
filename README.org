@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2023
 
++ 10-mar-23: #MULCIA: PhD and Post-doc Positions in Theoretical Computer
+  Science, University of Regensburg https://bit.ly/3FfKf2y #PhD #PostDoc #CompSci
+
 + 10-mar-23: #MULCIA: PhD or Postdoc position at LMU Munich about
   verified modal logics. https://bit.ly/3LbdHKC #PhD #PostDoc #CompSci
 
