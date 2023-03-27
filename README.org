@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2023
 
++ 27-mar-23: #MULCIA: Postdoctor in Type theory for mathematics and
+  computer science, University of Gothenburg. https://bit.ly/3ZnxOZD
+  #PostDoc #CompSci #Math
+
 + 10-mar-23: #MULCIA: PhD and Post-doc Positions in Theoretical Computer
   Science, University of Regensburg https://bit.ly/3FfKf2y #PhD #PostDoc #CompSci
 
