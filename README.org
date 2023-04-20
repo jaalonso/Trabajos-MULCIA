@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril de 2023
 
++ 20-abr-23: #MULCIA: 3-year Research Associate or Research Assistant
+  position in formal verification, using a proof assistant (preferably
+  Isabelle), at the University of Sheffield. https://bit.ly/41nwd7P
+  #PostDoc #CompSci #ITP #IsabelleHOL
+
 + 17-abr-23: #MULCIA: PhD position on verification of efficient and
   secure parallel algorithms. https://bit.ly/3jtp3OS #PhD #CompSci #ITP
   #IsabelleHOL
