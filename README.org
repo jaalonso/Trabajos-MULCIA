@@ -9,7 +9,30 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2023
 
+*** Mayo de 2023
+
++ 23-may-23: #MULCIA: Postdoctoral position in Orleans, France:
+  Collaborative memory models for formal
+  verification. https://bit.ly/45sujWb #PostDoc #CompSci
+
++ 23-may-23: #MULCIA: Postdoctoral position at Université de
+  Montpellier: Verified data structures for term
+  indexing. https://bit.ly/3ldROPO #PhD #PostDoc #CompSci
+
++ 21-may-23: #MULCIA: Permanent Position S/SL in Applied Formal Methods
+  at Swansea University. https://bit.ly/3ohKHrN #PostDoc #CompSci
+
++ 21-may-23: #MULCIA: Postdoctoral position on agent-based modelling and
+  multi-agent learning. https://bit.ly/3osQGtE #PostDoc #CompSci
+
 *** Abril de 2023
+
++ 28-abr-23: #MULCIA: Two year postdoc in logic and computation at the
+  University of Bath. https://bit.ly/41N0mh4  #PostDoc #Logic #CompSci
+
++ 27-abr-23: #MULCIA: PhD position in theoretical computer science
+  and/or combinatorial optimization at Lund
+  University. https://bit.ly/40JANvW #PhD #CompSci
 
 + 20-abr-23: #MULCIA: 3-year Research Associate or Research Assistant
   position in formal verification, using a proof assistant (preferably
