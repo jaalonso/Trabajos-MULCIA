@@ -9,7 +9,32 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2023
 
+*** Agosto de 2023
+
++ 07-ago-23: #MULCIA: PhD and PostDoc positions in formal methods at
+  KIT. https://bit.ly/44YN1UH #PhD #PostDoc #CompSci
+
++ 07-ago-23: #MULCIA: PhD Student in Assured Autonomous Systems (Two
+  open positions) at Chalmers University. https://bit.ly/3qgLOJe #PhD
+  #CompSci
+
++ 07-ago-23: #MULCIA: PostDoc in Formal Analysis of Autonomous Systems
+  at Chalmers University. https://bit.ly/440ebcv  #PostDoc #CompSci
+
+
++ 04-ago-23: #MULCIA: PhD student in assured autonomous systems (two
+  open positions) at Chalmers University. https://bit.ly/3qgLOJe #PhD
+  #CompSci
+
 *** Junio de 2023
+
++ 28-jun-23: #MULCIA: PhD student in Computing Science on safe and
+  efficient programming languages at Uppsala
+  University. https://bit.ly/3JCbdUa #PhD #CompSci
+
++ 28-jun-23: #MULCIA: Two PostDoc/PhD positions in Knowledge
+  Representation and Reasoning at Ulm University
+  (Germany). https://bit.ly/3JyvKZL #PhD #PostDoc #CompSci
 
 + 27-jun-23: #MULCIA: 2-year postdoctoral researcher position in SAT
   solving, constraint satisfaction and related areas. University of
