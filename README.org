@@ -11,6 +11,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2023
 
++ 17-ago-23: #MULCIA: PhD position in secure software and
+  microarchitectures at KTH Stockholm. https://bit.ly/45u3JLp #PhD
+  #CompSci
+
++ 12-ago-23: #MULCIA: PhD position in higher-order mathematical
+  operational semantics at the Friedrich-Alexander-Universität
+  Erlangen-Nürnberg.. https://bit.ly/456zV7G #PhD #CompSci
+
++ 12-ago-23: #MULCIA: Postdoc position, Logic and Semantics Group in
+  Tallinn. https://bit.ly/4482Rv1 #PostDoc #CompSci
+
 + 07-ago-23: #MULCIA: PhD and PostDoc positions in formal methods at
   KIT. https://bit.ly/44YN1UH #PhD #PostDoc #CompSci
 
