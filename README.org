@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2023
 
++ 18-ago-23: #MULCIA: Postdoctoral position in verification/robustness
+  of AI at Oxford University. https://bit.ly/47BX4AE #PostDoc #CompSci
+
 + 17-ago-23: #MULCIA: PhD position in secure software and
   microarchitectures at KTH Stockholm. https://bit.ly/45u3JLp #PhD
   #CompSci
