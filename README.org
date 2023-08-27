@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2023
 
++ 27-ago-23: #MULCIA: Fully funded PhD positions in combinatorics,
+  random graphs, logic, complexity, and semantics at University of
+  Sheffield. https://bit.ly/47RChci #PhD #CompSci
+
 + 18-ago-23: #MULCIA: Postdoctoral position in verification/robustness
   of AI at Oxford University. https://bit.ly/47BX4AE #PostDoc #CompSci
 
