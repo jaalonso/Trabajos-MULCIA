@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2023
 
++ 11-sep-23: #MULCIA: Permanent position in applied formal methods at
+  Swansea University. https://bit.ly/3ZbJNuO #Job #CompSci
+
 + 04-sep-23: #MULCIA: Prefaculty / postdoc researcher in type systems at
   Jane Street  https://bit.ly/3R0jLZw #PhD #PostDoc #CompSci
 
