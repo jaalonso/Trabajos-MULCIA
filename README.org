@@ -11,6 +11,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2023
 
++ 12-sep-23: #MULCIA: Recrutement d’un.e doctorant.e dans le cadre du
+  projet ANR “APPAM” (2024-2028): Les assistants de preuve pour les
+  apprentissages mathématiques https://bit.ly/44USKd3 #PhD #CompSci
+
++ 12-sep-23: #MULCIA: Recrutement d’un.e post-doctorant.e / ingénieur.e
+  de recherche dans le cadre du projet ANR “APPAM” (2024-2028): Les
+  assistants de preuve pour les apprentissages
+  mathématiques. https://bit.ly/3reyLbF #PostDoc #CompSci
+
++ 12-sep-23: #MULCIA: PhD / PostDoc position on Learning and Reasoning,
+  TU Dortmund (Germany). https://bit.ly/3RqiHOy #PhD #PostDoc #CompSci
+
 + 11-sep-23: #MULCIA: Permanent position in applied formal methods at
   Swansea University. https://bit.ly/3ZbJNuO #Job #CompSci
 
