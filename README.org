@@ -11,13 +11,34 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre 2023
 
++ 13-oct-23: #MULCIA: PhD scholarship in Computer Science: Model
+  checking for malware detection, Paris (France). https://bit.ly/3ZStiEi
+  #PhD #CompSci
+
++ 13-oct-23: #MULCIA: Postdoc computational linguistics, Gothenburg
+  (Sweden). https://bit.ly/3Qbj2nn #PostDoc #CompSci
+
++ 13-oct-23: #MULCIA: 2 PostDocs (3y, 2y) LoDEx/ deontic explanation/
+  defeasible reasoning, Bochum / Luxembourg /
+  Vienna. https://bit.ly/3PUAVpl #PostDoc #CompSci #Logic
+
++ 13-oct-23: #MULCIA: PhD position in logic and legal reasoning, Vienna
+  (Austria). https://bit.ly/46Lm7Qp #PhD #Logic
+
++ 13-oct-23: #MULCIA: PhD position in epistemic reasoning and learning -
+  IRIT, Toulouse (France). https://bit.ly/45zbP50 #PhD #Logic #CompSci
+
++ 11-oct-23: #MULCIA: PhD/postdoc vacancy on the verification of
+  cryptographic protocols at Aarhus University. https://bit.ly/3tsVJwr
+  #PhD #PostDoc #CompSci
+
+*** Septiembre 2023
+
 + 28-sep-23: #MULCIA: Multiple theorem proving PhD/postdoc positions at
   LMU München. https://bit.ly/3Zwv3a9 #PhD #PostDoc #CompSci
 
 + 26-sep-23: #MULCIA: PhD position in epistemic reasoning and learning,
   IRIT, Toulouse University. https://bit.ly/3RBGKKO #PhD #CompSci
-
-*** Septiembre 2023
 
 + 12-sep-23: #MULCIA: Recrutement d’un.e doctorant.e dans le cadre du
   projet ANR “APPAM” (2024-2028): Les assistants de preuve pour les
