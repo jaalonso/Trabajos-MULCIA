@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre 2023
 
++ 13-oct-23: #MULCIA: PhD position in formalization of mathematics at
+  Utrecht University. https://bit.ly/46OucUM #PhD #CompSci
+
 + 13-oct-23: #MULCIA: PhD scholarship in Computer Science: Model
   checking for malware detection, Paris (France). https://bit.ly/3ZStiEi
   #PhD #CompSci
