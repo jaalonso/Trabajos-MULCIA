@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre 2023
 
++ 18-oct-23: #MULCIA: Postdoc position in formal methods at University
+  of Exeter. https://bit.ly/3Sb5Joe #PhD #CompSci
+
 + 13-oct-23: #MULCIA: PhD position in formalization of mathematics at
   Utrecht University. https://bit.ly/46OucUM #PhD #CompSci
 
