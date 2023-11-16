@@ -9,7 +9,39 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2023
 
+*** Noviembre 2023
+
++ 16-nov-23: #MULCIA: Fully funded PhD position in categorical
+  semantics. University of Sussex, UK. https://bit.ly/3MKy7tY #PhD
+  #CompSci
+
++ 16-nov-23: #MULCIA: Postdoc opening in categorical semantics at
+  Appalachian State University. https://bit.ly/40EyBaW #PostDoc #CompSci
+
++ 13-nov-23: #MULCIA: Postdoc position in Formal Methods at University
+  of Exeter. https://bit.ly/3SzESTc #PostDoc #CompSci
+
++ 09-nov-23: #MULCIA: Postdoc position in Formal Methods at University
+  of Exeter. https://bit.ly/3SzESTc #PostDoc #CompSci
+
 *** Octubre 2023
+
++ 27-oct-23: #MULCIA: Postdoctoral position in large language models and
+  explainability at University of Edinburgh. https://bit.ly/3tLIUNX
+  #PostDoc #CompSci #AI
+
++ 25-oct-23: #MULCIA: Post-doc job offering in SAT/SMT at Australian
+  National University. https://bit.ly/3Mkiklp #PostDoc #CompSci
+
++ 24-oct-23: #MULCIA: Postdoc in verification and game theory,
+  University of Liverpool (UK). https://bit.ly/405jxTv #PostDoc #CompSci
+
++ 23-oct-23: #MULCIA: Postdoctoral opportunities in
+  verification/synthesis for AI at Oxford. https://bit.ly/46DkaWT
+  #PostDoc #CompSci #AI
+
++ 20-oct-23: #MULCIA: Post doctoral in mechanized theorem
+  proving. https://bit.ly/40aztUw #PostDoc #CompSci
 
 + 18-oct-23: #MULCIA: Postdoc position in formal methods at University
   of Exeter. https://bit.ly/3Sb5Joe #PhD #CompSci
