@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2023
 
++ 18-nov-23: #MULCIA: Postdoc position on formalized mathematics in
+  Bonn. https://bit.ly/3MOtUFK #PostDoc #CompSci #ITP #LeanProver #Math
+
++ 17-nov-23: #MULCIA: One-year Postdoc in computational logic, Tampere
+  (Finland), https://bit.ly/47u54mu #PostDoc #CompSci
+
 + 16-nov-23: #MULCIA: Fully funded PhD position in categorical
   semantics. University of Sussex, UK. https://bit.ly/3MKy7tY #PhD
   #CompSci
