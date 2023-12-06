@@ -9,6 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2023
 
+*** Diciembre 2023
+
++ 06-dic-23: #MULCIA: ERC-Funded PostDoc and PhD positions in
+  combinatorial optimization (certifying algorithms/proof logging), VUB
+  (Brussels, Belgium). https://bit.ly/47Pr7Vq #PhD #PostDoc #CompSci
+
 *** Noviembre 2023
 
 + 26-nov-23: #MULCIA: PhD position in Computability at Swansea
