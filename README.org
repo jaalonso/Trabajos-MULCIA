@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre 2023
 
++ 12-dic-23: #MULCIA: Full Professorship in Formal Methods at the
+  Johannes Kepler University Linz. https://bit.ly/47T8zDt #Job #CompSci
+
 + 11-dic-23: #MULCIA: Tenure-track assistant professorship in
   foundations of computer science with a focus on logic and automated
   reasoning at Lund university. https://bit.ly/3NoDSxP #Job #CompSci
