@@ -11,6 +11,24 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre 2023
 
++ 22-dic-23: #MULCIA: 2 Postdocs Logic (1 year each), University of
+  Cagliari (Italy). https://bit.ly/3GZITcp #PostDoc #Logic
+
++ 20-dic-23: #MULCIA: Post-doc position in Udine in mathematical logic,
+  Udine (Italy). https://bit.ly/3RP6xyz #PostDoc #Logic #Math
+
++ 19-dic-23: #MULCIA: Multiple PhD and Postdoc positions in artificial
+  intelligence and formal methods at the Ruhr-University Bochum,
+  Germany. https://bit.ly/3txZ2CR #PhD #PostDoc #CompSci
+
++ 16-dic-23: #MULCIA: Fully-funded PhD positions at ISTA in the area of
+  programming languages and verification at the Institute of Science and
+  Technology Austria (ISTA). https://bit.ly/4aqtS0M #PhD #CompSci
+
++ 16-dic-23: #MULCIA: Full professorship in formal methods at the
+  Johannes Kepler University Linz. https://bit.ly/3Tuu60W #Job #PostDoc
+  #CompSci
+
 + 13-dic-23: #MULCIA: Two research positions are available at the Alan
   Turing Institute on a new project combining Probabilistic Programming,
   LLMs and Answer Set Programming (ASP). https://bit.ly/46YQlPA #PhD
