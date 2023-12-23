@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre 2023
 
++ 23-dic-23: #MULCIA: PhD position on aligning learning and reasoning at
+  the University of Groningen, Netherlands. https://bit.ly/3GXMzeZ #PhD
+  #CompSci
+
 + 22-dic-23: #MULCIA: 2 Postdocs Logic (1 year each), University of
   Cagliari (Italy). https://bit.ly/3GZITcp #PostDoc #Logic
 
