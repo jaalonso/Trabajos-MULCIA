@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre 2023
 
++ 28-dic-23: #MULCIA: Two PhD scholarships in formal methods at ANU (The
+  Australian National University). https://bit.ly/3vgcxYq #PhD #CompSci
+
++ 28-dic-23: #MULCIA: Postdoc opening in categorical
+  semantics. https://bit.ly/48xK66D #PostDoc #CompSci
+
 + 23-dic-23: #MULCIA: PhD position on aligning learning and reasoning at
   the University of Groningen, Netherlands. https://bit.ly/3GXMzeZ #PhD
   #CompSci
