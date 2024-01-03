@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2024
 
++ 03-ene-24: #MULCIA: Funded PhD Studentship in Proof-theoretic
+  Semantics, UCL (Londen, UK). https://bit.ly/41KRp8X #PhD #CompSci
+
 + 02-ene-24: #MULCIA: PhD/postdoc positions in formal verification at
   Ecole Polytechnique, Paris, France. https://bit.ly/47fO2YB #PhD
   #PostDoc #CompSci
