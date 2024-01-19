@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2024
 
++ 19-ene-24: #MULCIA: Post-doc position at University of Glasgow, UK (PL
+  theory, behavioural types). https://bit.ly/3O9cLqQ #PostDoc #CompSci
+
++ 19-ene-24: #MULCIA: PhD position in formal methods at the University
+  of Augsburg, Germany available. https://bit.ly/48ECqQA #PhD #CompSci
+
++ 18-ene-24: #MULCIA: Two fully funded PhD positions in informatics:
+  Algorithms/ Logic and AI, Bergen (Norway). https://bit.ly/3Sm3gqK #PhD
+  #CompSci
+
 + 16-ene-24: #MULCIA: Fully-funded PhD studentship in functional
   programming at University of Nottingham, UK. https://bit.ly/47BZiib
   #PhD #CompSci
