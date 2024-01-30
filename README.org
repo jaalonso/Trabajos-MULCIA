@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2024
 
++ 30-ene-24: #MULCIA: PhD position in formal methods for security and
+  privacy at TU Wien. https://tools.spycode.at/recruiting/call/5 #PhD
+  #CompSci
+
 + 19-ene-24: #MULCIA: Post-doc position at University of Glasgow, UK (PL
   theory, behavioural types). https://bit.ly/3O9cLqQ #PostDoc #CompSci
 
