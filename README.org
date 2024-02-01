@@ -9,6 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2024
 
+*** Febrero 2024
+
++ 01-feb-24: #MULCIA: PhD position on machine learning for automated
+  reasoning at University of Amsterdam. https://bit.ly/48UGnRh #PhD
+  #CompSci
+
 *** Enero 2024
 
 + 30-ene-24: #MULCIA: PhD position in formal methods for security and
