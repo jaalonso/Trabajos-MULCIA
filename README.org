@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2024
 
++ 17-feb-24: #MULCIA: Post doctoral in mechanized theorem proving at
+  Telecom SudParis. https://bit.ly/42PZ8mD #PostDoc #CompSci
+
++ 14-feb-24: #MULCIA: PhD position in the areas of type theory, category
+  theory and/or logic at the University of
+  Strathclyde. https://bit.ly/3uIrbro #PhD #CompSci
+
 + 03-feb-24: #MULCIA: Fully-funded PhD studentship in functional
   programming. University of Nottingham, UK https://bit.ly/47BZiib #PhD
   #CompSci
