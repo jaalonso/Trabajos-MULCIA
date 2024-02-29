@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2024
 
++ 29-feb-24: #MULCIA: Interactive theorem proving internship at AWS
+  Cambridge, UK. https://bit.ly/3UYlWi9 #PhD #CompSci
+
++ 29-feb-24: #MULCIA: PhD in theoretical computer science, Kings College
+  (London / UK). http://tinyurl.com/mvetkkyd #PhD #CompSci
+
 + 24-feb-24: #MULCIA: Postdoc position in formalization at Heidelberg
   University. https://www.mathjobs.org/jobs/list/24372 #PostDoc #CompSci
   #Math
