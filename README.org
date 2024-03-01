@@ -9,6 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2024
 
+*** Marzo 2024
+
++ 01-mar-24: #MULCIA: Postdoctoral position in neural-symbolic KRR in
+  University of Manchester. https://tinyurl.com/33nyfhps #PostDoc
+  #CompSci
+
 *** Febrero 2024
 
 + 29-feb-24: #MULCIA: Interactive theorem proving internship at AWS
