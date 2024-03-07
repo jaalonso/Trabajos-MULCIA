@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2024
 
++ 06-mar-24: #MULCIA: Associate Professor Position in Mathematical Logic
+  at University of Rome "Tor Vergata". https://tinyurl.com/32u737y6 #Job
+  #Logic #Math
+
 + 01-mar-24: #MULCIA: Postdoctoral position in neural-symbolic KRR in
   University of Manchester. https://tinyurl.com/33nyfhps #PostDoc
   #CompSci
