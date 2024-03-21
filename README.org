@@ -11,6 +11,21 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2024
 
++ 21-mar-24: #MULCIA: Funded PhD position in formalizing/verification of
+  Golang https://tinyurl.com/bwrxw67s #PhD #PostDoc #CompSci
+
++ 21-mar-24: #MULCIA: PhD / Postdoc positions related to quantum
+  verification / programs at RWTH Aachen,
+  Germany. https://tinyurl.com/34ep5bab #PhD #PostDoc #CompSci
+
++ 21-mar-24: #MULCIA: Postdoc/Research associate position in modal type
+  theory and secure compilation at the University of
+  Kent. https://tinyurl.com/5n6v9b4v #PostDoc #CompSci
+
++ 21-mar-24: #MULCIA: PhD position: Software verification for
+  programmable 6g networks (University of
+  Amsterdam). https://tinyurl.com/a9rdyez8 #PhD #CompSci
+
 + 16-mar-24: #MULCIA: Postdoc/Research associate position in modal type
   theory and secure compilation at the University of
   Kent. https://tinyurl.com/8yefah3n #PostDoc #CompSci
