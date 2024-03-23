@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2024
 
++ 23-mar-24: #MULCIA: PhD position in program verification at Uppsala
+  University, https://tinyurl.com/swbj76df #PhD #CompSci
+
 + 22-mar-24: #MULCIA: Postdoc positions on foundations of type classes
   and type families at the University of
   Iowa. https://tinyurl.com/yc7x3594 #PostDoc #CompSci
