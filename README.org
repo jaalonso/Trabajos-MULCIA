@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2024
 
++ 25-mar-24: #MULCIA: 2 PhDs and 1 PostDoc in the new knowledge
+  representation group, Paderborn
+  (Germany). https://tinyurl.com/565e6kuv #PhD #PostDoc #CompSci
+
 + 24-mar-24: #MULCIA: PostDoc in Formal Analysis of Autonomous
   Cyber-Physical Systems at Chalmers
   University. https://tinyurl.com/32z8rcay #PostDoc #CompSci
