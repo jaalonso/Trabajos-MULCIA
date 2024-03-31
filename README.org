@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2024
 
++ 31-mar-24: #MULCIA: PostDoc in using Formal Methods for finding
+  security vulnerabilities and misconfigurations in
+  business-process-driven systems at the University of Exeter (UK)
+  https://tinyurl.com/mrxdfera #PostDoc #CompSci
+
 + 25-mar-24: #MULCIA: 2 PhDs and 1 PostDoc in the new knowledge
   representation group, Paderborn
   (Germany). https://tinyurl.com/565e6kuv #PhD #PostDoc #CompSci
