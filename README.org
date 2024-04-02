@@ -9,6 +9,20 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2024
 
+*** Abril 2024
+
++ 02-abr-24: #MULCIA: Fully funded PhD (Formal verification) position,
+  University of Missouri, (Columbia, USA). https://tinyurl.com/yredjaa3
+  #PhD #CompSci
+
++ 02-abr-24: #MULCIA: PhD scholarship in automated verification of
+  WebAssembly programs, University of Reading
+  (England). https://tinyurl.com/ycyk6b4k #PhD #CompSci
+
++ 02-abr-24: #MULCIA: Postdoc or Assistant Research Professor position
+  in formal methods and probabilistic programming at Penn State
+  CSE. https://tinyurl.com/mr3zs9yu #PostDoc #CompSci
+
 *** Marzo 2024
 
 + 31-mar-24: #MULCIA: PostDoc in using Formal Methods for finding
