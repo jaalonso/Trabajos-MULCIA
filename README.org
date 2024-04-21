@@ -11,6 +11,29 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2024
 
++ 21-abr-24: #MULCIA: PhD position in neuro-symbolic AI for mathematical
+  discovery at Chalmers. https://tinyurl.com/f9ncunew #PhD #CompSci #AI
+  #Math
+
++ 15-abr-24: #MULCIA: PhD position in formal verification of autonomous
+  systems at Chalmers University. https://tinyurl.com/4ezjzxwc #PhD
+  #CompSci
+
++ 13-abr-24: #MULCIA: Three Post-doc positions in RECIPROG project
+  (located in France -- Lyon, Nantes and
+  Paris). https://tinyurl.com/yckhzzcr #PostDoc #CompSci
+
++ 09-abr-24: #MULCIA: Postdoc in proof theory - University of
+  Birmingham, 2 years. https://tinyurl.com/2f5yddd7 #PostDoc #CompSci
+
++ 09-abr-24: #MULCIA: A PhD scholarship in Computer Science in Paris:
+  Model checking for malware (virus)
+  detection. https://tinyurl.com/ywfcbnhm #PhD #CompSci
+
++ 06-abr-24: #MULCIA: Faculty position in Formal Methods at DTU Compute,
+  Technical University of Denmark. https://tinyurl.com/bdedb5m #Job
+  #CompSci
+
 + 02-abr-24: #MULCIA: Fully funded PhD (Formal verification) position,
   University of Missouri, (Columbia, USA). https://tinyurl.com/yredjaa3
   #PhD #CompSci
