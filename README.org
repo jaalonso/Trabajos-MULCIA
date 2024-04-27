@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2024
 
++ 27-abr-24: #MULCIA: Postdoc position in theoretical computer science
+  at King's College London https://tinyurl.com/yuzshf6j #PostDoc
+  #CompSci
+
 + 21-abr-24: #MULCIA: PhD position in neuro-symbolic AI for mathematical
   discovery at Chalmers. https://tinyurl.com/f9ncunew #PhD #CompSci #AI
   #Math
