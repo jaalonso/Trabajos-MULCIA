@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2024
 
++ 29-abr-24: #MULCIA: Postdoc positions in automated reasoning at
+  Universidade Federal de Minas Gerais https://tinyurl.com/yeyjxbzk
+  #PostDoc #CompSci
+
 + 27-abr-24: #MULCIA: Postdoc position in theoretical computer science
   at King's College London https://tinyurl.com/yuzshf6j #PostDoc
   #CompSci
