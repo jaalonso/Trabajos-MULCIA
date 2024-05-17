@@ -9,6 +9,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2024
 
+*** Mayo 2024
+
++ 17-may-24: #MULCIA: Open position in Mathematical Logic at ILLC,
+  Amsterdam. https://tinyurl.com/42r54d95 #Job #Logic
+
 *** Abril 2024
 
 + 29-abr-24: #MULCIA: Postdoc positions in automated reasoning at
