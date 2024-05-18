@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2024
 
++ 18-may-24: #MULCIA: 1-year researcher position at Gothenburg
+  university to work on homotopy type theory and synthetic algebraic
+  geometry, with formalisations in (cubical)
+  Agda. https://tinyurl.com/2s3ktear #PostDoc #CompSci #ITP #Agda
+
 + 17-may-24: #MULCIA: Open position in Mathematical Logic at ILLC,
   Amsterdam. https://tinyurl.com/42r54d95 #Job #Logic
 
