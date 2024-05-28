@@ -11,6 +11,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2024
 
++ 28-may-24: #MULCIA: PhD/PostDoc position in Formal Methods at the
+  University of Konstanz. https://tinyurl.com/ycx9dmmn #PhD #PostDoc
+  #CompSci
+
++ 28-may-24: #MULCIA: PhD position in program verification at Radboud
+  University Nijmegen. https://tinyurl.com/yk3p3h4j #PhD #CompSci
+
++ 28-may-24: #MULCIA: Category theory / type theory / machine learning
+  research posts at Symbolica https://tinyurl.com/4vrkmh2v #PhD #PostDoc
+  #CompSci
+
 + 25-may-24: #MULCIA: PhD positions available on the intersection of
   formal proof in Coq, low-level code, mobile code, certified
   compilation, and separation logic at the University of
