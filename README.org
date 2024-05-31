@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2024
 
++ 31-may-24: #MULCIA: Looking for PostDoc in the Formally Verified
+  Security group at MPI-SP. https://tinyurl.com/5axbmrpz #PostDoc
+  #CompSci
+
 + 28-may-24: #MULCIA: PhD/PostDoc position in Formal Methods at the
   University of Konstanz. https://tinyurl.com/ycx9dmmn #PhD #PostDoc
   #CompSci
