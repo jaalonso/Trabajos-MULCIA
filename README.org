@@ -9,6 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2024
 
+*** Junio 2024
+
++ 04-jun-24: #MULCIA: Post-Doctoral Research Visit F/M Machine Learning
+  for translation between formal mathematics libraries (at Inria
+  Lyon). https://tinyurl.com/5mvmbf6y #PostDoc #CompSci
+
 *** Mayo 2024
 
 + 31-may-24: #MULCIA: Looking for PostDoc in the Formally Verified
