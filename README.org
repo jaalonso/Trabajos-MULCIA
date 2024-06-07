@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2024
 
++ 07-jun-24: #MULCIA: Postdoctoral Position, VERIFAI (Traceability and
+  Verification of natural-language requirements).
+  https://tinyurl.com/5n6d9z8n #PostDoc #CompSci
+
++ 07-jun-24: #MULCIA: PostDoc position on Knowledge-Based Diagnostic
+  Reasoning at VU Amsterdam with ASML. https://tinyurl.com/98vs7mpd
+  #PostDoc #CompSci
+
 + 04-jun-24: #MULCIA: Post-Doctoral Research Visit F/M Machine Learning
   for translation between formal mathematics libraries (at Inria
   Lyon). https://tinyurl.com/5mvmbf6y #PostDoc #CompSci
