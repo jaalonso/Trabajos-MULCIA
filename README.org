@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2024
 
++ 15-jun-24: #MULCIA: Post-Doctoral Research Visit F/M Machine Learning
+  for translation between formal mathematics libraries at ENS
+  Lyon. https://tinyurl.com/ycxma9nz  #PostDoc #CompSci
+
 + 07-jun-24: #MULCIA: Postdoctoral Position, VERIFAI (Traceability and
   Verification of natural-language requirements).
   https://tinyurl.com/5n6d9z8n #PostDoc #CompSci
