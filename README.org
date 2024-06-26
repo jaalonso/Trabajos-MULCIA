@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2024
 
++ 26-jun-24: #MULCIA: Postdoctoral position at the University of
+  Birmingham with the stated topic of semantics-direct compiler
+  construction. https://tinyurl.com/mr2r3fww #PostDoc #CompSci
+
 + 19-jun-24: #MULCIA: PhD-position in Logic and Complexity, Sheffield
   (UK). https://tinyurl.com/2swbawbu #PhD #Logic
 
