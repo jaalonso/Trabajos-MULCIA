@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2024
 
++ 05-jul-24: #MULCIA: PhD position on automated verification at ETH
+  Zurich. https://tinyurl.com/2s434kj3 #PhD #CompSci
+
 + 04-jul-24: #MULCIA: Positions for Postdoctoral Researchers in ICT
   (Helsinki, Finland). https://tinyurl.com/9ztrz8b9 #PostDoc #CompSci
 
