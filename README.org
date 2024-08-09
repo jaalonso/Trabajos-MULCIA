@@ -9,6 +9,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2024
 
+*** Agosto 2024
+
++ 09-ago-24: #MULCIA: PostDoc on Lean + Compilers at the University of
+  Cambridge https://tinyurl.com/mr3r773h #PostDoc #CompSci #LeanProver
+
++ 09-ago-24: #MULCIA: Postdoc Position in AI for Mathematics at Meta
+  FAIR. https://tinyurl.com/55mzvm86 #PostDoc #CompSci #AI
+
 *** Julio 2024
 
 + 13-jul-24: #MULCIA: PhD opportunity: Coq formalisation of
