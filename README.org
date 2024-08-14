@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2024
 
++ 14-ago-24: #MULCIA: Research Assistant/Research Associate in Systems
+  Software Verification. https://www.jobs.cam.ac.uk/job/47870/ #PostDoc
+  #CompSci
+
++ 14-ago-24: #MULCIA: Research Associate/ Senior Research Associate in
+  Systems Software Verification. https://www.jobs.cam.ac.uk/job/47858/
+  #PostDoc #CompSci
+
 + 09-ago-24: #MULCIA: PostDoc on Lean + Compilers at the University of
   Cambridge https://tinyurl.com/mr3r773h #PostDoc #CompSci #LeanProver
 
