@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2024
 
++ 22-ago-24: #MULCIA: 3-years postdoc on Type theory for mathematics and
+  computer science at Gothenburg
+  University. https://tinyurl.com/5fup24c2 #PostDoc #CompSci
+
 + 14-ago-24: #MULCIA: Research Assistant/Research Associate in Systems
   Software Verification. https://www.jobs.cam.ac.uk/job/47870/ #PostDoc
   #CompSci
