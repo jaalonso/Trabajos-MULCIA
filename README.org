@@ -11,6 +11,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2024
 
++ 25-ago-24: #MULCIA: 4y PhD in Logic - the Computational Data Analytics
+  group of Johannes Fürnkranz, JKU Linz
+  (Austria). https://tinyurl.com/33fcnajr #PhD #CompSci
+
++ 25-ago-24: #MULCIA: funded PhD Studentship in Proof-theoretic
+  Semantics, UCL (Londen, UK). https://tinyurl.com/mp764tsk #PhD
+  #CompSci
+
++ 25-ago-24: #MULCIA: 4y PhD/Postdoc Project TAIGER: Training and
+  Guiding AI Agents with Ethical Rules, TU Wien
+  (Austria). https://tinyurl.com/4r84jcpd #PhD #PostDoc #CompSci
+
 + 23-ago-24: #MULCIA: The University of Innsbruck invites applications
   for a 4 year PhD position in the Computational Logic research
   group. https://tinyurl.com/d8ekw6zd #PhD #CompSci
