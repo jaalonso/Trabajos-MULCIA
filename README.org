@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2024
 
++ 30-ago-24: #MULCIA: Looking for PostDoc in the Formally Verified
+  Security group at MPI-SP. https://tinyurl.com/4e8bbhs3 #PostDoc
+  #CompSci
+
++ 28-ago-24: #MULCIA: Lean FRO: Senior Software Engineering
+  Manager. https://tinyurl.com/2sc5u46f #Jobs #LeanProver
+
 + 28-ago-24: #MULCIA: 2 year postdoc in the Compositionality group at
   the Tallinn University of Technology. The position would suit a
   theoretically minded computer scientist interested in applications of
