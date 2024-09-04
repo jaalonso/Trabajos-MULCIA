@@ -9,6 +9,24 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2024
 
+*** Septiembre 2024
+
++ 04-sep-24: #MULCIA: Postdoc position to work on the type-theoretic
+  verification of probabilistic programs at University of Kent.
+  https://tinyurl.com/5xcm8hr8 #PostDoc #CompSci
+
++ 04-sep-24: #MULCIA: 4 Senior RA Posts in Security at
+  Lancaster. https://tinyurl.com/2s4br3za #PostDoc #CompSci
+
++ 04-sep-24: #MULCIA: Computer Science Faculty positions at
+  Oxford. https://tinyurl.com/2v7a5k7u #Job #CompSci
+
++ 04-sep-24: #MULCIA: PhD position 3.5y in Logic and Complexity,
+  Sheffield (UK). https://tinyurl.com/4ctnu8x4 #PhD #CompSci
+
++ 04-sep-24: #MULCIA: Postdoc job openings in Topos Oxford,
+  UK. https://tinyurl.com/4d77fcxt #PostDoc #CompSci
+
 *** Agosto 2024
 
 + 31-ago-24: #MULCIA: Postdoc job openings in Topos Oxford,
