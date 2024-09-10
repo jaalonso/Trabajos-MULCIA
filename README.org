@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2024
 
++ 10-sep-24: #MULCIA: Postdoc position at the University of Alberta,
+  which focuses on the formalization of arithmetic geometry and
+  anabelian geometry, using the Lean4 proof
+  assistant. https://tinyurl.com/5y7whzzh #PostDoc #ITP #Lean4
+
 + 04-sep-24: #MULCIA: Postdoc position to work on the type-theoretic
   verification of probabilistic programs at University of Kent.
   https://tinyurl.com/5xcm8hr8 #PostDoc #CompSci
