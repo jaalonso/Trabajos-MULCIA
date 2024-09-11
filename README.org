@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2024
 
++ 11-sep-24: #MULCIA: Postdoc position: Principled approaches to
+  handling imperfect data at LaBRI,
+  Bordeaux. https://tinyurl.com/bdcmpcpa #PostDoc #CompSci
+
 + 10-sep-24: #MULCIA: Postdoc position at the University of Alberta,
   which focuses on the formalization of arithmetic geometry and
   anabelian geometry, using the Lean4 proof
