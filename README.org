@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre 2024
 
++ 10-oct-24: #MULCIA: Postdoc on higher category theory in Gothenburg,
+  Sweden https://tinyurl.com/ysszw3cs  #PostDoc #CompSci
+
 + 09-oct-24: #MULCIA: Assistant Professor (Tenure Track) of Theoretical
   Computer Science https://tinyurl.com/yqgc52wo #Job #CompSci
 
