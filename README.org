@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre 2024
 
++ 13-oct-24: #MULCIA: Professorship for "Verification of Complex
+  Systems" at the University of
+  Duisburg-Essen. https://tinyurl.com/29jphr2h #Jobs #CompSci
+
++ 13-oct-24: #MULCIA: PhD position on multimodal Agda at KU Leuven,
+  Belgium. https://tinyurl.com/2aqw8m2g #PhD #CompSci
+
 + 10-oct-24: #MULCIA: Postdoc on higher category theory in Gothenburg,
   Sweden https://tinyurl.com/ysszw3cs  #PostDoc #CompSci
 
