@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre 2024
 
++ 17-oct-24: #MULCIA: ~2 year postdoc to work on logic, machine
+  learning, and KR at the University of Oxford (Andrew
+  Cropper). https://tinyurl.com/2ab88w2d #PostDoc #CompSci
+
 + 13-oct-24: #MULCIA: Professorship for "Verification of Complex
   Systems" at the University of
   Duisburg-Essen. https://tinyurl.com/29jphr2h #Jobs #CompSci
