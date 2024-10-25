@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre 2024
 
++ 25-oct-24: #MULCIA: Postdoctoral Fellow in "Type theory for
+  mathematics and computer science" at Stockholm
+  Univ. https://tinyurl.com/26epvz7f #PostDoc #Math #CompSci
+
 + 20-oct-24: #MULCIA: Postdoctoral position in the scientific project
   "Between proof theory, reverse mathematics, and the model theory of
   arithmetic" at the University of Warsaw. https://is.gd/GiDZed #PostDoc
