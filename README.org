@@ -9,6 +9,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2024
 
+*** Noviembre 2024
+
++ 01-nov-24: #MULCIA: PhD position in Computing Science focusing on
+  automated verification and debugging of numerical programs. Uppsala
+  University. https://tinyurl.com/25uu2uvk #PhD #CompSci
+
++ 01-nov-24: #MULCIA: Postdoctoral position in automated verification
+  and debugging of numerical programs. Uppsala
+  University. https://tinyurl.com/25h39jfg  #PostDoc #CompSci
+
 *** Octubre 2024
 
 + 25-oct-24: #MULCIA: Assistant Professor (Tenure Track) of Theoretical
