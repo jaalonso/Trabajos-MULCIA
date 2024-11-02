@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2024
 
++ 02-nov-24: #MULCIA: Harmonic is looking for part-time remote Lean
+  expert. https://tinyurl.com/224zo9e5 #Jobs #ITP #Lean4
+
 + 01-nov-24: #MULCIA: PhD position in Computing Science focusing on
   automated verification and debugging of numerical programs. Uppsala
   University. https://tinyurl.com/25uu2uvk #PhD #CompSci
