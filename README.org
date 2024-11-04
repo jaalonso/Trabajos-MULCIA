@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2024
 
++ 04-nov-24: #MULCIA: Fully-funded PhD scholarship in parallel
+  programming and dependent-types at the University of St
+  Andrews. https://tinyurl.com/28odmrb3 #PhD #CompSci
+
++ 04-nov-24: #MULCIA: Postdoc position at LaBRI, Bordeaux on topics
+  related to KR & databases  https://is.gd/QyTPvL  #PostDoc #CompSci
+
 + 02-nov-24: #MULCIA: Harmonic is looking for part-time remote Lean
   expert. https://tinyurl.com/224zo9e5 #Jobs #ITP #Lean4
 
