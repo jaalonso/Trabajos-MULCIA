@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2024
 
++ 13-nov-24: #MULCIA: PhD position in Logic and AI within the BILAI
+  project “AI Alignment and Dialogues.”, Vienna
+  (Austria). https://tinyurl.com/2bna9l2x #PostDoc #CompSci
+
 + 06-nov-24: #MULCIA: Funded PhD Positions at the Boston University
   Programming Languages and Verification
   group. https://tinyurl.com/2bh68n38 #PostDoc #CompSci
