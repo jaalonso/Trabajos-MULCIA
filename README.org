@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2024
 
++ 14-nov-24: #MULCIA: Microsoft internship on verification / crypto with
+  Lean. https://tinyurl.com/28unuv8a #Jobs #CompSci #LeanProver
+
++ 14-nov-24: #MULCIA: PhD position on LLMs + Lean at the ATOMS
+  Lab. https://tinyurl.com/235omrvs #PhD #CompSci #AI #LLMs #LeanProver
+
 + 13-nov-24: #MULCIA: PhD position in Logic and AI within the BILAI
   project “AI Alignment and Dialogues.”, Vienna
   (Austria). https://tinyurl.com/2bna9l2x #PostDoc #CompSci
