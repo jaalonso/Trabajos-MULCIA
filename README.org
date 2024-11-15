@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2024
 
++ 15-nov-24: #MULCIA: PhD and postdoc positions in type theory (start:
+  Oct 2025; location: Nottingham, UK). https://tinyurl.com/2azssgw8 #PhD
+  #PostDoc #CompSci
+
 + 14-nov-24: #MULCIA: Microsoft internship on verification / crypto with
   Lean. https://tinyurl.com/28unuv8a #Jobs #CompSci #LeanProver
 
