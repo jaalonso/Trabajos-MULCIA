@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2024
 
++ 16-nov-24: #MULCIA: Postdoc and PhD student positions at Center for
+  Basic Research in Program Verification, in the Logic and Semantics
+  Group at Aarhus University, Denmark. https://tinyurl.com/2bsenbps #PhD
+  #PostDoc #CompSci
+
 + 15-nov-24: #MULCIA: PhD and postdoc positions in type theory (start:
   Oct 2025; location: Nottingham, UK). https://tinyurl.com/2azssgw8 #PhD
   #PostDoc #CompSci
