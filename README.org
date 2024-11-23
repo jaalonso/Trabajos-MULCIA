@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2024
 
++ 23-nov-24: #MULCIA: Project Numina is hiring Lean 4 contributors to
+  work on formalizing competitive math problems and
+  proofs. https://is.gd/M7H3gG #Jobs #Lean4 #Math
+
 + 22-nov-24: #MULCIA: PhD studentship opportunity: Proof-theoretic
   semantics for non-classical and modal logics (Leverhulme ECUMENICAL
   project). https://tinyurl.com/2dl2z6yf #PhD #Logic
