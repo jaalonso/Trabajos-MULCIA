@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2024
 
++ 29-nov-24: #MULCIA: PostDoc position in certifying algorithms (proof
+  logging) for combinatorial optimization, Leuven
+  (Belgium). https://tinyurl.com/2bh8muxk #PostDoc #CompSci
+
 + 27-nov-24: #MULCIA: Tenure-track assistant professorship in
   foundations of computer science with a focus on logic and automated
   reasoning at Lund University. https://tinyurl.com/27kb4x4u #Job
