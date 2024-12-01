@@ -9,6 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2024
 
+*** Diciembre 2024
+
++ 01-dic-24: #MULCIA: Strathclyde Chancellor’s Fellow in Mathematically
+  Structured Programming. University of
+  Strathclyde. https://tinyurl.com/23mcsd7n #Jobs #CompSci
+
 *** Noviembre 2024
 
 + 29-nov-24: #MULCIA: PostDoc position in certifying algorithms (proof
