@@ -15,6 +15,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
   Structured Programming. University of
   Strathclyde. https://tinyurl.com/23mcsd7n #Jobs #CompSci
 
++ 01-dic-24: #MULCIA: PhD position in theoretical computer science
+  and/or combinatorial optimization at Lund
+  University. https://tinyurl.com/27fxwk8q #PhD #CompSci
+
 *** Noviembre 2024
 
 + 29-nov-24: #MULCIA: PostDoc position in certifying algorithms (proof
