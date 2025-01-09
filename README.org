@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2025
 
++ 09-ene-25: #MULCIA: PostDoc in formal verification of learning-enabled
+  systems. https://tinyurl.com/28u4wcnv #PostDoc #CompSci
+
 + 04-ene-25: #MULCIA: 3-year postdoctoral positions in algebraic logic
   and proof theory at ICS CAS, Prague
   (Czechia). https://tinyurl.com/23aytbmx #PostDoc #Logic
