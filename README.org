@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2025
 
++ 12-ene-25: #MULCIA: Postdoc & senior researcher positions in
+  Tokyo. https://tinyurl.com/23shdqh4 #PostDoc #CompSci
+
 + 09-ene-25: #MULCIA: PostDoc in formal verification of learning-enabled
   systems. https://tinyurl.com/28u4wcnv #PostDoc #CompSci
 
