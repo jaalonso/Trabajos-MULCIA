@@ -11,12 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2025
 
++ 17-ene-25: #MULCIA: PhD position in knowledge representation and
+  reasoning, University of Luxembourg. https://tinyurl.com/23a6k25e #PhD
+  #CompSci
+
 + 16-ene-25: #MULCIA: Fully-funded PhD position in static analysis at
   Inria Lille, France. https://tinyurl.com/22lk38zk #PhD #CompSci
 
 + 16-ene-25: #MULCIA: Postdoctoral Research Fellow. University of
   Surrey. https://tinyurl.com/2842hrr7  #PostDoc #CompSci
-
 
 + 15-ene-25: #MULCIA: Proof Engineer at
   Cryspen. https://tinyurl.com/2ycbabfx #Jobs #CompSci
