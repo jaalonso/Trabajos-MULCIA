@@ -11,6 +11,24 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2025
 
++ 30-ene-25: #MULCIA: Postdoc positions in type theory (location:
+  Budapest, Hungary). https://is.gd/f4iJcZ #PostDoc #CompSci
+
++ 30-ene-25: #MULCIA: Faculty position at the Université libre de
+  Bruxelles (ULB). https://is.gd/OkCqxr #Jobs #CompSci
+
++ 30-ene-25: #MULCIA: Postdoc position at Tufts University on a new
+  project in formal verification of systems that monitor and recover
+  from faults. https://is.gd/XOzdcx #PostDoc #CompSci
+
++ 30-ene-25: #MULCIA: Two fully-funded PhD positions in France on formal
+  verification of probabilistic programs and differential
+  privacy. https://is.gd/LbmmkO #PhD #CompSci
+
++ 30-ene-25: #MULCIA: A PhD position in advancing explainable AI for
+  knowledge extraction in Amsterdam. https://is.gd/o0Z5l1 #PhD #CompSci
+  #AI
+
 + 24-ene-25: #MULCIA: Two PhD positions in declarative problem solving
   at the KU Leuven University. https://tinyurl.com/26kyhfna #PhD
   #CompSci
