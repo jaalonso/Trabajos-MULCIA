@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero 2025
 
++ 31-ene-25: #MULCIA: PhD/PostDoc positions in formal methods at the
+  University of Konstanz (Germany). https://is.gd/BVYKdw #PhD #PostDoc
+  #CompSci
+
 + 30-ene-25: #MULCIA: Postdoc positions in type theory (location:
   Budapest, Hungary). https://is.gd/f4iJcZ #PostDoc #CompSci
 
