@@ -9,6 +9,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2025
 
+*** Febrero 2025
+
++ 05-feb-25: #MULCIA: PhD Position: Verification of Golang using
+  interactive theorem proving. https://is.gd/RU3cr9 #PhD #CompSci #ITP
+
 *** Enero 2025
 
 + 31-ene-25: #MULCIA: PhD/PostDoc positions in formal methods at the
