@@ -11,6 +11,25 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2025
 
++ 06-feb-25: #MULCIA: 3 Postdocs in algebraic logic, Denver
+  (USA). https://is.gd/MWeMxp #PostDoc #Logic
+
++ 06-feb-25: #MULCIA: Postdoctoral position in Logical analysis of
+  language and communication, Prague (Czech
+  Republic). https://is.gd/hzhaXY #PostDoc #Logic #CompSci
+
++ 06-feb-25: #MULCIA: Postdoctoral position within DEZINFO project at
+  the interface of humanities, social sciences and computer science that
+  aims to study aspects of disinformation, Prague (Czech
+  Republic). https://is.gd/Prnym6 #PostDoc #CompSci
+
++ 06-feb-25: #MULCIA: Postdoctoral position in logical aspects of
+  rationality and knowledge, Prague (Czech
+  Republic). https://is.gd/6V7UI2  #PostDoc #Logic #CompSci
+
++ 06-feb-25: #MULCIA: PhD position in set theory, Vienna
+  (Austria). https://is.gd/WCOy4T #PhD #Logic #Math
+
 + 05-feb-25: #MULCIA: PhD Position: Verification of Golang using
   interactive theorem proving. https://is.gd/RU3cr9 #PhD #CompSci #ITP
 
