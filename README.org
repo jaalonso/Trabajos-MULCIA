@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2025
 
++ 17-feb-25: #MULCIA: Post-doctoral fellow in formal verification of
+  multi-agent systems. https://tinyurl.com/22ssea82 #PostDoc #CompSci
+
 + 14-feb-25: #MULCIA: PostDoc position "Industrial problem solving using
   symbolic and subsymbolic AI" at the Johannes Kepler University (JKU)
   Linz, Austria. https://tinyurl.com/2a25bnlk #PostDoc #CompSci
