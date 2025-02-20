@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2025
 
++ 20-feb-25: #MULCIA: Post-doctoral fellow in formal verification of
+  multi-agent systems. https://tinyurl.com/22ssea82 #PostDoc #CompSci
+
 + 17-feb-25: #MULCIA: Post-doctoral fellow in formal verification of
   multi-agent systems. https://tinyurl.com/22ssea82 #PostDoc #CompSci
 
