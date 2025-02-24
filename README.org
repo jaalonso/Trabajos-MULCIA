@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2025
 
++ 24-feb-25: #MULCIA: Assistant professor in mathematics with focus on
+  mathematical logic at Stockholm University.
+  https://tinyurl.com/27qnzgq8 #Job #Logic #Math
+
 + 20-feb-25: #MULCIA: Post-doctoral fellow in formal verification of
   multi-agent systems. https://tinyurl.com/22ssea82 #PostDoc #CompSci
 
