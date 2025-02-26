@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2025
 
++ 26-feb-25: #MULCIA: Postdoc position at LMU Munich related to the use
+  or development of automatic or interactive theorem
+  provers. https://tinyurl.com/2dc4cmuv #PostDoc #CompSci #ITP
+
 + 24-feb-25: #MULCIA: Assistant professor in mathematics with focus on
   mathematical logic at Stockholm University.
   https://tinyurl.com/27qnzgq8 #Job #Logic #Math
