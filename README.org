@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 20025
 
++ 12-mar-25: #MULCIA: PhD position in theoretical computer science,
+  Universitat Pompeu Fabra (Spain). https://tinyurl.com/2bq6ueod #PhD
+  #CompSci
+
++ 09-mar-25: #MULCIA: PhD position in number theory and formalization at
+  Vrije Universiteit Amsterdam. https://tinyurl.com/2djc3b7r #PhD
+  #CompSci #ITP #LeanProver
+
 + 04-mar-25: #MULCIA: Postdoc position in theoretical computer science,
   King’s College London (UK). https://tinyurl.com/2avccjrd #PostDoc
   #CompSci
