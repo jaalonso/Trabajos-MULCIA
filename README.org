@@ -11,6 +11,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 20025
 
++ 14-mar-25: #MULCIA: PhD student in computing science focusing on
+  practically usable verification for numerical programs at Uppsala
+  University. https://tinyurl.com/25266uay #PhD #CompSci
+
++ 14-mar-25: #MULCIA: Postdoctoral position in practically usable
+  verification for numerical programs at Uppsala
+  University. https://tinyurl.com/2ynrmk7o #PostDoc #CompSci
+
++ 14-mar-25: #MULCIA: Post-doctoral fellow in formal verification of
+  multi-agent systems. https://tinyurl.com/22ssea82 #PostDoc #CompSci
+
 + 12-mar-25: #MULCIA: PhD position in theoretical computer science,
   Universitat Pompeu Fabra (Spain). https://tinyurl.com/2bq6ueod #PhD
   #CompSci
