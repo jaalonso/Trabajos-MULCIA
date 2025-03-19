@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 20025
 
++ 19-mar-25: #MULCIA: PhD funding in logic at UCL.
+  https://tinyurl.com/2397y9gf #PhD #Logic
+
++ 15-mar-25: #MULCIA: Convocatoria Profesorado Sustituto en el
+  Departamento de Ciencias de la Computación e IA de la Universidad de
+  Sevilla (Plaza PSI-2025-0030). https://tinyurl.com/2yfqytyj #Jobs
+  #CompSci
+
 + 14-mar-25: #MULCIA: PhD student in computing science focusing on
   practically usable verification for numerical programs at Uppsala
   University. https://tinyurl.com/25266uay #PhD #CompSci
