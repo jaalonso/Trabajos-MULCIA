@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 20025
 
++ 20-mar-25: #MULCIA: 2-3 PhD/Postdoc positions in mathematical logic,
+  Würzburg (Germany). https://tinyurl.com/27783c2l #PhD #Logic #Math
+
 + 19-mar-25: #MULCIA: PhD funding in logic at UCL.
   https://tinyurl.com/2397y9gf #PhD #Logic
 
