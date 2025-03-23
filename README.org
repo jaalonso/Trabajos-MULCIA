@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 20025
 
++ 23-mar-25: #MULCIA: PhD student position in knowledge representation
+  and reasoning at TU Graz. https://tinyurl.com/22f4ed5a #PhD #CompSci
+
 + 20-mar-25: #MULCIA: 2-3 PhD/Postdoc positions in mathematical logic,
   Würzburg (Germany). https://tinyurl.com/27783c2l #PhD #Logic #Math
 
