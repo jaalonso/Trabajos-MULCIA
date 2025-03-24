@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 20025
 
++ 24-mar-25: #MULCIA: PhD studentship at Imperial on automated testing
+  and verification of machine learning compilers and
+  runtimes. https://tinyurl.com/2dqr3q5r #PhD #CompSci
+
 + 23-mar-25: #MULCIA: PhD student position in knowledge representation
   and reasoning at TU Graz. https://tinyurl.com/22f4ed5a #PhD #CompSci
 
