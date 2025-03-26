@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 20025
 
++ 26-mar-25: #MULCIA: 10 funded PhD positions in Automated Reasoning at
+  TU Wien. https://tinyurl.com/25xb5u39 #PhD #CompSci
+
++ 26-mar-25: #MULCIA: Position in formal verification of AI at
+  Glasgow. https://tinyurl.com/29mzrjjd #PostDoc #CompSci
+
 + 26-mar-25: #MULCIA: Full time postdoctoral position in foundations of
   mathematics, ICS CAS Prague.  https://tinyurl.com/2ahzjg5a #PostDoc
   #Logic #Math
