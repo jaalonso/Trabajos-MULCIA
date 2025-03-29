@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 20025
 
++ 29-mar-25: #MULCIA: Professor in logic and verification in Computer
+  Science at the Technical University of Munich
+  (TUM). https://tinyurl.com/23m8e3nm #Jobs #CompSci
+
 + 26-mar-25: #MULCIA: 10 funded PhD positions in Automated Reasoning at
   TU Wien. https://tinyurl.com/25xb5u39 #PhD #CompSci
 
