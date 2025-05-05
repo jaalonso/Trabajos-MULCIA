@@ -9,7 +9,46 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2025
 
-*** Marzo 20025
+*** Mayo 2025
+
++ 05-may-25: #MULCIA: Postdoc position on the use or development of
+  automatic or interactive theorem provers at
+  Ludwig-Maximilians-Universität (LMU) München,
+  Germany. https://tinyurl.com/2yjdc567 #PostDoc #CompSci #ITP
+
++ 05-may-25: #MULCIA: PhD position: Machine learning trustability:
+  Learning and verification of soft automata, Inria center of Rennes,
+  France. https://tinyurl.com/25bssbsg #PhD #CompSci
+
++ 05-may-25: #MULCIA: Associate or Full Professor position in Logic and
+  Verification in Computer Science at Technical University of Munich,
+  Germany https://tinyurl.com/29uk2fc7 #Jobs #CompSci
+
++ 05-may-25: #MULCIA: 10 Funded Positions for Doctoral Students in the
+  Newly Established Doctoral College on Automated Reasoning, TU Wien,
+  Austria. https://tinyurl.com/28fr46dm #PhD #CompSci
+
++ 05-may-25: #MULCIA: PhD in Amsterdam on Reasoning for Knowledge
+  Representation, Amsterdam, The
+  Netherlands. https://tinyurl.com/27q2pskj #PhD #CompSci
+
+*** Abril 2025
+
++ 30-abr-25: #MULCIA: PhD Position on computational logic in
+  Amsterdam. https://tinyurl.com/23rv9g45 #PhD #CompSci #Logic
+
++ 29-abr-25: #MULCIA: PostDoc position in Formal Analysis of AI-based
+  Systems, Chalmers University of Technology
+  (Sweden). https://tinyurl.com/2yntfutx #PostDoc #CompSci #AI
+
++ 12-abr-25: #MULCIA: 10 funded PhD positions on Automated Reasoning in
+  Vienna, Austria. https://is.gd/8jWz4P #PhD #CompSci
+
++ 11-abr-25: #MULCIA: PhD position in knowledge representation and
+  reasoning, University of Luxembourg. https://tinyurl.com/23a6k25e #PhD
+  #CompSci
+
+*** Marzo 2025
 
 + 29-mar-25: #MULCIA: Professor in logic and verification in Computer
   Science at the Technical University of Munich
