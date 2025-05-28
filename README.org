@@ -11,6 +11,30 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2025
 
++ 28-may-25: #MULCIA: 2-year postdoc in Type theory and programming
+  languages at Univ. of Gothenburg. https://tinyurl.com/2yctz8bw
+  #PostDoc #CompSci
+
++ 28-may-25: #MULCIA: Postdoc Position in Mathematical Logic (2 years),
+  Darmstadt (Germany). https://tinyurl.com/2bg94232 #PostDoc #Logic
+  #Math
+
++ 28-may-25: #MULCIA: Postdoc in Theoretical Computer Science (HOMBRe
+  (Higher-Order Monad-based Programming and Reasoning) Project),
+  University of Birmingham (UK). https://tinyurl.com/25krvhpz #PostDoc
+  #CompSci
+
++ 22-may-25: #MULCIA: Postdoctoral Research Position in Theoretical
+  Computer Science at  the University of Birmingham,
+  UK. https://tinyurl.com/ynrz7tdr #PostDoc #CompSci
+
++ 14-may-25: #MULCIA: Fully-funded PhD in explainable reasoning &
+  argumentative AI, CRIL – Université d'Artois
+  (France). https://tinyurl.com/23ttkywd #PhD #CompSci
+
++ 07-may-25: #MULCIA: 2 PhD-position in proof-theoretic semantics, UCL -
+  London (UK). https://tinyurl.com/2yyrx8ce #PhD #CompSci
+
 + 05-may-25: #MULCIA: Postdoc position on the use or development of
   automatic or interactive theorem provers at
   Ludwig-Maximilians-Universität (LMU) München,
