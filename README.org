@@ -9,7 +9,25 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2025
 
+*** Junio 2025
+
++ 12-jun-25: #MULCIA: PhD position in logics for multi-agent systems,
+  Utrecht University (Netherlands). https://tinyurl.com/27o2u2ht #PhD
+  #CompSci
+
++ 12-jun-25: #MULCIA: PhD student in Computing Science focusing on the
+  topic of parametric floating-point
+  reasoning. https://tinyurl.com/2453wpqg #PhD #CompSci
+
++ 10-jun-25: #MULCIA: PhD position in logics for multi-agent systems,
+  Utrecht (The Netherlands). https://tinyurl.com/27o2u2ht #PhD #CompSci
+  #AI
+
 *** Mayo 2025
+
++ 29-may-25: #MULCIA: 2-year postdoc in type theory and programming
+  languages at Univ. of Gothenburg. https://tinyurl.com/2yctz8bw
+  #PostDoc #CompSci
 
 + 28-may-25: #MULCIA: 2-year postdoc in Type theory and programming
   languages at Univ. of Gothenburg. https://tinyurl.com/2yctz8bw
