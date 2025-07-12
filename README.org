@@ -9,6 +9,23 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2025
 
+*** Julio 2025
+
++ 12-jul-25: #MULCIA: PhD positions in formal methods and planning,
+  Gothenburg (Sweden) https://tinyurl.com/ywa5vee6 #PhD #CompSci
+
++ 12-jul-25: #MULCIA: 2 Postdoc Positions in Homotopy Type Theory,
+  University of Nottingham (UK). https://tinyurl.com/ysld3f5r #PostDoc
+  #CompSci
+
++ 12-jul-25: #MULCIA: Doctoral/Postdoctoral Position in Formal Methods
+  and Verification, Konstanz (Germany). https://tinyurl.com/ysyqy3g5
+  #PhD #PostDoc #CompSci
+
++ 08-jul-25: #MULCIA: Two postdoctoral positions in homotopy type theory
+  at the University of Nottingham, UK. https://tinyurl.com/ysld3f5r
+  #PostDoc #CompSci
+
 *** Junio 2025
 
 + 12-jun-25: #MULCIA: PhD position in logics for multi-agent systems,
