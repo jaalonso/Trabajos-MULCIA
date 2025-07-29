@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2025
 
++ 29-jul-25: #MULCIA: Research associate in formalization of mathematics
+  at ICL. https://tinyurl.com/22cmbns5 #PhD #PostDoc #CompSci #Math
+
 + 21-jul-25: #MULCIA: Postdoc in AI (including logic), University of
   Bergen (Norway). https://tinyurl.com/2237r8xo #PostDoc #CompSci #AI
 
