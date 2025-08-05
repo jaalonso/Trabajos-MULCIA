@@ -9,6 +9,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2025
 
+*** Agosto 2025
+
++ 05-ago-25: #MULCIA: Haskell software engineer for remote position at
+  IOG (Input Output Global). https://tinyurl.com/23x85sha #Jobs #Haskell
+  #FunctionalProgramming
+
++ 03-ago-25: #MULCIA: Post-doc position at ETH Zurich in formal
+  semantics and verification (with a focus on
+  Rust). https://tinyurl.com/2be5jpzb #PostDoc #CompSci
+
 *** Julio 2025
 
 + 29-jul-25: #MULCIA: Research associate in formalization of mathematics
