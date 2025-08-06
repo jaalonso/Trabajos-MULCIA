@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2025
 
++ 06-ago-25: #MULCIA: Postdoc position to formalize machine learning
+  algorithms in Lean.  https://tinyurl.com/29sqjjx2 #PostDoc #AI
+  #LeanProver
+
 + 05-ago-25: #MULCIA: Haskell software engineer for remote position at
   IOG (Input Output Global). https://tinyurl.com/23x85sha #Jobs #Haskell
   #FunctionalProgramming
