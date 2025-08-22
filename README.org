@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2025
 
++ 22-ago-25: #MULCIA: Postdoctoral position in logical methods and
+  machine learning at the University of
+  Cambridge. https://tinyurl.com/23a6khql #PostDoc #CompSci
+
 + 06-ago-25: #MULCIA: Postdoc position to formalize machine learning
   algorithms in Lean.  https://tinyurl.com/29sqjjx2 #PostDoc #AI
   #LeanProver
