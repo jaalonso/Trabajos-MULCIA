@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2025
 
++ 30-ago-25: #MULCIA: Curriculum Development Teaching Fellow
+  Formalisation at Imperial College. https://tinyurl.com/2bgdvxvy #Job
+  #Math #CompSci
+
 + 26-ago-25: #MULCIA: Postdoc positions on foundations of type classes
   and type families at the University of Iowa.
   https://tinyurl.com/2a4f4u8w #PostDoc #CompSci
