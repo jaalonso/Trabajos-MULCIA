@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2025
 
++ 05-sep-25: #MULCIA: PhD position in the Semantics of Homotopy Type
+  Theory at the University of Amsterdam. https://tinyurl.com/2acxzrzz
+  #PhD #Logic #CompSci
+
++ 05-sep-25: #MULCIA: Postdoc positions on foundations of type classes
+  and type families at the University of
+  Iowa. https://tinyurl.com/233wddkj #PostDoc #CompSci
+
 + 03-sep-25: #MULCIA: Post-Doctoral Research Visit F/M Formal proofs for
   Machine Learning. Inria centre at the University of
   Lille. https://tinyurl.com/29sqjjx2 #PostDoc #CompSci #ITP #LeanProver
