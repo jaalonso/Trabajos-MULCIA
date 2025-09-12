@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2025
 
++ 12-sep-25: #MULCIA: Postdoctoral position in AI (in the area of
+  cognitive robotics and knowledge representation and reasoning or
+  neuro-symbolic AI) at the University of New South Wales (UNSW),
+  Sydney, Australia. https://tinyurl.com/2yqp9j34 #PostDoc #AI
+
 + 05-sep-25: #MULCIA: PhD position in the Semantics of Homotopy Type
   Theory at the University of Amsterdam. https://tinyurl.com/2acxzrzz
   #PhD #Logic #CompSci
