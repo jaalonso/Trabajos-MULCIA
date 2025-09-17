@@ -11,6 +11,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2025
 
++ 17-sep-25: #MULCIA: PhD scholarship in Logic and AI – DTU Compute,
+  Lyngby (Denmark). https://tinyurl.com/yt2hhu3m #PhD #Logic #AI
+
++ 17-sep-25: #MULCIA: 3-year postdoctoral positions in algebraic logic
+  and proof theory at ICS CAS, Prague
+  (Czechia). https://tinyurl.com/23aytbmx #PostDoc #Logic #Math
+
 + 12-sep-25: #MULCIA: Postdoctoral position in AI (in the area of
   cognitive robotics and knowledge representation and reasoning or
   neuro-symbolic AI) at the University of New South Wales (UNSW),
