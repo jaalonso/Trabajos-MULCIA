@@ -9,6 +9,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2025
 
+*** Octubre 2025
+
++ 15-oct-25: #MULCIA: PhD positions in Mathematical Foundations of
+  Computation Group at Bath. https://tinyurl.com/287yg995 #PhD #CompSci
+
++ 08-oct-25: #MULCIA: Göteborgs universitet | Researcher in type theory
+  for mathematics and computer science. https://tinyurl.com/2bqmjl6e
+  #PostDoc #CompSci
+
 *** Septiembre 2025
 
 + 17-sep-25: #MULCIA: PhD scholarship in Logic and AI – DTU Compute,
