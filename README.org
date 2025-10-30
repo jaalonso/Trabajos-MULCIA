@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre 2025
 
++ 30-oct-25: #MULCIA: Postdoc and PhD positions in symbolic AI at TU
+  Wien. https://tinyurl.com/26ulorxb #PhD #PostDoc #CompSci #AI
+
 + 15-oct-25: #MULCIA: PhD positions in Mathematical Foundations of
   Computation Group at Bath. https://tinyurl.com/287yg995 #PhD #CompSci
 
