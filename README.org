@@ -9,6 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2025
 
+*** Noviembre 2025
+
++ 09-nov-25: #MULCIA: Postdoc Position in AI Theorem Proving (ProofBench
+  Project), TU Freiberg (Germany). https://tinyurl.com/29e3o7dh #PostDoc
+  #CompSci #AI
+
 *** Octubre 2025
 
 + 30-oct-25: #MULCIA: Postdoc and PhD positions in symbolic AI at TU
