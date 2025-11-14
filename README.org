@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2025
 
++ 14-nov-25: #MULCIA: 4 PhD positions in automated reasoning at TU Wien,
+  Austria. https://tinyurl.com/25xb5u39 #PhD #CompSci
+
 + 09-nov-25: #MULCIA: Postdoc Position in AI Theorem Proving (ProofBench
   Project), TU Freiberg (Germany). https://tinyurl.com/29e3o7dh #PostDoc
   #CompSci #AI
