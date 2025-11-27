@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre 2025
 
++ 27-nov-25: #MULCIA: PhD positions in automated and foundational
+  verification at the Institute of Science and Technology Austria
+  (ISTA). https://is.gd/VbhEov #PhD #CompSci
+
 + 14-nov-25: #MULCIA: Postdoc positions in formal methods and
   programming languages (The Centre for Formal Methods and Future
   Computing (FORM) at the Department of Mathematics and Computer
