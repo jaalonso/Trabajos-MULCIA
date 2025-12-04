@@ -9,6 +9,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2025
 
+*** Diciembre 2025
+
++ 04-dic-25: #MULCIA: PhD position in formal verification in Leiden,
+  Netherlands. https://is.gd/XZOnPO #PhD #CompSci
+
 *** Noviembre 2025
 
 + 27-nov-25: #MULCIA: PhD positions in automated and foundational
