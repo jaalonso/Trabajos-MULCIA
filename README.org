@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre 2025
 
++ 17-dic-25: #MULCIA: Two PhD positions in symbolic AI at TU
+  Wien. https://is.gd/danbNW #PhD #CompSci #AI
+
 + 04-dic-25: #MULCIA: PhD position in formal verification in Leiden,
   Netherlands. https://is.gd/XZOnPO #PhD #CompSci
 
