@@ -7,6 +7,13 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+** 2026
+
+*** Enero 2026
+
++ 19-ene-26: #MULCIA: Post-doc position at Inria Rennes on AI and formal
+  methods. https://is.gd/OKXP8D #PostDoc #CompSci #AI #FormalMethods
+
 ** 2025
 
 *** Diciembre 2025
