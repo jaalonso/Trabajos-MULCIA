@@ -9,6 +9,24 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2026
 
+*** Marzo 2026
+
++ 29-mar-26: #MULCIA: PhD/Postdoc positions in credible AI, Warsaw
+  University of Technology (Poland). https://is.gd/EIKiq0 #PhD #PostDoc
+  #CompSci #AI
+
++ 29-mar-26: #MULCIA: Postdoctoral Researcher in Safe AI (AI4KIDS
+  Project), University of Luxembourg. https://is.gd/OtD3yq #PostDoc
+  #CompSci #AI
+
++ 29-mar-26: #MULCIA: Open position: PostDoc to work on foundation
+  models for knowledge graphs at the University of
+  Stuttgart. https://is.gd/OQ8o7v #PostDoc #CompSci
+
++ 29-mar-26: #MULCIA: Postdoctoral position on semantics of programming
+  languages at University of Birmingham. https://is.gd/KGJTg9 #PostDoc
+  #CompSci
+
 *** Febrero 2026
 
 + 19-feb-26: #MULCIA: Postdoctoral position in proof automation and
