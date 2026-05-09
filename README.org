@@ -9,6 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2026
 
+*** Mayo 2026
+
++ 09-may-26: #MULCIA: PhD position in number theory and formalization at
+  the Vrije Universiteit Amsterdam. https://is.gd/ALjsq2 #PhD #PostDoc
+  #CompSci
+
 *** Marzo 2026
 
 + 29-mar-26: #MULCIA: PhD/Postdoc positions in credible AI, Warsaw
