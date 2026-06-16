@@ -9,6 +9,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2026
 
+*** Junio 2026
+
++ 16-jun-26: #MULCIA: PhD position in AI4Math at Chalmers. https://1pt.co/t8fd7 #PhD #AI4Math #CompSci
+
 *** Mayo 2026
 
 + 09-may-26: #MULCIA: PhD position in number theory and formalization at
